@@ -19,6 +19,6 @@ To get started with the project, simply click on the link provided to access the
 I hope you find this dashboard useful for gaining insights into our sales performance!
 Happy analyzing! 📈
 
-Author: Soni Hariom
-Contact: sonihariom555@gmail.com
-LinkedIn: https://www.linkedin.com/in/soni-hariom/
+**Author: **Soni Hariom
+**Contact:** sonihariom555@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/soni-hariom/
