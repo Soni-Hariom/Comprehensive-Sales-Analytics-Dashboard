@@ -13,12 +13,16 @@ Channel Performance: Evaluate the performance of different sales channels.
 Product Sales Analysis: Gain insights into the sales performance of individual products.
 ## Technologies Used
 **Power BI:** For building the interactive dashboard.
+
 **GitHub:** For version control and project management.
 Getting Started
 To get started with the project, simply click on the link provided to access the Sales Analytics Dashboard.
 I hope you find this dashboard useful for gaining insights into our sales performance!
+
 Happy analyzing! 📈
 
 **Author: **Soni Hariom
+
 **Contact:** sonihariom555@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/soni-hariom/
