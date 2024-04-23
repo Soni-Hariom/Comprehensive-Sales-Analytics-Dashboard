@@ -1,0 +1,1001 @@
+Order_Number,Order_Date,Customer_Name_Index,Channel_Name,Currency_Code,Warehouse_Code,Delivery_Region_Index,Product_Description_Index,Order_Quantity,Unit_Price_USD,Total_Revenue_USD,Total_Unit_Cost,Product_Name,City,Country,Customer_Name,Full_Name
+101,01-01-2013,15,Distributor,USD,NXH382,47,11,5,1963.10,9815.50,1001.18,"Product 11",Glasgow,UK,"Rochester Ltd",Glasgow-UK
+102,01-01-2013,20,Wholesale,USD,GUT930,36,2,5,3939.60,19698.00,3348.66,"Product 2",Krakow,Poland,"Pacific Ltd",Krakow-Poland
+103,01-01-2013,16,Export,USD,GUT930,39,11,10,1775.50,17755.00,781.22,"Product 11",Leeds,UK,"3LAB  Ltd",Leeds-UK
+104,01-01-2013,48,Export,USD,AXW291,20,7,6,2324.90,13949.40,1464.69,"Product 7",Dnepropetrovsk,Ukraine,"Fenwal  Corp",Dnepropetrovsk-Ukraine
+105,01-01-2013,49,Wholesale,USD,AXW291,20,7,6,1822.40,10934.40,1476.14,"Product 7",Dnepropetrovsk,Ukraine,"Bare ",Dnepropetrovsk-Ukraine
+106,02-01-2013,21,Wholesale,USD,NXH382,52,5,6,1038.50,6231.00,446.56,"Product 5",Stuttgart,Germany,"Ohio ",Stuttgart-Germany
+107,02-01-2013,14,Distributor,USD,AXW291,1,1,10,1192.60,11926.00,536.67,"Product 1",LONDON,UK,"Linde ",LONDON-UK
+108,02-01-2013,9,Distributor,USD,NXH382,51,1,10,1815.70,18157.00,1525.19,"Product 1",Dortmund,Germany,"Ei ",Dortmund-Germany
+109,03-01-2013,9,Wholesale,USD,NXH382,54,6,7,3879.30,27155.10,2211.20,"Product 6",Poznan,Poland,"Ei ",Poznan-Poland
+110,03-01-2013,33,Wholesale,USD,NXH382,47,1,6,1956.40,11738.40,1212.97,"Product 1",Glasgow,UK,"Trigen ",Glasgow-UK
+111,03-01-2013,21,Export,USD,AXW291,3,1,12,201.00,2412.00,124.62,"Product 1",MADRID,Spain,"Ohio ",MADRID-Spain
+112,03-01-2013,21,Distributor,USD,AXW291,28,11,8,6277.90,50223.20,2762.28,"Product 11",Zaporozhye,Ukraine,"Ohio ",Zaporozhye-Ukraine
+113,03-01-2013,36,Export,USD,NXH382,57,1,7,1051.90,7363.30,641.66,"Product 1",HELSINKI,Finland,"O.E. Ltd",HELSINKI-Finland
+114,03-01-2013,17,Export,USD,NXH382,53,7,9,254.60,2291.40,216.41,"Product 7",VILNIUS,Lithuania,"Pure Group",VILNIUS-Lithuania
+115,03-01-2013,32,Distributor,USD,AXW291,25,11,5,3932.90,19664.50,3146.32,"Product 11","Koln (Cologne)",Germany,"OHTA'S Corp","Koln (Cologne)-Germany"
+116,03-01-2013,11,Wholesale,USD,FLR025,64,6,10,1112.20,11122.00,700.69,"Product 6",Mykolaiv,Ukraine,"Apollo Ltd",Mykolaiv-Ukraine
+117,03-01-2013,10,Wholesale,USD,NXH382,58,4,12,1239.50,14874.00,904.84,"Product 4",Malaga,Spain,"21st Ltd",Malaga-Spain
+118,03-01-2013,30,Export,USD,AXW291,4,13,12,984.90,11818.80,393.96,"Product 13",ROMA,Italy,"S.S.S. Group",ROMA-Italy
+119,04-01-2013,5,Distributor,USD,FLR025,63,1,5,5581.10,27905.50,4130.01,"Product 1",Hannover,Germany,"Procter Corp",Hannover-Germany
+120,04-01-2013,23,Wholesale,USD,AXW291,25,7,8,3095.40,24763.20,1795.33,"Product 7","Koln (Cologne)",Germany,"E. Ltd","Koln (Cologne)-Germany"
+121,04-01-2013,46,Export,USD,GUT930,35,1,8,2278.00,18224.00,1754.06,"Product 1",STOCKHOLM,Sweden,"U.S. Ltd",STOCKHOLM-Sweden
+122,04-01-2013,14,Export,USD,NXH382,51,2,12,991.60,11899.20,654.46,"Product 2",Dortmund,Germany,"Linde ",Dortmund-Germany
+123,04-01-2013,40,Distributor,USD,AXW291,4,13,6,3979.80,23878.80,3064.45,"Product 13",ROMA,Italy,"Select ",ROMA-Italy
+124,04-01-2013,19,Wholesale,USD,GUT930,40,12,12,1969.80,23637.60,866.71,"Product 12","Kryvy Rig",Ukraine,"Qualitest ","Kryvy Rig-Ukraine"
+125,04-01-2013,15,Wholesale,USD,GUT930,31,8,12,268.00,3216.00,131.32,"Product 8",RIGA,Latvia,"Rochester Ltd",RIGA-Latvia
+126,04-01-2013,46,Wholesale,USD,AXW291,20,7,11,174.20,1916.20,95.81,"Product 7",Dnepropetrovsk,Ukraine,"U.S. Ltd",Dnepropetrovsk-Ukraine
+127,04-01-2013,32,Distributor,USD,GUT930,42,1,6,2988.20,17929.20,2510.09,"Product 1",Palermo,Italy,"OHTA'S Corp",Palermo-Italy
+128,05-01-2013,32,Wholesale,USD,GUT930,43,5,11,3999.90,43998.90,2679.93,"Product 5",KISHINEV,Moldova,"OHTA'S Corp",KISHINEV-Moldova
+129,05-01-2013,22,Distributor,USD,AXW291,18,11,10,5976.40,59764.00,2450.32,"Product 11","PRAHA (Prague)","Czech Republic","Capweld ","PRAHA (Prague)-Czech Republic"
+130,05-01-2013,5,Wholesale,USD,AXW291,19,5,6,2901.10,17406.60,2378.90,"Product 5",SOFIA,Bulgaria,"Procter Corp",SOFIA-Bulgaria
+131,05-01-2013,29,Distributor,USD,NXH382,55,1,7,6076.90,42538.30,2734.61,"Product 1",Dusseldorf,Germany,"Apotheca  Ltd",Dusseldorf-Germany
+132,05-01-2013,35,Distributor,USD,NXH382,55,5,6,5735.20,34411.20,4186.70,"Product 5",Dusseldorf,Germany,"Amylin Group",Dusseldorf-Germany
+133,05-01-2013,46,Export,USD,GUT930,39,8,12,3919.50,47034.00,2077.34,"Product 8",Leeds,UK,"U.S. Ltd",Leeds-UK
+134,05-01-2013,42,Distributor,USD,FLR025,66,13,8,6083.60,48668.80,3832.67,"Product 13","KOBENHAVN (Copenhagen)",Denmark,"Llorens Ltd","KOBENHAVN (Copenhagen)-Denmark"
+135,06-01-2013,2,Wholesale,USD,FLR025,61,13,5,2566.10,12830.50,1642.30,"Product 13",SARAJEVO,Bosnia,"WakeFern ",SARAJEVO-Bosnia
+136,06-01-2013,28,Wholesale,USD,AXW291,15,5,10,2278.00,22780.00,1093.44,"Product 5",Barcelona,Spain,"Dharma Ltd",Barcelona-Spain
+137,06-01-2013,46,Wholesale,USD,GUT930,46,11,7,261.30,1829.10,120.20,"Product 11","Wroclaw (Breslau)",Poland,"U.S. Ltd","Wroclaw (Breslau)-Poland"
+138,06-01-2013,22,Wholesale,USD,FLR025,65,7,9,998.30,8984.70,698.81,"Product 7",OSLO,Norway,"Capweld ",OSLO-Norway
+139,06-01-2013,34,Wholesale,USD,AXW291,17,2,6,3497.40,20984.40,1958.54,"Product 2","Munchen (Munich)",Germany,"OUR Ltd","Munchen (Munich)-Germany"
+140,06-01-2013,26,Wholesale,USD,GUT930,36,5,9,1132.30,10190.70,486.89,"Product 5",Krakow,Poland,"Mylan Corp",Krakow-Poland
+141,06-01-2013,26,Wholesale,USD,AXW291,8,11,9,2405.30,21647.70,1587.50,"Product 11",BUDAPEST,Hungary,"Mylan Corp",BUDAPEST-Hungary
+142,06-01-2013,24,Distributor,USD,FLR025,66,1,7,5701.70,39911.90,3249.97,"Product 1","KOBENHAVN (Copenhagen)",Denmark,"Burt's Corp","KOBENHAVN (Copenhagen)-Denmark"
+143,07-01-2013,18,Distributor,USD,GUT930,45,12,9,2452.20,22069.80,1446.80,"Product 12","Frankfurt am Main",Germany,"Eminence Corp","Frankfurt am Main-Germany"
+144,07-01-2013,21,Wholesale,USD,AXW291,2,5,7,3095.40,21667.80,2012.01,"Product 5",BERLIN,Germany,"Ohio ",BERLIN-Germany
+145,07-01-2013,14,Export,USD,GUT930,38,11,9,3865.90,34793.10,2164.90,"Product 11",AMSTERDAM,Netherlands,"Linde ",AMSTERDAM-Netherlands
+146,08-01-2013,3,Distributor,USD,AXW291,7,2,7,2304.80,16133.60,1382.88,"Product 2","BUCURESTI (Bucharest)",Romania,"Elorac  Corp","BUCURESTI (Bucharest)-Romania"
+147,08-01-2013,13,Distributor,USD,AXW291,7,13,10,3195.90,31959.00,1470.11,"Product 13","BUCURESTI (Bucharest)",Romania,"Ole Group","BUCURESTI (Bucharest)-Romania"
+148,08-01-2013,49,Wholesale,USD,NXH382,53,2,10,6452.10,64521.00,5161.68,"Product 2",VILNIUS,Lithuania,"Bare ",VILNIUS-Lithuania
+149,08-01-2013,4,Export,USD,AXW291,19,5,6,2003.30,12019.80,921.52,"Product 5",SOFIA,Bulgaria,"ETUDE Ltd",SOFIA-Bulgaria
+150,08-01-2013,20,Wholesale,USD,AXW291,4,5,5,3638.10,18190.50,1455.24,"Product 5",ROMA,Italy,"Pacific Ltd",ROMA-Italy
+151,09-01-2013,19,Export,USD,AXW291,20,5,6,2278.00,13668.00,1822.40,"Product 5",Dnepropetrovsk,Ukraine,"Qualitest ",Dnepropetrovsk-Ukraine
+152,09-01-2013,25,Distributor,USD,AXW291,26,13,12,924.60,11095.20,582.50,"Product 13","Torino (Turin)",Italy,"Prasco Group","Torino (Turin)-Italy"
+153,09-01-2013,8,Wholesale,USD,AXW291,20,7,11,3926.20,43188.20,3062.44,"Product 7",Dnepropetrovsk,Ukraine,"Medsep Group",Dnepropetrovsk-Ukraine
+154,09-01-2013,24,Export,USD,FLR025,63,7,7,3825.70,26779.90,2257.16,"Product 7",Hannover,Germany,"Burt's Corp",Hannover-Germany
+155,10-01-2013,13,Wholesale,USD,FLR025,65,7,10,2257.90,22579.00,1377.32,"Product 7",OSLO,Norway,"Ole Group",OSLO-Norway
+156,10-01-2013,32,Wholesale,USD,AXW291,27,6,7,1112.20,7785.40,756.30,"Product 6",ZAGREB,Croatia,"OHTA'S Corp",ZAGREB-Croatia
+157,10-01-2013,28,Wholesale,USD,AXW291,19,3,5,3557.70,17788.50,1814.43,"Product 3",SOFIA,Bulgaria,"Dharma Ltd",SOFIA-Bulgaria
+158,10-01-2013,8,Distributor,USD,AXW291,11,1,7,2371.80,16602.60,1233.34,"Product 1","WARSZAWA (Warsaw)",Poland,"Medsep Group","WARSZAWA (Warsaw)-Poland"
+159,11-01-2013,47,Wholesale,USD,AXW291,11,2,12,857.60,10291.20,686.08,"Product 2","WARSZAWA (Warsaw)",Poland,"Niconovum Corp","WARSZAWA (Warsaw)-Poland"
+160,12-01-2013,33,Wholesale,USD,GUT930,43,5,11,3892.70,42819.70,2880.60,"Product 5",KISHINEV,Moldova,"Trigen ",KISHINEV-Moldova
+161,12-01-2013,26,Distributor,USD,AXW291,28,7,8,3477.30,27818.40,1390.92,"Product 7",Zaporozhye,Ukraine,"Mylan Corp",Zaporozhye-Ukraine
+162,12-01-2013,20,Distributor,USD,AXW291,28,7,6,3738.60,22431.60,2803.95,"Product 7",Zaporozhye,Ukraine,"Pacific Ltd",Zaporozhye-Ukraine
+163,13-01-2013,6,Wholesale,USD,NXH382,48,7,8,1072.00,8576.00,589.60,"Product 7",Zaragoza,Spain,"PEDIFIX  Corp",Zaragoza-Spain
+164,13-01-2013,40,Wholesale,USD,AXW291,22,9,12,2257.90,27094.80,1761.16,"Product 9","Napoli (Naples)",Italy,"Select ","Napoli (Naples)-Italy"
+165,13-01-2013,23,Distributor,USD,GUT930,42,7,5,1058.60,5293.00,751.61,"Product 7",Palermo,Italy,"E. Ltd",Palermo-Italy
+166,13-01-2013,38,Wholesale,USD,AXW291,14,9,10,2492.40,24924.00,1296.05,"Product 9",Kharkov,Ukraine,"Ascend Ltd",Kharkov-Ukraine
+167,13-01-2013,30,Wholesale,USD,AXW291,13,2,6,3852.50,23115.00,2465.60,"Product 2","WIEN (Vienna)",Austria,"S.S.S. Group","WIEN (Vienna)-Austria"
+168,13-01-2013,42,Wholesale,USD,GUT930,39,1,11,241.20,2653.20,132.66,"Product 1",Leeds,UK,"Llorens Ltd",Leeds-UK
+169,14-01-2013,1,Distributor,USD,AXW291,6,13,5,1051.90,5259.50,494.39,"Product 13",PARIS,France,"Avon Corp",PARIS-France
+170,14-01-2013,11,Distributor,USD,AXW291,31,5,8,227.80,1822.40,107.07,"Product 5",RIGA,Latvia,"Apollo Ltd",RIGA-Latvia
+171,14-01-2013,4,Wholesale,USD,FLR025,60,7,9,1078.70,9708.30,506.99,"Product 7",Sheffield,UK,"ETUDE Ltd",Sheffield-UK
+172,15-01-2013,6,Wholesale,USD,AXW291,18,7,6,1005.00,6030.00,743.70,"Product 7","PRAHA (Prague)","Czech Republic","PEDIFIX  Corp","PRAHA (Prague)-Czech Republic"
+173,15-01-2013,17,Distributor,USD,NXH382,52,7,6,2485.70,14914.20,1317.42,"Product 7",Stuttgart,Germany,"Pure Group",Stuttgart-Germany
+174,15-01-2013,7,Distributor,USD,AXW291,26,11,10,2659.90,26599.00,2154.52,"Product 11","Torino (Turin)",Italy,"New Ltd","Torino (Turin)-Italy"
+175,16-01-2013,1,Wholesale,USD,AXW291,20,7,11,2224.40,24468.40,1579.32,"Product 7",Dnepropetrovsk,Ukraine,"Avon Corp",Dnepropetrovsk-Ukraine
+176,16-01-2013,27,Wholesale,USD,FLR025,61,11,8,2472.30,19778.40,1260.87,"Product 11",SARAJEVO,Bosnia,"Wuxi Group",SARAJEVO-Bosnia
+177,16-01-2013,33,Wholesale,USD,GUT930,42,7,7,1011.70,7081.90,799.24,"Product 7",Palermo,Italy,"Trigen ",Palermo-Italy
+178,16-01-2013,28,Wholesale,USD,GUT930,42,11,6,234.50,1407.00,128.98,"Product 11",Palermo,Italy,"Dharma Ltd",Palermo-Italy
+179,16-01-2013,42,Distributor,USD,AXW291,29,7,8,261.30,2090.40,143.72,"Product 7",Lodz,Poland,"Llorens Ltd",Lodz-Poland
+180,17-01-2013,5,Export,USD,AXW291,7,1,5,4006.60,20033.00,2844.69,"Product 1","BUCURESTI (Bucharest)",Romania,"Procter Corp","BUCURESTI (Bucharest)-Romania"
+181,17-01-2013,10,Distributor,USD,GUT930,38,5,6,1333.30,7999.80,866.65,"Product 5",AMSTERDAM,Netherlands,"21st Ltd",AMSTERDAM-Netherlands
+182,17-01-2013,34,Wholesale,USD,GUT930,46,11,5,167.50,837.50,90.45,"Product 11","Wroclaw (Breslau)",Poland,"OUR Ltd","Wroclaw (Breslau)-Poland"
+183,18-01-2013,23,Export,USD,FLR025,61,13,5,3195.90,15979.50,1821.66,"Product 13",SARAJEVO,Bosnia,"E. Ltd",SARAJEVO-Bosnia
+184,18-01-2013,18,Wholesale,USD,NXH382,56,3,10,1051.90,10519.00,809.96,"Product 3","LISBOA (Lisbon)",Portugal,"Eminence Corp","LISBOA (Lisbon)-Portugal"
+185,19-01-2013,8,Export,USD,AXW291,2,5,9,5447.10,49023.90,3540.62,"Product 5",BERLIN,Germany,"Medsep Group",BERLIN-Germany
+186,19-01-2013,36,Wholesale,USD,GUT930,36,2,8,3182.50,25460.00,1973.15,"Product 2",Krakow,Poland,"O.E. Ltd",Krakow-Poland
+187,19-01-2013,47,Wholesale,USD,FLR025,61,2,5,891.10,4455.50,632.68,"Product 2",SARAJEVO,Bosnia,"Niconovum Corp",SARAJEVO-Bosnia
+188,19-01-2013,27,Export,USD,AXW291,29,13,7,3892.70,27248.90,2724.89,"Product 13",Lodz,Poland,"Wuxi Group",Lodz-Poland
+189,19-01-2013,5,Export,USD,GUT930,45,7,9,3953.00,35577.00,3360.05,"Product 7","Frankfurt am Main",Germany,"Procter Corp","Frankfurt am Main-Germany"
+190,19-01-2013,38,Wholesale,USD,GUT930,34,12,9,924.60,8321.40,545.51,"Product 12",Salonika,Greece,"Ascend Ltd",Salonika-Greece
+191,19-01-2013,21,Distributor,USD,GUT930,34,5,10,3430.40,34304.00,1989.63,"Product 5",Salonika,Greece,"Ohio ",Salonika-Greece
+192,20-01-2013,24,Wholesale,USD,AXW291,31,7,8,1152.40,9219.20,622.30,"Product 7",RIGA,Latvia,"Burt's Corp",RIGA-Latvia
+193,20-01-2013,25,Wholesale,USD,AXW291,24,7,5,1085.40,5427.00,922.59,"Product 7",Odessa,Ukraine,"Prasco Group",Odessa-Ukraine
+194,20-01-2013,11,Wholesale,USD,AXW291,27,7,5,5031.70,25158.50,4025.36,"Product 7",ZAGREB,Croatia,"Apollo Ltd",ZAGREB-Croatia
+195,21-01-2013,17,Wholesale,USD,AXW291,18,7,8,1092.10,8736.80,436.84,"Product 7","PRAHA (Prague)","Czech Republic","Pure Group","PRAHA (Prague)-Czech Republic"
+196,21-01-2013,5,Export,USD,AXW291,4,7,9,187.60,1688.40,144.45,"Product 7",ROMA,Italy,"Procter Corp",ROMA-Italy
+197,21-01-2013,30,Export,USD,AXW291,17,14,9,3993.20,35938.80,2835.17,"Product 14","Munchen (Munich)",Germany,"S.S.S. Group","Munchen (Munich)-Germany"
+198,21-01-2013,9,Export,USD,FLR025,65,5,11,2472.30,27195.30,1433.93,"Product 5",OSLO,Norway,"Ei ",OSLO-Norway
+199,21-01-2013,47,Wholesale,USD,AXW291,5,13,11,1206.00,13266.00,844.20,"Product 13",KIEV,Ukraine,"Niconovum Corp",KIEV-Ukraine
+200,21-01-2013,5,Distributor,USD,AXW291,26,2,11,1728.60,19014.60,985.30,"Product 2","Torino (Turin)",Italy,"Procter Corp","Torino (Turin)-Italy"
+201,22-01-2013,23,Wholesale,USD,AXW291,25,1,6,1983.20,11899.20,1447.74,"Product 1","Koln (Cologne)",Germany,"E. Ltd","Koln (Cologne)-Germany"
+202,22-01-2013,14,Wholesale,USD,GUT930,33,7,7,5313.10,37191.70,2656.55,"Product 7","ATHINAI (Athens)",Greece,"Linde ","ATHINAI (Athens)-Greece"
+203,22-01-2013,44,Export,USD,AXW291,11,9,11,871.00,9581.00,566.15,"Product 9","WARSZAWA (Warsaw)",Poland,"Winthrop ","WARSZAWA (Warsaw)-Poland"
+204,22-01-2013,38,Wholesale,USD,GUT930,32,7,6,2532.60,15195.60,2051.41,"Product 7",Lvov,Ukraine,"Ascend Ltd",Lvov-Ukraine
+205,22-01-2013,14,Wholesale,USD,AXW291,17,13,8,5916.10,47328.80,4673.72,"Product 13","Munchen (Munich)",Germany,"Linde ","Munchen (Munich)-Germany"
+206,22-01-2013,34,Wholesale,USD,GUT930,42,2,7,2887.70,20213.90,1443.85,"Product 2",Palermo,Italy,"OUR Ltd",Palermo-Italy
+207,22-01-2013,13,Wholesale,USD,GUT930,36,5,7,1855.90,12991.30,1447.60,"Product 5",Krakow,Poland,"Ole Group",Krakow-Poland
+208,22-01-2013,5,Distributor,USD,AXW291,11,5,6,207.70,1246.20,135.01,"Product 5","WARSZAWA (Warsaw)",Poland,"Procter Corp","WARSZAWA (Warsaw)-Poland"
+209,23-01-2013,2,Wholesale,USD,FLR025,62,5,6,1058.60,6351.60,772.78,"Product 5",Duisburg,Germany,"WakeFern ",Duisburg-Germany
+210,23-01-2013,17,Wholesale,USD,GUT930,44,13,10,958.10,9581.00,517.37,"Product 13",Genova,Italy,"Pure Group",Genova-Italy
+211,23-01-2013,40,Wholesale,USD,GUT930,34,13,9,2659.90,23939.10,1675.74,"Product 13",Salonika,Greece,"Select ",Salonika-Greece
+212,23-01-2013,15,Distributor,USD,AXW291,26,2,12,2217.70,26612.40,1707.63,"Product 2","Torino (Turin)",Italy,"Rochester Ltd","Torino (Turin)-Italy"
+213,23-01-2013,12,Wholesale,USD,AXW291,8,13,7,1715.20,12006.40,857.60,"Product 13",BUDAPEST,Hungary,"Medline ",BUDAPEST-Hungary
+214,23-01-2013,25,Wholesale,USD,NXH382,52,8,6,3932.90,23597.40,1691.15,"Product 8",Stuttgart,Germany,"Prasco Group",Stuttgart-Germany
+215,23-01-2013,13,Distributor,USD,AXW291,31,7,5,2546.00,12730.00,1909.50,"Product 7",RIGA,Latvia,"Ole Group",RIGA-Latvia
+216,24-01-2013,18,Distributor,USD,NXH382,50,7,5,837.50,4187.50,603.00,"Product 7",Rotterdam,Netherlands,"Eminence Corp",Rotterdam-Netherlands
+217,24-01-2013,3,Distributor,USD,GUT930,40,11,10,1809.00,18090.00,1302.48,"Product 11","Kryvy Rig",Ukraine,"Elorac  Corp","Kryvy Rig-Ukraine"
+218,24-01-2013,25,Distributor,USD,NXH382,55,1,5,857.60,4288.00,514.56,"Product 1",Dusseldorf,Germany,"Prasco Group",Dusseldorf-Germany
+219,24-01-2013,11,Export,USD,AXW291,2,9,8,1748.70,13989.60,1101.68,"Product 9",BERLIN,Germany,"Apollo Ltd",BERLIN-Germany
+220,24-01-2013,44,Distributor,USD,AXW291,14,7,10,1266.30,12663.00,582.50,"Product 7",Kharkov,Ukraine,"Winthrop ",Kharkov-Ukraine
+221,24-01-2013,30,Wholesale,USD,AXW291,5,5,11,5058.50,55643.50,3591.54,"Product 5",KIEV,Ukraine,"S.S.S. Group",KIEV-Ukraine
+222,25-01-2013,38,Distributor,USD,AXW291,7,9,10,958.10,9581.00,795.22,"Product 9","BUCURESTI (Bucharest)",Romania,"Ascend Ltd","BUCURESTI (Bucharest)-Romania"
+223,25-01-2013,47,Export,USD,AXW291,22,9,11,1802.30,19825.30,756.97,"Product 9","Napoli (Naples)",Italy,"Niconovum Corp","Napoli (Naples)-Italy"
+224,25-01-2013,17,Wholesale,USD,AXW291,9,11,11,6298.00,69278.00,4534.56,"Product 11",Hamburg,Germany,"Pure Group",Hamburg-Germany
+225,25-01-2013,28,Wholesale,USD,AXW291,1,11,6,2499.10,14994.60,1824.34,"Product 11",LONDON,UK,"Dharma Ltd",LONDON-UK
+226,25-01-2013,5,Wholesale,USD,GUT930,36,2,8,871.00,6968.00,705.51,"Product 2",Krakow,Poland,"Procter Corp",Krakow-Poland
+227,25-01-2013,32,Wholesale,USD,GUT930,44,7,6,750.40,4502.40,360.19,"Product 7",Genova,Italy,"OHTA'S Corp",Genova-Italy
+228,25-01-2013,21,Distributor,USD,GUT930,36,2,5,763.80,3819.00,504.11,"Product 2",Krakow,Poland,"Ohio ",Krakow-Poland
+229,25-01-2013,49,Export,USD,NXH382,55,2,11,844.20,9286.20,565.61,"Product 2",Dusseldorf,Germany,"Bare ",Dusseldorf-Germany
+230,26-01-2013,6,Wholesale,USD,AXW291,6,2,5,261.30,1306.50,112.36,"Product 2",PARIS,France,"PEDIFIX  Corp",PARIS-France
+231,26-01-2013,47,Export,USD,AXW291,13,5,8,3999.90,31999.20,2359.94,"Product 5","WIEN (Vienna)",Austria,"Niconovum Corp","WIEN (Vienna)-Austria"
+232,26-01-2013,32,Wholesale,USD,GUT930,45,9,7,1112.20,7785.40,811.91,"Product 9","Frankfurt am Main",Germany,"OHTA'S Corp","Frankfurt am Main-Germany"
+233,26-01-2013,18,Wholesale,USD,AXW291,30,11,8,2633.10,21064.80,1843.17,"Product 11",Marseille,France,"Eminence Corp",Marseille-France
+234,26-01-2013,8,Distributor,USD,AXW291,24,10,5,1018.40,5092.00,631.41,"Product 10",Odessa,Ukraine,"Medsep Group",Odessa-Ukraine
+235,26-01-2013,24,Distributor,USD,AXW291,10,1,12,5219.30,62631.60,3444.74,"Product 1",MINSK,Belarus,"Burt's Corp",MINSK-Belarus
+236,26-01-2013,11,Export,USD,NXH382,47,7,11,3999.90,43998.90,2359.94,"Product 7",Glasgow,UK,"Apollo Ltd",Glasgow-UK
+237,27-01-2013,50,Wholesale,USD,FLR025,62,1,10,1721.90,17219.00,1084.80,"Product 1",Duisburg,Germany,"Sundial ",Duisburg-Germany
+238,28-01-2013,7,Wholesale,USD,GUT930,35,5,9,737.00,6633.00,456.94,"Product 5",STOCKHOLM,Sweden,"New Ltd",STOCKHOLM-Sweden
+239,28-01-2013,2,Wholesale,USD,AXW291,6,9,9,1219.40,10974.60,695.06,"Product 9",PARIS,France,"WakeFern ",PARIS-France
+240,28-01-2013,18,Wholesale,USD,NXH382,51,1,6,891.10,5346.60,712.88,"Product 1",Dortmund,Germany,"Eminence Corp",Dortmund-Germany
+241,28-01-2013,28,Wholesale,USD,AXW291,27,2,12,978.20,11738.40,743.43,"Product 2",ZAGREB,Croatia,"Dharma Ltd",ZAGREB-Croatia
+242,28-01-2013,47,Wholesale,USD,AXW291,31,11,9,3946.30,35516.70,1657.45,"Product 11",RIGA,Latvia,"Niconovum Corp",RIGA-Latvia
+243,28-01-2013,27,Wholesale,USD,GUT930,33,7,12,1299.80,15597.60,922.86,"Product 7","ATHINAI (Athens)",Greece,"Wuxi Group","ATHINAI (Athens)-Greece"
+244,28-01-2013,21,Distributor,USD,AXW291,14,7,5,5815.60,29078.00,2791.49,"Product 7",Kharkov,Ukraine,"Ohio ",Kharkov-Ukraine
+245,29-01-2013,43,Distributor,USD,AXW291,22,2,10,1092.10,10921.00,655.26,"Product 2","Napoli (Naples)",Italy,"Exact-Rx  Corp","Napoli (Naples)-Italy"
+246,29-01-2013,42,Wholesale,USD,AXW291,7,7,7,1072.00,7504.00,643.20,"Product 7","BUCURESTI (Bucharest)",Romania,"Llorens Ltd","BUCURESTI (Bucharest)-Romania"
+247,29-01-2013,34,Wholesale,USD,GUT930,39,9,11,4020.00,44220.00,2653.20,"Product 9",Leeds,UK,"OUR Ltd",Leeds-UK
+248,29-01-2013,37,Wholesale,USD,AXW291,12,7,9,984.90,8864.10,669.73,"Product 7","BEOGRAD (Belgrade)",Serbia,"AuroMedics Corp","BEOGRAD (Belgrade)-Serbia"
+249,29-01-2013,50,Wholesale,USD,FLR025,62,10,12,227.80,2733.60,100.23,"Product 10",Duisburg,Germany,"Sundial ",Duisburg-Germany
+250,29-01-2013,17,Wholesale,USD,AXW291,7,1,11,3993.20,43925.20,3314.36,"Product 1","BUCURESTI (Bucharest)",Romania,"Pure Group","BUCURESTI (Bucharest)-Romania"
+251,30-01-2013,25,Distributor,USD,AXW291,30,1,10,221.10,2211.00,185.72,"Product 1",Marseille,France,"Prasco Group",Marseille-France
+252,30-01-2013,21,Distributor,USD,AXW291,19,11,9,3356.70,30210.30,2819.63,"Product 11",SOFIA,Bulgaria,"Ohio ",SOFIA-Bulgaria
+253,30-01-2013,35,Wholesale,USD,NXH382,58,5,6,1701.80,10210.80,1157.22,"Product 5",Malaga,Spain,"Amylin Group",Malaga-Spain
+254,30-01-2013,9,Wholesale,USD,NXH382,50,10,5,2566.10,12830.50,2181.19,"Product 10",Rotterdam,Netherlands,"Ei ",Rotterdam-Netherlands
+255,31-01-2013,22,Wholesale,USD,AXW291,19,8,12,221.10,2653.20,126.03,"Product 8",SOFIA,Bulgaria,"Capweld ",SOFIA-Bulgaria
+256,31-01-2013,28,Wholesale,USD,GUT930,45,7,9,1782.20,16039.80,980.21,"Product 7","Frankfurt am Main",Germany,"Dharma Ltd","Frankfurt am Main-Germany"
+257,31-01-2013,41,Wholesale,USD,AXW291,17,2,10,2003.30,20033.00,801.32,"Product 2","Munchen (Munich)",Germany,"Weimei Corp","Munchen (Munich)-Germany"
+258,31-01-2013,28,Wholesale,USD,AXW291,6,7,11,2385.20,26237.20,1502.68,"Product 7",PARIS,France,"Dharma Ltd",PARIS-France
+259,01-02-2013,22,Wholesale,USD,AXW291,3,9,11,2231.10,24542.10,1784.88,"Product 9",MADRID,Spain,"Capweld ",MADRID-Spain
+260,01-02-2013,26,Wholesale,USD,AXW291,22,1,7,1005.00,7035.00,412.05,"Product 1","Napoli (Naples)",Italy,"Mylan Corp","Napoli (Naples)-Italy"
+261,01-02-2013,12,Distributor,USD,NXH382,53,6,12,2693.40,32320.80,1939.25,"Product 6",VILNIUS,Lithuania,"Medline ",VILNIUS-Lithuania
+262,01-02-2013,31,Wholesale,USD,AXW291,20,7,8,1105.50,8844.00,652.25,"Product 7",Dnepropetrovsk,Ukraine,"Uriel Group",Dnepropetrovsk-Ukraine
+263,02-02-2013,25,Distributor,USD,AXW291,16,12,9,1909.50,17185.50,1088.42,"Product 12","Milano (Milan)",Italy,"Prasco Group","Milano (Milan)-Italy"
+264,02-02-2013,35,Distributor,USD,GUT930,32,3,8,1118.90,8951.20,850.36,"Product 3",Lvov,Ukraine,"Amylin Group",Lvov-Ukraine
+265,03-02-2013,45,Wholesale,USD,AXW291,17,2,10,1038.50,10385.00,758.11,"Product 2","Munchen (Munich)",Germany,"Nipro ","Munchen (Munich)-Germany"
+266,03-02-2013,19,Distributor,USD,AXW291,23,5,6,6324.80,37948.80,4300.86,"Product 5",Birmingham,UK,"Qualitest ",Birmingham-UK
+267,03-02-2013,16,Wholesale,USD,AXW291,3,13,6,1005.00,6030.00,502.50,"Product 13",MADRID,Spain,"3LAB  Ltd",MADRID-Spain
+268,03-02-2013,15,Distributor,USD,GUT930,32,2,10,1293.10,12931.00,659.48,"Product 2",Lvov,Ukraine,"Rochester Ltd",Lvov-Ukraine
+269,03-02-2013,8,Wholesale,USD,AXW291,14,7,5,844.20,4221.00,540.29,"Product 7",Kharkov,Ukraine,"Medsep Group",Kharkov-Ukraine
+270,04-02-2013,27,Wholesale,USD,NXH382,58,6,8,247.90,1983.20,195.84,"Product 6",Malaga,Spain,"Wuxi Group",Malaga-Spain
+271,04-02-2013,12,Wholesale,USD,GUT930,39,1,12,174.20,2090.40,139.36,"Product 1",Leeds,UK,"Medline ",Leeds-UK
+272,04-02-2013,30,Wholesale,USD,NXH382,50,12,9,1025.10,9225.90,707.32,"Product 12",Rotterdam,Netherlands,"S.S.S. Group",Rotterdam-Netherlands
+273,04-02-2013,19,Export,USD,FLR025,62,1,9,3068.60,27617.40,2301.45,"Product 1",Duisburg,Germany,"Qualitest ",Duisburg-Germany
+274,05-02-2013,44,Distributor,USD,AXW291,22,7,7,241.20,1688.40,115.78,"Product 7","Napoli (Naples)",Italy,"Winthrop ","Napoli (Naples)-Italy"
+275,05-02-2013,24,Distributor,USD,GUT930,36,7,10,174.20,1742.00,139.36,"Product 7",Krakow,Poland,"Burt's Corp",Krakow-Poland
+276,05-02-2013,10,Export,USD,AXW291,6,13,7,2505.80,17540.60,1804.18,"Product 13",PARIS,France,"21st Ltd",PARIS-France
+277,05-02-2013,35,Wholesale,USD,GUT930,42,11,11,2599.60,28595.60,1637.75,"Product 11",Palermo,Italy,"Amylin Group",Palermo-Italy
+278,05-02-2013,38,Export,USD,AXW291,28,2,12,2278.00,27336.00,1503.48,"Product 2",Zaporozhye,Ukraine,"Ascend Ltd",Zaporozhye-Ukraine
+279,06-02-2013,31,Wholesale,USD,FLR025,64,13,12,1092.10,13105.20,589.73,"Product 13",Mykolaiv,Ukraine,"Uriel Group",Mykolaiv-Ukraine
+280,06-02-2013,40,Wholesale,USD,AXW291,8,7,9,1139.00,10251.00,933.98,"Product 7",BUDAPEST,Hungary,"Select ",BUDAPEST-Hungary
+281,06-02-2013,9,Export,USD,FLR025,61,7,11,1675.00,18425.00,1072.00,"Product 7",SARAJEVO,Bosnia,"Ei ",SARAJEVO-Bosnia
+282,06-02-2013,41,Export,USD,GUT930,41,11,7,1011.70,7081.90,687.96,"Product 11",Sevilla,Spain,"Weimei Corp",Sevilla-Spain
+283,07-02-2013,11,Wholesale,USD,AXW291,23,6,12,938.00,11256.00,412.72,"Product 6",Birmingham,UK,"Apollo Ltd",Birmingham-UK
+284,08-02-2013,48,Distributor,USD,AXW291,10,5,10,2566.10,25661.00,1052.10,"Product 5",MINSK,Belarus,"Fenwal  Corp",MINSK-Belarus
+285,08-02-2013,4,Wholesale,USD,GUT930,32,2,12,871.00,10452.00,374.53,"Product 2",Lvov,Ukraine,"ETUDE Ltd",Lvov-Ukraine
+286,09-02-2013,4,Wholesale,USD,AXW291,15,1,9,2485.70,22371.30,1789.70,"Product 1",Barcelona,Spain,"ETUDE Ltd",Barcelona-Spain
+287,09-02-2013,40,Distributor,USD,FLR025,66,6,9,2345.00,21105.00,1922.90,"Product 6","KOBENHAVN (Copenhagen)",Denmark,"Select ","KOBENHAVN (Copenhagen)-Denmark"
+288,09-02-2013,19,Distributor,USD,AXW291,9,9,12,1118.90,13426.80,749.66,"Product 9",Hamburg,Germany,"Qualitest ",Hamburg-Germany
+289,10-02-2013,24,Wholesale,USD,AXW291,2,2,7,1996.60,13976.20,1397.62,"Product 2",BERLIN,Germany,"Burt's Corp",BERLIN-Germany
+290,10-02-2013,6,Distributor,USD,AXW291,23,2,6,710.20,4261.20,390.61,"Product 2",Birmingham,UK,"PEDIFIX  Corp",Birmingham-UK
+291,10-02-2013,6,Export,USD,GUT930,37,10,6,3979.80,23878.80,1790.91,"Product 10",Valencia,Spain,"PEDIFIX  Corp",Valencia-Spain
+292,10-02-2013,9,Distributor,USD,FLR025,61,11,6,1025.10,6150.60,440.79,"Product 11",SARAJEVO,Bosnia,"Ei ",SARAJEVO-Bosnia
+293,10-02-2013,3,Distributor,USD,GUT930,36,7,8,2519.20,20153.60,1309.98,"Product 7",Krakow,Poland,"Elorac  Corp",Krakow-Poland
+294,10-02-2013,36,Wholesale,USD,AXW291,27,11,8,5031.70,40253.60,3471.87,"Product 11",ZAGREB,Croatia,"O.E. Ltd",ZAGREB-Croatia
+295,10-02-2013,27,Wholesale,USD,NXH382,56,6,10,1829.10,18291.00,768.22,"Product 6","LISBOA (Lisbon)",Portugal,"Wuxi Group","LISBOA (Lisbon)-Portugal"
+296,11-02-2013,29,Wholesale,USD,NXH382,55,11,11,1072.00,11792.00,900.48,"Product 11",Dusseldorf,Germany,"Apotheca  Ltd",Dusseldorf-Germany
+297,11-02-2013,11,Wholesale,USD,GUT930,45,1,10,2539.30,25393.00,1828.30,"Product 1","Frankfurt am Main",Germany,"Apollo Ltd","Frankfurt am Main-Germany"
+298,11-02-2013,24,Distributor,USD,NXH382,48,13,8,3899.40,31195.20,2027.69,"Product 13",Zaragoza,Spain,"Burt's Corp",Zaragoza-Spain
+299,11-02-2013,38,Wholesale,USD,FLR025,66,5,7,5045.10,35315.70,3380.22,"Product 5","KOBENHAVN (Copenhagen)",Denmark,"Ascend Ltd","KOBENHAVN (Copenhagen)-Denmark"
+300,11-02-2013,38,Wholesale,USD,AXW291,23,11,11,1005.00,11055.00,522.60,"Product 11",Birmingham,UK,"Ascend Ltd",Birmingham-UK
+301,11-02-2013,20,Wholesale,USD,GUT930,33,2,11,2438.80,26826.80,1219.40,"Product 2","ATHINAI (Athens)",Greece,"Pacific Ltd","ATHINAI (Athens)-Greece"
+302,12-02-2013,46,Distributor,USD,AXW291,28,7,6,3336.60,20019.60,2035.33,"Product 7",Zaporozhye,Ukraine,"U.S. Ltd",Zaporozhye-Ukraine
+303,12-02-2013,38,Wholesale,USD,GUT930,46,5,6,1098.80,6592.80,857.06,"Product 5","Wroclaw (Breslau)",Poland,"Ascend Ltd","Wroclaw (Breslau)-Poland"
+304,12-02-2013,5,Wholesale,USD,AXW291,12,2,11,1902.80,20930.80,970.43,"Product 2","BEOGRAD (Belgrade)",Serbia,"Procter Corp","BEOGRAD (Belgrade)-Serbia"
+305,12-02-2013,32,Wholesale,USD,AXW291,28,1,11,3477.30,38250.30,2190.70,"Product 1",Zaporozhye,Ukraine,"OHTA'S Corp",Zaporozhye-Ukraine
+306,12-02-2013,36,Distributor,USD,GUT930,36,7,10,2599.60,25996.00,1481.77,"Product 7",Krakow,Poland,"O.E. Ltd",Krakow-Poland
+307,12-02-2013,1,Wholesale,USD,NXH382,54,10,12,1078.70,12944.40,506.99,"Product 10",Poznan,Poland,"Avon Corp",Poznan-Poland
+308,12-02-2013,22,Distributor,USD,GUT930,36,2,11,1045.20,11497.20,533.05,"Product 2",Krakow,Poland,"Capweld ",Krakow-Poland
+309,12-02-2013,21,Export,USD,AXW291,29,7,11,1125.60,12381.60,787.92,"Product 7",Lodz,Poland,"Ohio ",Lodz-Poland
+310,12-02-2013,14,Export,USD,GUT930,34,7,12,1105.50,13266.00,762.80,"Product 7",Salonika,Greece,"Linde ",Salonika-Greece
+311,12-02-2013,50,Export,USD,AXW291,16,9,10,2606.30,26063.00,1668.03,"Product 9","Milano (Milan)",Italy,"Sundial ","Milano (Milan)-Italy"
+312,13-02-2013,41,Wholesale,USD,GUT930,41,5,7,227.80,1594.60,95.68,"Product 5",Sevilla,Spain,"Weimei Corp",Sevilla-Spain
+313,13-02-2013,35,Wholesale,USD,GUT930,33,11,8,167.50,1340.00,123.95,"Product 11","ATHINAI (Athens)",Greece,"Amylin Group","ATHINAI (Athens)-Greece"
+314,13-02-2013,21,Wholesale,USD,GUT930,45,1,6,1145.70,6874.20,538.48,"Product 1","Frankfurt am Main",Germany,"Ohio ","Frankfurt am Main-Germany"
+315,13-02-2013,37,Wholesale,USD,NXH382,59,7,7,2599.60,18197.20,2157.67,"Product 7",Bremen,Germany,"AuroMedics Corp",Bremen-Germany
+316,13-02-2013,14,Wholesale,USD,AXW291,25,7,5,3939.60,19698.00,1969.80,"Product 7","Koln (Cologne)",Germany,"Linde ","Koln (Cologne)-Germany"
+317,13-02-2013,18,Distributor,USD,AXW291,20,7,6,2881.00,17286.00,1584.55,"Product 7",Dnepropetrovsk,Ukraine,"Eminence Corp",Dnepropetrovsk-Ukraine
+318,13-02-2013,22,Distributor,USD,AXW291,20,5,8,3852.50,30820.00,2003.30,"Product 5",Dnepropetrovsk,Ukraine,"Capweld ",Dnepropetrovsk-Ukraine
+319,13-02-2013,48,Export,USD,AXW291,10,13,7,1139.00,7973.00,546.72,"Product 13",MINSK,Belarus,"Fenwal  Corp",MINSK-Belarus
+320,14-02-2013,7,Distributor,USD,GUT930,35,13,8,2519.20,20153.60,2040.55,"Product 13",STOCKHOLM,Sweden,"New Ltd",STOCKHOLM-Sweden
+321,14-02-2013,33,Distributor,USD,AXW291,15,2,12,1192.60,14311.20,703.63,"Product 2",Barcelona,Spain,"Trigen ",Barcelona-Spain
+322,14-02-2013,18,Wholesale,USD,GUT930,39,5,11,2412.00,26532.00,1013.04,"Product 5",Leeds,UK,"Eminence Corp",Leeds-UK
+323,14-02-2013,6,Wholesale,USD,AXW291,24,7,9,2479.00,22311.00,2057.57,"Product 7",Odessa,Ukraine,"PEDIFIX  Corp",Odessa-Ukraine
+324,14-02-2013,10,Wholesale,USD,NXH382,58,1,10,1956.40,19564.00,1330.35,"Product 1",Malaga,Spain,"21st Ltd",Malaga-Spain
+325,15-02-2013,4,Wholesale,USD,GUT930,32,11,9,1078.70,9708.30,722.73,"Product 11",Lvov,Ukraine,"ETUDE Ltd",Lvov-Ukraine
+326,15-02-2013,22,Wholesale,USD,AXW291,13,2,11,1212.70,13339.70,945.91,"Product 2","WIEN (Vienna)",Austria,"Capweld ","WIEN (Vienna)-Austria"
+327,15-02-2013,48,Distributor,USD,GUT930,46,1,7,978.20,6847.40,821.69,"Product 1","Wroclaw (Breslau)",Poland,"Fenwal  Corp","Wroclaw (Breslau)-Poland"
+328,15-02-2013,28,Distributor,USD,NXH382,50,5,10,174.20,1742.00,120.20,"Product 5",Rotterdam,Netherlands,"Dharma Ltd",Rotterdam-Netherlands
+329,16-02-2013,25,Wholesale,USD,GUT930,41,7,5,1125.60,5628.00,630.34,"Product 7",Sevilla,Spain,"Prasco Group",Sevilla-Spain
+330,16-02-2013,49,Distributor,USD,NXH382,52,1,8,1065.30,8522.40,468.73,"Product 1",Stuttgart,Germany,"Bare ",Stuttgart-Germany
+331,16-02-2013,11,Distributor,USD,AXW291,11,7,8,3892.70,31141.60,2724.89,"Product 7","WARSZAWA (Warsaw)",Poland,"Apollo Ltd","WARSZAWA (Warsaw)-Poland"
+332,16-02-2013,19,Wholesale,USD,NXH382,54,5,5,207.70,1038.50,120.47,"Product 5",Poznan,Poland,"Qualitest ",Poznan-Poland
+333,16-02-2013,20,Wholesale,USD,AXW291,14,2,8,1185.90,9487.20,948.72,"Product 2",Kharkov,Ukraine,"Pacific Ltd",Kharkov-Ukraine
+334,16-02-2013,15,Export,USD,FLR025,64,13,11,2586.20,28448.20,1629.31,"Product 13",Mykolaiv,Ukraine,"Rochester Ltd",Mykolaiv-Ukraine
+335,17-02-2013,26,Wholesale,USD,AXW291,5,1,10,2579.50,25795.00,1960.42,"Product 1",KIEV,Ukraine,"Mylan Corp",KIEV-Ukraine
+336,17-02-2013,7,Distributor,USD,AXW291,5,7,8,6378.40,51027.20,2806.50,"Product 7",KIEV,Ukraine,"New Ltd",KIEV-Ukraine
+337,17-02-2013,26,Wholesale,USD,NXH382,53,13,6,3008.30,18049.80,2226.14,"Product 13",VILNIUS,Lithuania,"Mylan Corp",VILNIUS-Lithuania
+338,17-02-2013,49,Wholesale,USD,AXW291,26,5,8,1755.40,14043.20,930.36,"Product 5","Torino (Turin)",Italy,"Bare ","Torino (Turin)-Italy"
+339,17-02-2013,28,Wholesale,USD,AXW291,31,7,8,1139.00,9112.00,740.35,"Product 7",RIGA,Latvia,"Dharma Ltd",RIGA-Latvia
+340,17-02-2013,46,Distributor,USD,AXW291,8,5,7,6157.30,43101.10,4556.40,"Product 5",BUDAPEST,Hungary,"U.S. Ltd",BUDAPEST-Hungary
+341,17-02-2013,33,Export,USD,AXW291,8,14,12,2231.10,26773.20,1093.24,"Product 14",BUDAPEST,Hungary,"Trigen ",BUDAPEST-Hungary
+342,17-02-2013,23,Wholesale,USD,AXW291,12,1,9,2479.00,22311.00,1859.25,"Product 1","BEOGRAD (Belgrade)",Serbia,"E. Ltd","BEOGRAD (Belgrade)-Serbia"
+343,17-02-2013,35,Wholesale,USD,AXW291,4,1,11,6391.80,70309.80,4793.85,"Product 1",ROMA,Italy,"Amylin Group",ROMA-Italy
+344,17-02-2013,4,Export,USD,NXH382,48,14,8,1139.00,9112.00,660.62,"Product 14",Zaragoza,Spain,"ETUDE Ltd",Zaragoza-Spain
+345,18-02-2013,38,Wholesale,USD,GUT930,36,7,8,2586.20,20689.60,1681.03,"Product 7",Krakow,Poland,"Ascend Ltd",Krakow-Poland
+346,18-02-2013,36,Wholesale,USD,GUT930,38,11,5,3899.40,19497.00,1871.71,"Product 11",AMSTERDAM,Netherlands,"O.E. Ltd",AMSTERDAM-Netherlands
+347,19-02-2013,25,Distributor,USD,AXW291,15,1,9,951.40,8562.60,599.38,"Product 1",Barcelona,Spain,"Prasco Group",Barcelona-Spain
+348,19-02-2013,8,Distributor,USD,GUT930,31,14,9,5607.90,50471.10,3476.90,"Product 14",RIGA,Latvia,"Medsep Group",RIGA-Latvia
+349,19-02-2013,12,Export,USD,NXH382,50,13,8,1165.80,9326.40,827.72,"Product 13",Rotterdam,Netherlands,"Medline ",Rotterdam-Netherlands
+350,19-02-2013,17,Distributor,USD,NXH382,50,1,12,1949.70,23396.40,1520.77,"Product 1",Rotterdam,Netherlands,"Pure Group",Rotterdam-Netherlands
+351,19-02-2013,40,Distributor,USD,AXW291,27,6,9,3685.00,33165.00,2690.05,"Product 6",ZAGREB,Croatia,"Select ",ZAGREB-Croatia
+352,20-02-2013,3,Wholesale,USD,FLR025,60,13,8,2633.10,21064.80,1816.84,"Product 13",Sheffield,UK,"Elorac  Corp",Sheffield-UK
+353,20-02-2013,26,Wholesale,USD,NXH382,50,7,6,1072.00,6432.00,460.96,"Product 7",Rotterdam,Netherlands,"Mylan Corp",Rotterdam-Netherlands
+354,20-02-2013,38,Distributor,USD,AXW291,6,11,10,3537.60,35376.00,1910.30,"Product 11",PARIS,France,"Ascend Ltd",PARIS-France
+355,20-02-2013,41,Distributor,USD,GUT930,42,5,11,1092.10,12013.10,622.50,"Product 5",Palermo,Italy,"Weimei Corp",Palermo-Italy
+356,21-02-2013,17,Wholesale,USD,NXH382,48,2,9,1748.70,15738.30,1136.66,"Product 2",Zaragoza,Spain,"Pure Group",Zaragoza-Spain
+357,22-02-2013,49,Wholesale,USD,AXW291,2,2,8,891.10,7128.80,739.61,"Product 2",BERLIN,Germany,"Bare ",BERLIN-Germany
+358,22-02-2013,41,Wholesale,USD,AXW291,29,2,5,3082.00,15410.00,1510.18,"Product 2",Lodz,Poland,"Weimei Corp",Lodz-Poland
+359,22-02-2013,34,Wholesale,USD,AXW291,27,5,5,1125.60,5628.00,776.66,"Product 5",ZAGREB,Croatia,"OUR Ltd",ZAGREB-Croatia
+360,22-02-2013,46,Wholesale,USD,AXW291,19,13,9,1252.90,11276.10,651.51,"Product 13",SOFIA,Bulgaria,"U.S. Ltd",SOFIA-Bulgaria
+361,22-02-2013,44,Distributor,USD,FLR025,66,1,11,837.50,9212.50,527.63,"Product 1","KOBENHAVN (Copenhagen)",Denmark,"Winthrop ","KOBENHAVN (Copenhagen)-Denmark"
+362,22-02-2013,21,Wholesale,USD,NXH382,53,13,10,1031.80,10318.00,773.85,"Product 13",VILNIUS,Lithuania,"Ohio ",VILNIUS-Lithuania
+363,22-02-2013,7,Wholesale,USD,GUT930,46,1,10,2385.20,23852.00,1454.97,"Product 1","Wroclaw (Breslau)",Poland,"New Ltd","Wroclaw (Breslau)-Poland"
+364,23-02-2013,48,Distributor,USD,AXW291,28,7,8,1802.30,14418.40,1153.47,"Product 7",Zaporozhye,Ukraine,"Fenwal  Corp",Zaporozhye-Ukraine
+365,23-02-2013,40,Distributor,USD,NXH382,49,2,5,1018.40,5092.00,753.62,"Product 2",Essen,Germany,"Select ",Essen-Germany
+366,23-02-2013,35,Wholesale,USD,AXW291,19,14,10,3946.30,39463.00,1815.30,"Product 14",SOFIA,Bulgaria,"Amylin Group",SOFIA-Bulgaria
+367,23-02-2013,21,Distributor,USD,AXW291,24,7,6,3953.00,23718.00,2095.09,"Product 7",Odessa,Ukraine,"Ohio ",Odessa-Ukraine
+368,24-02-2013,1,Wholesale,USD,AXW291,29,7,10,5098.70,50987.00,3416.13,"Product 7",Lodz,Poland,"Avon Corp",Lodz-Poland
+369,24-02-2013,9,Export,USD,FLR025,63,2,11,3758.70,41345.70,1954.52,"Product 2",Hannover,Germany,"Ei ",Hannover-Germany
+370,24-02-2013,9,Distributor,USD,AXW291,9,2,5,911.20,4556.00,610.50,"Product 2",Hamburg,Germany,"Ei ",Hamburg-Germany
+371,25-02-2013,26,Wholesale,USD,GUT930,43,2,8,904.50,7236.00,379.89,"Product 2",KISHINEV,Moldova,"Mylan Corp",KISHINEV-Moldova
+372,25-02-2013,21,Wholesale,USD,AXW291,23,6,10,911.20,9112.00,410.04,"Product 6",Birmingham,UK,"Ohio ",Birmingham-UK
+373,25-02-2013,6,Wholesale,USD,AXW291,7,7,10,227.80,2278.00,134.40,"Product 7","BUCURESTI (Bucharest)",Romania,"PEDIFIX  Corp","BUCURESTI (Bucharest)-Romania"
+374,25-02-2013,14,Distributor,USD,AXW291,13,5,5,254.60,1273.00,117.12,"Product 5","WIEN (Vienna)",Austria,"Linde ","WIEN (Vienna)-Austria"
+375,25-02-2013,33,Wholesale,USD,AXW291,6,2,11,683.40,7517.40,444.21,"Product 2",PARIS,France,"Trigen ",PARIS-France
+376,25-02-2013,43,Wholesale,USD,AXW291,29,2,7,3919.50,27436.50,2234.12,"Product 2",Lodz,Poland,"Exact-Rx  Corp",Lodz-Poland
+377,25-02-2013,25,Distributor,USD,FLR025,64,2,10,1092.10,10921.00,786.31,"Product 2",Mykolaiv,Ukraine,"Prasco Group",Mykolaiv-Ukraine
+378,25-02-2013,10,Wholesale,USD,GUT930,36,11,11,924.60,10170.60,536.27,"Product 11",Krakow,Poland,"21st Ltd",Krakow-Poland
+379,25-02-2013,45,Distributor,USD,GUT930,33,7,5,1018.40,5092.00,794.35,"Product 7","ATHINAI (Athens)",Greece,"Nipro ","ATHINAI (Athens)-Greece"
+380,26-02-2013,19,Distributor,USD,FLR025,65,1,5,1788.90,8944.50,1305.90,"Product 1",OSLO,Norway,"Qualitest ",OSLO-Norway
+381,26-02-2013,17,Distributor,USD,AXW291,15,7,11,944.70,10391.70,538.48,"Product 7",Barcelona,Spain,"Pure Group",Barcelona-Spain
+382,26-02-2013,39,Distributor,USD,AXW291,26,6,6,3959.70,23758.20,2573.81,"Product 6","Torino (Turin)",Italy,"Victory Ltd","Torino (Turin)-Italy"
+383,27-02-2013,11,Distributor,USD,AXW291,27,9,12,167.50,2010.00,70.35,"Product 9",ZAGREB,Croatia,"Apollo Ltd",ZAGREB-Croatia
+384,27-02-2013,23,Export,USD,AXW291,19,2,8,3872.60,30980.80,1975.03,"Product 2",SOFIA,Bulgaria,"E. Ltd",SOFIA-Bulgaria
+385,27-02-2013,12,Distributor,USD,GUT930,34,4,5,6539.20,32696.00,3858.13,"Product 4",Salonika,Greece,"Medline ",Salonika-Greece
+386,28-02-2013,44,Wholesale,USD,AXW291,10,1,6,1025.10,6150.60,779.08,"Product 1",MINSK,Belarus,"Winthrop ",MINSK-Belarus
+387,28-02-2013,31,Wholesale,USD,GUT930,35,11,5,938.00,4690.00,572.18,"Product 11",STOCKHOLM,Sweden,"Uriel Group",STOCKHOLM-Sweden
+388,28-02-2013,19,Distributor,USD,FLR025,64,9,11,1045.20,11497.20,804.80,"Product 9",Mykolaiv,Ukraine,"Qualitest ",Mykolaiv-Ukraine
+389,28-02-2013,20,Export,USD,GUT930,37,11,9,167.50,1507.50,112.23,"Product 11",Valencia,Spain,"Pacific Ltd",Valencia-Spain
+390,28-02-2013,44,Distributor,USD,FLR025,61,13,5,1721.90,8609.50,1377.52,"Product 13",SARAJEVO,Bosnia,"Winthrop ",SARAJEVO-Bosnia
+391,28-02-2013,30,Wholesale,USD,GUT930,44,1,8,676.70,5413.60,466.92,"Product 1",Genova,Italy,"S.S.S. Group",Genova-Italy
+392,28-02-2013,47,Wholesale,USD,AXW291,30,1,12,167.50,2010.00,82.08,"Product 1",Marseille,France,"Niconovum Corp",Marseille-France
+393,28-02-2013,26,Distributor,USD,GUT930,46,13,10,1118.90,11189.00,895.12,"Product 13","Wroclaw (Breslau)",Poland,"Mylan Corp","Wroclaw (Breslau)-Poland"
+394,28-02-2013,17,Distributor,USD,AXW291,5,13,6,1139.00,6834.00,933.98,"Product 13",KIEV,Ukraine,"Pure Group",KIEV-Ukraine
+395,28-02-2013,44,Wholesale,USD,NXH382,50,4,5,1748.70,8743.50,751.94,"Product 4",Rotterdam,Netherlands,"Winthrop ",Rotterdam-Netherlands
+396,01-03-2013,13,Distributor,USD,NXH382,47,2,11,1728.60,19014.60,1140.88,"Product 2",Glasgow,UK,"Ole Group",Glasgow-UK
+397,01-03-2013,13,Distributor,USD,GUT930,33,13,5,1112.20,5561.00,500.49,"Product 13","ATHINAI (Athens)",Greece,"Ole Group","ATHINAI (Athens)-Greece"
+398,01-03-2013,9,Distributor,USD,AXW291,11,2,11,2385.20,26237.20,1454.97,"Product 2","WARSZAWA (Warsaw)",Poland,"Ei ","WARSZAWA (Warsaw)-Poland"
+399,02-03-2013,18,Export,USD,AXW291,15,2,12,221.10,2653.20,172.46,"Product 2",Barcelona,Spain,"Eminence Corp",Barcelona-Spain
+400,02-03-2013,1,Wholesale,USD,AXW291,22,9,6,5708.40,34250.40,2682.95,"Product 9","Napoli (Naples)",Italy,"Avon Corp","Napoli (Naples)-Italy"
+401,02-03-2013,38,Wholesale,USD,NXH382,52,2,7,1038.50,7269.50,830.80,"Product 2",Stuttgart,Germany,"Ascend Ltd",Stuttgart-Germany
+402,02-03-2013,43,Distributor,USD,AXW291,4,1,7,3993.20,27952.40,3234.49,"Product 1",ROMA,Italy,"Exact-Rx  Corp",ROMA-Italy
+403,02-03-2013,14,Distributor,USD,GUT930,35,5,12,1085.40,13024.80,792.34,"Product 5",STOCKHOLM,Sweden,"Linde ",STOCKHOLM-Sweden
+404,03-03-2013,36,Wholesale,USD,NXH382,50,2,11,3886.00,42746.00,2020.72,"Product 2",Rotterdam,Netherlands,"O.E. Ltd",Rotterdam-Netherlands
+405,03-03-2013,21,Wholesale,USD,NXH382,53,8,6,3986.50,23919.00,2670.96,"Product 8",VILNIUS,Lithuania,"Ohio ",VILNIUS-Lithuania
+406,03-03-2013,41,Wholesale,USD,AXW291,22,11,8,1206.00,9648.00,988.92,"Product 11","Napoli (Naples)",Italy,"Weimei Corp","Napoli (Naples)-Italy"
+407,03-03-2013,38,Export,USD,FLR025,65,5,6,1842.50,11055.00,1050.23,"Product 5",OSLO,Norway,"Ascend Ltd",OSLO-Norway
+408,03-03-2013,22,Distributor,USD,NXH382,54,5,6,5051.80,30310.80,2930.04,"Product 5",Poznan,Poland,"Capweld ",Poznan-Poland
+409,03-03-2013,4,Distributor,USD,GUT930,45,7,11,1165.80,12823.80,466.32,"Product 7","Frankfurt am Main",Germany,"ETUDE Ltd","Frankfurt am Main-Germany"
+410,03-03-2013,21,Wholesale,USD,FLR025,60,3,11,3966.40,43630.40,2340.18,"Product 3",Sheffield,UK,"Ohio ",Sheffield-UK
+411,03-03-2013,17,Wholesale,USD,NXH382,58,13,9,1802.30,16220.70,1495.91,"Product 13",Malaga,Spain,"Pure Group",Malaga-Spain
+412,04-03-2013,36,Wholesale,USD,AXW291,28,11,8,1105.50,8844.00,851.24,"Product 11",Zaporozhye,Ukraine,"O.E. Ltd",Zaporozhye-Ukraine
+413,04-03-2013,16,Wholesale,USD,AXW291,9,5,9,1889.40,17004.60,1398.16,"Product 5",Hamburg,Germany,"3LAB  Ltd",Hamburg-Germany
+414,05-03-2013,40,Wholesale,USD,FLR025,63,10,6,1018.40,6110.40,661.96,"Product 10",Hannover,Germany,"Select ",Hannover-Germany
+415,05-03-2013,8,Wholesale,USD,NXH382,53,12,12,3865.90,46390.80,2822.11,"Product 12",VILNIUS,Lithuania,"Medsep Group",VILNIUS-Lithuania
+416,05-03-2013,30,Wholesale,USD,GUT930,46,4,10,998.30,9983.00,449.24,"Product 4","Wroclaw (Breslau)",Poland,"S.S.S. Group","Wroclaw (Breslau)-Poland"
+417,05-03-2013,48,Distributor,USD,AXW291,27,11,6,254.60,1527.60,127.30,"Product 11",ZAGREB,Croatia,"Fenwal  Corp",ZAGREB-Croatia
+418,05-03-2013,13,Wholesale,USD,AXW291,2,13,7,703.50,4924.50,316.58,"Product 13",BERLIN,Germany,"Ole Group",BERLIN-Germany
+419,05-03-2013,47,Wholesale,USD,AXW291,12,2,7,1092.10,7644.70,546.05,"Product 2","BEOGRAD (Belgrade)",Serbia,"Niconovum Corp","BEOGRAD (Belgrade)-Serbia"
+420,06-03-2013,6,Export,USD,AXW291,11,1,8,1038.50,8308.00,560.79,"Product 1","WARSZAWA (Warsaw)",Poland,"PEDIFIX  Corp","WARSZAWA (Warsaw)-Poland"
+421,06-03-2013,50,Distributor,USD,GUT930,34,3,12,2398.60,28783.20,1894.89,"Product 3",Salonika,Greece,"Sundial ",Salonika-Greece
+422,06-03-2013,32,Export,USD,AXW291,27,7,6,897.80,5386.80,368.10,"Product 7",ZAGREB,Croatia,"OHTA'S Corp",ZAGREB-Croatia
+423,06-03-2013,30,Wholesale,USD,AXW291,8,11,12,5212.60,62551.20,3179.69,"Product 11",BUDAPEST,Hungary,"S.S.S. Group",BUDAPEST-Hungary
+424,06-03-2013,46,Export,USD,AXW291,19,7,5,254.60,1273.00,206.23,"Product 7",SOFIA,Bulgaria,"U.S. Ltd",SOFIA-Bulgaria
+425,06-03-2013,29,Distributor,USD,GUT930,43,6,7,3926.20,27483.40,2120.15,"Product 6",KISHINEV,Moldova,"Apotheca  Ltd",KISHINEV-Moldova
+426,06-03-2013,13,Wholesale,USD,NXH382,57,2,7,1165.80,8160.60,582.90,"Product 2",HELSINKI,Finland,"Ole Group",HELSINKI-Finland
+427,06-03-2013,44,Export,USD,GUT930,33,1,8,3859.20,30873.60,2354.11,"Product 1","ATHINAI (Athens)",Greece,"Winthrop ","ATHINAI (Athens)-Greece"
+428,06-03-2013,4,Export,USD,AXW291,13,9,5,167.50,837.50,100.50,"Product 9","WIEN (Vienna)",Austria,"ETUDE Ltd","WIEN (Vienna)-Austria"
+429,07-03-2013,22,Distributor,USD,NXH382,60,1,9,1681.70,15135.30,891.30,"Product 1",Sheffield,UK,"Capweld ",Sheffield-UK
+430,07-03-2013,38,Export,USD,AXW291,25,2,7,924.60,6472.20,665.71,"Product 2","Koln (Cologne)",Germany,"Ascend Ltd","Koln (Cologne)-Germany"
+431,07-03-2013,13,Wholesale,USD,AXW291,22,12,9,3966.40,35697.60,3371.44,"Product 12","Napoli (Naples)",Italy,"Ole Group","Napoli (Naples)-Italy"
+432,07-03-2013,19,Distributor,USD,NXH382,51,11,6,938.00,5628.00,450.24,"Product 11",Dortmund,Germany,"Qualitest ",Dortmund-Germany
+433,07-03-2013,20,Distributor,USD,AXW291,15,9,8,1983.20,15865.60,1090.76,"Product 9",Barcelona,Spain,"Pacific Ltd",Barcelona-Spain
+434,07-03-2013,27,Wholesale,USD,AXW291,30,1,10,2586.20,25862.00,2094.82,"Product 1",Marseille,France,"Wuxi Group",Marseille-France
+435,07-03-2013,14,Export,USD,AXW291,16,13,12,3061.90,36742.80,2051.47,"Product 13","Milano (Milan)",Italy,"Linde ","Milano (Milan)-Italy"
+436,07-03-2013,30,Export,USD,NXH382,58,7,11,1051.90,11570.90,452.32,"Product 7",Malaga,Spain,"S.S.S. Group",Malaga-Spain
+437,07-03-2013,11,Export,USD,GUT930,41,7,9,261.30,2351.70,104.52,"Product 7",Sevilla,Spain,"Apollo Ltd",Sevilla-Spain
+438,08-03-2013,4,Wholesale,USD,AXW291,25,2,5,6143.90,30719.50,3071.95,"Product 2","Koln (Cologne)",Germany,"ETUDE Ltd","Koln (Cologne)-Germany"
+439,08-03-2013,45,Distributor,USD,AXW291,26,2,9,2472.30,22250.70,1928.39,"Product 2","Torino (Turin)",Italy,"Nipro ","Torino (Turin)-Italy"
+440,08-03-2013,6,Wholesale,USD,NXH382,57,1,9,3892.70,35034.30,3075.23,"Product 1",HELSINKI,Finland,"PEDIFIX  Corp",HELSINKI-Finland
+441,08-03-2013,33,Distributor,USD,GUT930,39,6,10,964.80,9648.00,492.05,"Product 6",Leeds,UK,"Trigen ",Leeds-UK
+442,08-03-2013,46,Export,USD,FLR025,62,6,12,3832.40,45988.80,3104.24,"Product 6",Duisburg,Germany,"U.S. Ltd",Duisburg-Germany
+443,08-03-2013,12,Distributor,USD,GUT930,35,1,6,964.80,5788.80,781.49,"Product 1",STOCKHOLM,Sweden,"Medline ",STOCKHOLM-Sweden
+444,08-03-2013,48,Wholesale,USD,AXW291,22,1,11,1118.90,12307.90,794.42,"Product 1","Napoli (Naples)",Italy,"Fenwal  Corp","Napoli (Naples)-Italy"
+445,08-03-2013,43,Wholesale,USD,NXH382,58,11,6,180.90,1085.40,74.17,"Product 11",Malaga,Spain,"Exact-Rx  Corp",Malaga-Spain
+446,08-03-2013,23,Wholesale,USD,AXW291,18,7,7,844.20,5909.40,346.12,"Product 7","PRAHA (Prague)","Czech Republic","E. Ltd","PRAHA (Prague)-Czech Republic"
+447,08-03-2013,25,Export,USD,AXW291,18,11,6,3490.70,20944.20,1780.26,"Product 11","PRAHA (Prague)","Czech Republic","Prasco Group","PRAHA (Prague)-Czech Republic"
+448,09-03-2013,39,Distributor,USD,AXW291,12,11,10,1112.20,11122.00,778.54,"Product 11","BEOGRAD (Belgrade)",Serbia,"Victory Ltd","BEOGRAD (Belgrade)-Serbia"
+449,09-03-2013,42,Wholesale,USD,AXW291,23,1,7,1072.00,7504.00,568.16,"Product 1",Birmingham,UK,"Llorens Ltd",Birmingham-UK
+450,09-03-2013,20,Wholesale,USD,AXW291,1,7,7,1078.70,7550.90,906.11,"Product 7",LONDON,UK,"Pacific Ltd",LONDON-UK
+451,09-03-2013,10,Wholesale,USD,NXH382,49,9,9,5433.70,48903.30,3857.93,"Product 9",Essen,Germany,"21st Ltd",Essen-Germany
+452,09-03-2013,17,Distributor,USD,NXH382,56,1,6,3906.10,23436.60,3163.94,"Product 1","LISBOA (Lisbon)",Portugal,"Pure Group","LISBOA (Lisbon)-Portugal"
+453,09-03-2013,21,Distributor,USD,AXW291,19,1,5,2458.90,12294.50,2090.07,"Product 1",SOFIA,Bulgaria,"Ohio ",SOFIA-Bulgaria
+454,09-03-2013,8,Export,USD,NXH382,47,5,8,1112.20,8897.60,856.39,"Product 5",Glasgow,UK,"Medsep Group",Glasgow-UK
+455,10-03-2013,31,Export,USD,AXW291,27,1,6,1065.30,6391.80,745.71,"Product 1",ZAGREB,Croatia,"Uriel Group",ZAGREB-Croatia
+456,10-03-2013,5,Distributor,USD,NXH382,54,14,7,1862.60,13038.20,1359.70,"Product 14",Poznan,Poland,"Procter Corp",Poznan-Poland
+457,11-03-2013,11,Wholesale,USD,NXH382,49,2,9,1822.40,16401.60,1184.56,"Product 2",Essen,Germany,"Apollo Ltd",Essen-Germany
+458,11-03-2013,35,Distributor,USD,AXW291,29,1,10,1065.30,10653.00,575.26,"Product 1",Lodz,Poland,"Amylin Group",Lodz-Poland
+459,11-03-2013,26,Wholesale,USD,AXW291,6,9,5,5875.90,29379.50,4289.41,"Product 9",PARIS,France,"Mylan Corp",PARIS-France
+460,11-03-2013,10,Wholesale,USD,AXW291,28,1,5,1728.60,8643.00,708.73,"Product 1",Zaporozhye,Ukraine,"21st Ltd",Zaporozhye-Ukraine
+461,11-03-2013,50,Distributor,USD,AXW291,23,5,5,3832.40,19162.00,2452.74,"Product 5",Birmingham,UK,"Sundial ",Birmingham-UK
+462,12-03-2013,24,Wholesale,USD,NXH382,47,12,8,1025.10,8200.80,861.08,"Product 12",Glasgow,UK,"Burt's Corp",Glasgow-UK
+463,12-03-2013,1,Distributor,USD,AXW291,21,13,10,1815.70,18157.00,944.16,"Product 13",Donetsk,Ukraine,"Avon Corp",Donetsk-Ukraine
+464,13-03-2013,22,Wholesale,USD,NXH382,53,7,5,3839.10,19195.50,1689.20,"Product 7",VILNIUS,Lithuania,"Capweld ",VILNIUS-Lithuania
+465,13-03-2013,15,Wholesale,USD,AXW291,11,9,5,2425.40,12127.00,1430.99,"Product 9","WARSZAWA (Warsaw)",Poland,"Rochester Ltd","WARSZAWA (Warsaw)-Poland"
+466,13-03-2013,38,Wholesale,USD,GUT930,40,13,5,3865.90,19329.50,1971.61,"Product 13","Kryvy Rig",Ukraine,"Ascend Ltd","Kryvy Rig-Ukraine"
+467,13-03-2013,45,Distributor,USD,FLR025,64,7,8,2653.20,21225.60,1857.24,"Product 7",Mykolaiv,Ukraine,"Nipro ",Mykolaiv-Ukraine
+468,13-03-2013,42,Distributor,USD,AXW291,17,1,7,991.60,6941.20,594.96,"Product 1","Munchen (Munich)",Germany,"Llorens Ltd","Munchen (Munich)-Germany"
+469,13-03-2013,9,Wholesale,USD,FLR025,63,13,8,2512.50,20100.00,2060.25,"Product 13",Hannover,Germany,"Ei ",Hannover-Germany
+470,14-03-2013,6,Wholesale,USD,AXW291,8,7,11,2613.00,28743.00,1332.63,"Product 7",BUDAPEST,Hungary,"PEDIFIX  Corp",BUDAPEST-Hungary
+471,14-03-2013,1,Wholesale,USD,FLR025,65,4,7,5721.80,40052.60,3375.86,"Product 4",OSLO,Norway,"Avon Corp",OSLO-Norway
+472,14-03-2013,8,Wholesale,USD,GUT930,42,1,12,1768.80,21225.60,831.34,"Product 1",Palermo,Italy,"Medsep Group",Palermo-Italy
+473,14-03-2013,19,Export,USD,GUT930,40,12,5,2606.30,13031.50,1251.02,"Product 12","Kryvy Rig",Ukraine,"Qualitest ","Kryvy Rig-Ukraine"
+474,14-03-2013,10,Export,USD,FLR025,60,7,10,2452.20,24522.00,1569.41,"Product 7",Sheffield,UK,"21st Ltd",Sheffield-UK
+475,15-03-2013,49,Wholesale,USD,GUT930,38,13,12,964.80,11577.60,694.66,"Product 13",AMSTERDAM,Netherlands,"Bare ",AMSTERDAM-Netherlands
+476,15-03-2013,44,Export,USD,AXW291,17,13,11,1125.60,12381.60,562.80,"Product 13","Munchen (Munich)",Germany,"Winthrop ","Munchen (Munich)-Germany"
+477,15-03-2013,30,Distributor,USD,NXH382,57,7,11,857.60,9433.60,548.86,"Product 7",HELSINKI,Finland,"S.S.S. Group",HELSINKI-Finland
+478,15-03-2013,37,Wholesale,USD,AXW291,5,1,9,3906.10,35154.90,1796.81,"Product 1",KIEV,Ukraine,"AuroMedics Corp",KIEV-Ukraine
+479,15-03-2013,8,Export,USD,AXW291,29,5,5,1078.70,5393.50,506.99,"Product 5",Lodz,Poland,"Medsep Group",Lodz-Poland
+480,15-03-2013,13,Wholesale,USD,NXH382,51,10,12,2432.10,29185.20,1264.69,"Product 10",Dortmund,Germany,"Ole Group",Dortmund-Germany
+481,16-03-2013,2,Wholesale,USD,AXW291,17,7,7,958.10,6706.70,536.54,"Product 7","Munchen (Munich)",Germany,"WakeFern ","Munchen (Munich)-Germany"
+482,16-03-2013,42,Wholesale,USD,AXW291,25,7,6,864.30,5185.80,726.01,"Product 7","Koln (Cologne)",Germany,"Llorens Ltd","Koln (Cologne)-Germany"
+483,16-03-2013,40,Distributor,USD,AXW291,27,5,12,864.30,10371.60,700.08,"Product 5",ZAGREB,Croatia,"Select ",ZAGREB-Croatia
+484,16-03-2013,40,Distributor,USD,GUT930,35,11,5,891.10,4455.50,579.22,"Product 11",STOCKHOLM,Sweden,"Select ",STOCKHOLM-Sweden
+485,16-03-2013,17,Wholesale,USD,AXW291,18,5,6,3979.80,23878.80,2069.50,"Product 5","PRAHA (Prague)","Czech Republic","Pure Group","PRAHA (Prague)-Czech Republic"
+486,16-03-2013,23,Wholesale,USD,GUT930,39,1,5,837.50,4187.50,469.00,"Product 1",Leeds,UK,"E. Ltd",Leeds-UK
+487,16-03-2013,28,Distributor,USD,AXW291,14,13,9,2318.20,20863.80,1738.65,"Product 13",Kharkov,Ukraine,"Dharma Ltd",Kharkov-Ukraine
+488,17-03-2013,41,Wholesale,USD,AXW291,6,6,7,1822.40,12756.80,801.86,"Product 6",PARIS,France,"Weimei Corp",PARIS-France
+489,17-03-2013,29,Distributor,USD,NXH382,60,11,6,1165.80,6994.80,664.51,"Product 11",Sheffield,UK,"Apotheca  Ltd",Sheffield-UK
+490,17-03-2013,11,Wholesale,USD,AXW291,8,9,7,234.50,1641.50,187.60,"Product 9",BUDAPEST,Hungary,"Apollo Ltd",BUDAPEST-Hungary
+491,17-03-2013,11,Wholesale,USD,GUT930,44,1,11,2452.20,26974.20,1912.72,"Product 1",Genova,Italy,"Apollo Ltd",Genova-Italy
+492,18-03-2013,19,Distributor,USD,FLR025,60,13,11,261.30,2874.30,133.26,"Product 13",Sheffield,UK,"Qualitest ",Sheffield-UK
+493,18-03-2013,29,Export,USD,AXW291,16,7,10,1031.80,10318.00,453.99,"Product 7","Milano (Milan)",Italy,"Apotheca  Ltd","Milano (Milan)-Italy"
+494,18-03-2013,18,Wholesale,USD,FLR025,63,11,8,3082.00,24656.00,1849.20,"Product 11",Hannover,Germany,"Eminence Corp",Hannover-Germany
+495,18-03-2013,27,Wholesale,USD,NXH382,56,9,11,6405.20,70457.20,3138.55,"Product 9","LISBOA (Lisbon)",Portugal,"Wuxi Group","LISBOA (Lisbon)-Portugal"
+496,19-03-2013,22,Distributor,USD,AXW291,30,7,7,1822.40,12756.80,947.65,"Product 7",Marseille,France,"Capweld ",Marseille-France
+497,19-03-2013,29,Wholesale,USD,GUT930,33,10,11,1279.70,14076.70,1062.15,"Product 10","ATHINAI (Athens)",Greece,"Apotheca  Ltd","ATHINAI (Athens)-Greece"
+498,19-03-2013,3,Wholesale,USD,NXH382,51,1,5,3932.90,19664.50,2635.04,"Product 1",Dortmund,Germany,"Elorac  Corp",Dortmund-Germany
+499,19-03-2013,28,Wholesale,USD,NXH382,56,1,9,201.00,1809.00,80.40,"Product 1","LISBOA (Lisbon)",Portugal,"Dharma Ltd","LISBOA (Lisbon)-Portugal"
+500,19-03-2013,11,Wholesale,USD,AXW291,26,1,9,3946.30,35516.70,2131.00,"Product 1","Torino (Turin)",Italy,"Apollo Ltd","Torino (Turin)-Italy"
+501,19-03-2013,49,Wholesale,USD,AXW291,13,11,12,1909.50,22914.00,1317.56,"Product 11","WIEN (Vienna)",Austria,"Bare ","WIEN (Vienna)-Austria"
+502,19-03-2013,47,Distributor,USD,AXW291,22,4,5,2412.00,12060.00,1109.52,"Product 4","Napoli (Naples)",Italy,"Niconovum Corp","Napoli (Naples)-Italy"
+503,20-03-2013,50,Wholesale,USD,AXW291,28,2,12,964.80,11577.60,675.36,"Product 2",Zaporozhye,Ukraine,"Sundial ",Zaporozhye-Ukraine
+504,20-03-2013,42,Wholesale,USD,AXW291,11,14,9,1996.60,17969.40,1457.52,"Product 14","WARSZAWA (Warsaw)",Poland,"Llorens Ltd","WARSZAWA (Warsaw)-Poland"
+505,20-03-2013,21,Wholesale,USD,GUT930,41,6,10,1045.20,10452.00,700.28,"Product 6",Sevilla,Spain,"Ohio ",Sevilla-Spain
+506,20-03-2013,41,Wholesale,USD,AXW291,7,13,12,3879.30,46551.60,3219.82,"Product 13","BUCURESTI (Bucharest)",Romania,"Weimei Corp","BUCURESTI (Bucharest)-Romania"
+507,20-03-2013,50,Wholesale,USD,AXW291,14,2,12,5976.40,71716.80,3466.31,"Product 2",Kharkov,Ukraine,"Sundial ",Kharkov-Ukraine
+508,20-03-2013,13,Wholesale,USD,GUT930,46,11,8,2257.90,18063.20,1264.42,"Product 11","Wroclaw (Breslau)",Poland,"Ole Group","Wroclaw (Breslau)-Poland"
+509,20-03-2013,9,Distributor,USD,GUT930,34,5,10,241.20,2412.00,154.37,"Product 5",Salonika,Greece,"Ei ",Salonika-Greece
+510,21-03-2013,35,Distributor,USD,AXW291,13,1,6,1983.20,11899.20,793.28,"Product 1","WIEN (Vienna)",Austria,"Amylin Group","WIEN (Vienna)-Austria"
+511,21-03-2013,1,Export,USD,FLR025,66,5,6,3919.50,23517.00,3331.58,"Product 5","KOBENHAVN (Copenhagen)",Denmark,"Avon Corp","KOBENHAVN (Copenhagen)-Denmark"
+512,21-03-2013,17,Distributor,USD,GUT930,32,1,9,241.20,2170.80,135.07,"Product 1",Lvov,Ukraine,"Pure Group",Lvov-Ukraine
+513,21-03-2013,35,Distributor,USD,AXW291,1,5,11,3946.30,43409.30,2012.61,"Product 5",LONDON,UK,"Amylin Group",LONDON-UK
+514,21-03-2013,6,Wholesale,USD,AXW291,29,1,7,3966.40,27764.80,3054.13,"Product 1",Lodz,Poland,"PEDIFIX  Corp",Lodz-Poland
+515,21-03-2013,6,Wholesale,USD,AXW291,20,7,7,1829.10,12803.70,1463.28,"Product 7",Dnepropetrovsk,Ukraine,"PEDIFIX  Corp",Dnepropetrovsk-Ukraine
+516,22-03-2013,15,Wholesale,USD,NXH382,50,7,12,2733.60,32803.20,1230.12,"Product 7",Rotterdam,Netherlands,"Rochester Ltd",Rotterdam-Netherlands
+517,22-03-2013,20,Distributor,USD,NXH382,59,7,9,844.20,7597.80,717.57,"Product 7",Bremen,Germany,"Pacific Ltd",Bremen-Germany
+518,22-03-2013,28,Wholesale,USD,NXH382,55,2,6,6231.00,37386.00,4922.49,"Product 2",Dusseldorf,Germany,"Dharma Ltd",Dusseldorf-Germany
+519,22-03-2013,16,Distributor,USD,AXW291,12,9,10,1159.10,11591.00,614.32,"Product 9","BEOGRAD (Belgrade)",Serbia,"3LAB  Ltd","BEOGRAD (Belgrade)-Serbia"
+520,22-03-2013,15,Wholesale,USD,AXW291,8,11,6,3966.40,23798.40,2379.84,"Product 11",BUDAPEST,Hungary,"Rochester Ltd",BUDAPEST-Hungary
+521,22-03-2013,41,Wholesale,USD,AXW291,1,5,5,1105.50,5527.50,740.69,"Product 5",LONDON,UK,"Weimei Corp",LONDON-UK
+522,22-03-2013,16,Wholesale,USD,AXW291,11,11,8,1125.60,9004.80,731.64,"Product 11","WARSZAWA (Warsaw)",Poland,"3LAB  Ltd","WARSZAWA (Warsaw)-Poland"
+523,22-03-2013,19,Distributor,USD,AXW291,25,13,11,897.80,9875.80,709.26,"Product 13","Koln (Cologne)",Germany,"Qualitest ","Koln (Cologne)-Germany"
+524,22-03-2013,21,Wholesale,USD,AXW291,13,7,5,207.70,1038.50,83.08,"Product 7","WIEN (Vienna)",Austria,"Ohio ","WIEN (Vienna)-Austria"
+525,22-03-2013,43,Wholesale,USD,FLR025,65,2,10,3959.70,39597.00,2138.24,"Product 2",OSLO,Norway,"Exact-Rx  Corp",OSLO-Norway
+526,22-03-2013,21,Wholesale,USD,NXH382,58,1,6,1755.40,10532.40,912.81,"Product 1",Malaga,Spain,"Ohio ",Malaga-Spain
+527,23-03-2013,37,Wholesale,USD,GUT930,39,1,7,3001.60,21011.20,1650.88,"Product 1",Leeds,UK,"AuroMedics Corp",Leeds-UK
+528,23-03-2013,33,Wholesale,USD,NXH382,49,11,7,1031.80,7222.60,464.31,"Product 11",Essen,Germany,"Trigen ",Essen-Germany
+529,23-03-2013,21,Export,USD,AXW291,10,10,10,3966.40,39664.00,2776.48,"Product 10",MINSK,Belarus,"Ohio ",MINSK-Belarus
+530,23-03-2013,48,Distributor,USD,AXW291,18,1,6,1681.70,10090.20,1126.74,"Product 1","PRAHA (Prague)","Czech Republic","Fenwal  Corp","PRAHA (Prague)-Czech Republic"
+531,23-03-2013,33,Wholesale,USD,AXW291,2,4,6,1172.50,7035.00,809.03,"Product 4",BERLIN,Germany,"Trigen ",BERLIN-Germany
+532,23-03-2013,26,Distributor,USD,NXH382,55,2,5,716.90,3584.50,473.15,"Product 2",Dusseldorf,Germany,"Mylan Corp",Dusseldorf-Germany
+533,23-03-2013,12,Wholesale,USD,NXH382,52,2,6,6465.50,38793.00,3879.30,"Product 2",Stuttgart,Germany,"Medline ",Stuttgart-Germany
+534,23-03-2013,30,Wholesale,USD,NXH382,53,6,11,241.20,2653.20,101.30,"Product 6",VILNIUS,Lithuania,"S.S.S. Group",VILNIUS-Lithuania
+535,23-03-2013,38,Export,USD,AXW291,22,7,6,1929.60,11577.60,849.02,"Product 7","Napoli (Naples)",Italy,"Ascend Ltd","Napoli (Naples)-Italy"
+536,23-03-2013,23,Wholesale,USD,AXW291,30,1,12,3953.00,47436.00,3280.99,"Product 1",Marseille,France,"E. Ltd",Marseille-France
+537,23-03-2013,46,Distributor,USD,GUT930,37,11,8,2492.40,19939.20,1320.97,"Product 11",Valencia,Spain,"U.S. Ltd",Valencia-Spain
+538,24-03-2013,15,Export,USD,NXH382,54,1,5,241.20,1206.00,185.72,"Product 1",Poznan,Poland,"Rochester Ltd",Poznan-Poland
+539,24-03-2013,34,Distributor,USD,GUT930,38,7,6,951.40,5708.40,380.56,"Product 7",AMSTERDAM,Netherlands,"OUR Ltd",AMSTERDAM-Netherlands
+540,24-03-2013,45,Export,USD,AXW291,14,1,10,6217.60,62176.00,5284.96,"Product 1",Kharkov,Ukraine,"Nipro ",Kharkov-Ukraine
+541,24-03-2013,15,Distributor,USD,AXW291,14,5,6,2351.70,14110.20,1246.40,"Product 5",Kharkov,Ukraine,"Rochester Ltd",Kharkov-Ukraine
+542,24-03-2013,19,Distributor,USD,AXW291,25,13,7,1132.30,7926.10,871.87,"Product 13","Koln (Cologne)",Germany,"Qualitest ","Koln (Cologne)-Germany"
+543,24-03-2013,1,Wholesale,USD,GUT930,38,11,6,1145.70,6874.20,607.22,"Product 11",AMSTERDAM,Netherlands,"Avon Corp",AMSTERDAM-Netherlands
+544,24-03-2013,15,Wholesale,USD,AXW291,23,2,6,3725.20,22351.20,2048.86,"Product 2",Birmingham,UK,"Rochester Ltd",Birmingham-UK
+545,25-03-2013,50,Wholesale,USD,GUT930,35,11,11,944.70,10391.70,689.63,"Product 11",STOCKHOLM,Sweden,"Sundial ",STOCKHOLM-Sweden
+546,25-03-2013,39,Distributor,USD,AXW291,29,2,9,1219.40,10974.60,560.92,"Product 2",Lodz,Poland,"Victory Ltd",Lodz-Poland
+547,25-03-2013,30,Wholesale,USD,GUT930,38,7,11,1051.90,11570.90,736.33,"Product 7",AMSTERDAM,Netherlands,"S.S.S. Group",AMSTERDAM-Netherlands
+548,26-03-2013,31,Wholesale,USD,AXW291,4,1,10,207.70,2077.00,135.01,"Product 1",ROMA,Italy,"Uriel Group",ROMA-Italy
+549,26-03-2013,14,Export,USD,GUT930,37,5,8,1862.60,14900.80,1098.93,"Product 5",Valencia,Spain,"Linde ",Valencia-Spain
+550,26-03-2013,26,Distributor,USD,AXW291,14,12,12,1889.40,22672.80,1152.53,"Product 12",Kharkov,Ukraine,"Mylan Corp",Kharkov-Ukraine
+551,26-03-2013,40,Wholesale,USD,FLR025,64,13,6,2653.20,15919.20,2016.43,"Product 13",Mykolaiv,Ukraine,"Select ",Mykolaiv-Ukraine
+552,26-03-2013,43,Wholesale,USD,FLR025,62,9,9,3953.00,35577.00,1818.38,"Product 9",Duisburg,Germany,"Exact-Rx  Corp",Duisburg-Germany
+553,26-03-2013,5,Export,USD,FLR025,66,1,12,227.80,2733.60,191.35,"Product 1","KOBENHAVN (Copenhagen)",Denmark,"Procter Corp","KOBENHAVN (Copenhagen)-Denmark"
+554,26-03-2013,28,Distributor,USD,NXH382,56,7,12,3879.30,46551.60,1551.72,"Product 7","LISBOA (Lisbon)",Portugal,"Dharma Ltd","LISBOA (Lisbon)-Portugal"
+555,27-03-2013,21,Wholesale,USD,AXW291,28,1,5,1045.20,5226.00,804.80,"Product 1",Zaporozhye,Ukraine,"Ohio ",Zaporozhye-Ukraine
+556,27-03-2013,4,Wholesale,USD,NXH382,54,5,12,5071.90,60862.80,2535.95,"Product 5",Poznan,Poland,"ETUDE Ltd",Poznan-Poland
+557,27-03-2013,23,Wholesale,USD,FLR025,66,13,8,241.20,1929.60,144.72,"Product 13","KOBENHAVN (Copenhagen)",Denmark,"E. Ltd","KOBENHAVN (Copenhagen)-Denmark"
+558,28-03-2013,35,Distributor,USD,AXW291,18,13,6,2298.10,13788.60,1539.73,"Product 13","PRAHA (Prague)","Czech Republic","Amylin Group","PRAHA (Prague)-Czech Republic"
+559,28-03-2013,25,Distributor,USD,AXW291,12,7,12,3845.80,46149.60,1845.98,"Product 7","BEOGRAD (Belgrade)",Serbia,"Prasco Group","BEOGRAD (Belgrade)-Serbia"
+560,28-03-2013,21,Distributor,USD,GUT930,46,9,8,2425.40,19403.20,1042.92,"Product 9","Wroclaw (Breslau)",Poland,"Ohio ","Wroclaw (Breslau)-Poland"
+561,28-03-2013,48,Wholesale,USD,AXW291,2,1,7,1206.00,8442.00,663.30,"Product 1",BERLIN,Germany,"Fenwal  Corp",BERLIN-Germany
+562,28-03-2013,50,Distributor,USD,AXW291,23,1,6,221.10,1326.60,179.09,"Product 1",Birmingham,UK,"Sundial ",Birmingham-UK
+563,28-03-2013,30,Wholesale,USD,GUT930,46,2,9,3825.70,34431.30,2563.22,"Product 2","Wroclaw (Breslau)",Poland,"S.S.S. Group","Wroclaw (Breslau)-Poland"
+564,28-03-2013,27,Wholesale,USD,AXW291,8,2,5,857.60,4288.00,394.50,"Product 2",BUDAPEST,Hungary,"Wuxi Group",BUDAPEST-Hungary
+565,28-03-2013,31,Distributor,USD,AXW291,8,1,10,3825.70,38257.00,2563.22,"Product 1",BUDAPEST,Hungary,"Uriel Group",BUDAPEST-Hungary
+566,28-03-2013,5,Wholesale,USD,AXW291,20,7,8,1996.60,15972.80,898.47,"Product 7",Dnepropetrovsk,Ukraine,"Procter Corp",Dnepropetrovsk-Ukraine
+567,28-03-2013,10,Distributor,USD,AXW291,27,1,8,234.50,1876.00,121.94,"Product 1",ZAGREB,Croatia,"21st Ltd",ZAGREB-Croatia
+568,28-03-2013,15,Wholesale,USD,GUT930,37,5,8,1896.10,15168.80,948.05,"Product 5",Valencia,Spain,"Rochester Ltd",Valencia-Spain
+569,29-03-2013,1,Distributor,USD,AXW291,21,5,5,207.70,1038.50,87.23,"Product 5",Donetsk,Ukraine,"Avon Corp",Donetsk-Ukraine
+570,29-03-2013,8,Distributor,USD,AXW291,20,7,11,167.50,1842.50,125.63,"Product 7",Dnepropetrovsk,Ukraine,"Medsep Group",Dnepropetrovsk-Ukraine
+571,29-03-2013,22,Wholesale,USD,NXH382,54,11,10,3986.50,39865.00,2591.23,"Product 11",Poznan,Poland,"Capweld ",Poznan-Poland
+572,29-03-2013,28,Wholesale,USD,AXW291,21,6,7,2546.00,17822.00,1018.40,"Product 6",Donetsk,Ukraine,"Dharma Ltd",Donetsk-Ukraine
+573,29-03-2013,28,Wholesale,USD,AXW291,25,1,9,864.30,7778.70,380.29,"Product 1","Koln (Cologne)",Germany,"Dharma Ltd","Koln (Cologne)-Germany"
+574,29-03-2013,40,Export,USD,AXW291,27,5,5,1876.00,9380.00,1350.72,"Product 5",ZAGREB,Croatia,"Select ",ZAGREB-Croatia
+575,29-03-2013,3,Distributor,USD,NXH382,56,11,7,247.90,1735.30,163.61,"Product 11","LISBOA (Lisbon)",Portugal,"Elorac  Corp","LISBOA (Lisbon)-Portugal"
+576,30-03-2013,21,Wholesale,USD,AXW291,28,11,6,5051.80,30310.80,3435.22,"Product 11",Zaporozhye,Ukraine,"Ohio ",Zaporozhye-Ukraine
+577,31-03-2013,3,Export,USD,NXH382,48,1,5,1011.70,5058.50,667.72,"Product 1",Zaragoza,Spain,"Elorac  Corp",Zaragoza-Spain
+578,31-03-2013,16,Distributor,USD,GUT930,44,2,9,1862.60,16763.40,1247.94,"Product 2",Genova,Italy,"3LAB  Ltd",Genova-Italy
+579,31-03-2013,31,Export,USD,AXW291,27,7,8,1246.20,9969.60,660.49,"Product 7",ZAGREB,Croatia,"Uriel Group",ZAGREB-Croatia
+580,31-03-2013,26,Export,USD,FLR025,63,11,7,1688.40,11818.80,1215.65,"Product 11",Hannover,Germany,"Mylan Corp",Hannover-Germany
+581,31-03-2013,30,Wholesale,USD,GUT930,43,5,5,5916.10,29580.50,4673.72,"Product 5",KISHINEV,Moldova,"S.S.S. Group",KISHINEV-Moldova
+582,01-04-2013,17,Wholesale,USD,GUT930,35,2,9,5132.20,46189.80,2771.39,"Product 2",STOCKHOLM,Sweden,"Pure Group",STOCKHOLM-Sweden
+583,01-04-2013,46,Distributor,USD,AXW291,15,9,8,1118.90,8951.20,839.18,"Product 9",Barcelona,Spain,"U.S. Ltd",Barcelona-Spain
+584,02-04-2013,39,Export,USD,GUT930,39,7,11,5835.70,64192.70,3968.28,"Product 7",Leeds,UK,"Victory Ltd",Leeds-UK
+585,02-04-2013,29,Wholesale,USD,NXH382,50,11,9,6036.70,54330.30,3139.08,"Product 11",Rotterdam,Netherlands,"Apotheca  Ltd",Rotterdam-Netherlands
+586,02-04-2013,22,Distributor,USD,AXW291,31,7,8,1031.80,8254.40,825.44,"Product 7",RIGA,Latvia,"Capweld ",RIGA-Latvia
+587,02-04-2013,37,Wholesale,USD,FLR025,60,7,10,5956.30,59563.00,4407.66,"Product 7",Sheffield,UK,"AuroMedics Corp",Sheffield-UK
+588,03-04-2013,9,Distributor,USD,AXW291,19,2,6,3932.90,23597.40,2989.00,"Product 2",SOFIA,Bulgaria,"Ei ",SOFIA-Bulgaria
+589,03-04-2013,3,Wholesale,USD,GUT930,45,1,6,5889.30,35335.80,4416.98,"Product 1","Frankfurt am Main",Germany,"Elorac  Corp","Frankfurt am Main-Germany"
+590,03-04-2013,13,Export,USD,NXH382,59,11,7,2458.90,17212.30,1647.46,"Product 11",Bremen,Germany,"Ole Group",Bremen-Germany
+591,03-04-2013,38,Wholesale,USD,AXW291,19,1,6,3912.80,23476.80,2034.66,"Product 1",SOFIA,Bulgaria,"Ascend Ltd",SOFIA-Bulgaria
+592,03-04-2013,48,Wholesale,USD,AXW291,25,1,5,5668.20,28341.00,3570.97,"Product 1","Koln (Cologne)",Germany,"Fenwal  Corp","Koln (Cologne)-Germany"
+593,03-04-2013,18,Wholesale,USD,AXW291,1,13,8,5547.60,44380.80,4216.18,"Product 13",LONDON,UK,"Eminence Corp",LONDON-UK
+594,03-04-2013,35,Export,USD,AXW291,20,4,10,201.00,2010.00,96.48,"Product 4",Dnepropetrovsk,Ukraine,"Amylin Group",Dnepropetrovsk-Ukraine
+595,03-04-2013,40,Wholesale,USD,FLR025,65,7,9,247.90,2231.10,198.32,"Product 7",OSLO,Norway,"Select ",OSLO-Norway
+596,04-04-2013,2,Distributor,USD,NXH382,51,9,6,3859.20,23155.20,3125.95,"Product 9",Dortmund,Germany,"WakeFern ",Dortmund-Germany
+597,04-04-2013,40,Wholesale,USD,GUT930,39,2,10,5487.30,54873.00,3127.76,"Product 2",Leeds,UK,"Select ",Leeds-UK
+598,04-04-2013,25,Wholesale,USD,GUT930,40,13,11,1809.00,19899.00,1157.76,"Product 13","Kryvy Rig",Ukraine,"Prasco Group","Kryvy Rig-Ukraine"
+599,04-04-2013,11,Export,USD,AXW291,18,7,7,2405.30,16837.10,1731.82,"Product 7","PRAHA (Prague)","Czech Republic","Apollo Ltd","PRAHA (Prague)-Czech Republic"
+600,05-04-2013,31,Wholesale,USD,GUT930,34,13,8,790.60,6324.80,672.01,"Product 13",Salonika,Greece,"Uriel Group",Salonika-Greece
+601,05-04-2013,46,Distributor,USD,NXH382,53,5,7,3202.60,22418.20,2177.77,"Product 5",VILNIUS,Lithuania,"U.S. Ltd",VILNIUS-Lithuania
+602,05-04-2013,48,Wholesale,USD,NXH382,57,1,12,1058.60,12703.20,645.75,"Product 1",HELSINKI,Finland,"Fenwal  Corp",HELSINKI-Finland
+603,06-04-2013,33,Wholesale,USD,AXW291,7,7,9,1768.80,15919.20,778.27,"Product 7","BUCURESTI (Bucharest)",Romania,"Trigen ","BUCURESTI (Bucharest)-Romania"
+604,06-04-2013,1,Export,USD,GUT930,36,13,7,971.50,6800.50,534.33,"Product 13",Krakow,Poland,"Avon Corp",Krakow-Poland
+605,06-04-2013,34,Distributor,USD,AXW291,28,11,5,938.00,4690.00,478.38,"Product 11",Zaporozhye,Ukraine,"OUR Ltd",Zaporozhye-Ukraine
+606,06-04-2013,49,Wholesale,USD,AXW291,5,6,9,958.10,8622.90,756.90,"Product 6",KIEV,Ukraine,"Bare ",KIEV-Ukraine
+607,06-04-2013,1,Wholesale,USD,AXW291,30,11,8,3705.10,29640.80,2111.91,"Product 11",Marseille,France,"Avon Corp",Marseille-France
+608,06-04-2013,48,Wholesale,USD,GUT930,47,4,12,1025.10,12301.20,686.82,"Product 4",Glasgow,UK,"Fenwal  Corp",Glasgow-UK
+609,06-04-2013,4,Export,USD,GUT930,33,5,6,2592.90,15557.40,1711.31,"Product 5","ATHINAI (Athens)",Greece,"ETUDE Ltd","ATHINAI (Athens)-Greece"
+610,06-04-2013,15,Wholesale,USD,AXW291,27,5,11,3865.90,42524.90,3054.06,"Product 5",ZAGREB,Croatia,"Rochester Ltd",ZAGREB-Croatia
+611,07-04-2013,30,Wholesale,USD,FLR025,63,2,6,5634.70,33808.20,4226.03,"Product 2",Hannover,Germany,"S.S.S. Group",Hannover-Germany
+612,07-04-2013,41,Wholesale,USD,FLR025,65,9,10,971.50,9715.00,621.76,"Product 9",OSLO,Norway,"Weimei Corp",OSLO-Norway
+613,07-04-2013,3,Distributor,USD,GUT930,40,1,11,1051.90,11570.90,694.25,"Product 1","Kryvy Rig",Ukraine,"Elorac  Corp","Kryvy Rig-Ukraine"
+614,07-04-2013,3,Wholesale,USD,GUT930,36,14,5,1051.90,5259.50,683.74,"Product 14",Krakow,Poland,"Elorac  Corp",Krakow-Poland
+615,07-04-2013,29,Export,USD,GUT930,41,3,12,1139.00,13668.00,854.25,"Product 3",Sevilla,Spain,"Apotheca  Ltd",Sevilla-Spain
+616,07-04-2013,16,Distributor,USD,AXW291,6,9,7,5849.10,40943.70,3041.53,"Product 9",PARIS,France,"3LAB  Ltd",PARIS-France
+617,08-04-2013,21,Export,USD,AXW291,13,7,10,2264.60,22646.00,1222.88,"Product 7","WIEN (Vienna)",Austria,"Ohio ","WIEN (Vienna)-Austria"
+618,08-04-2013,26,Export,USD,AXW291,19,7,9,1125.60,10130.40,889.22,"Product 7",SOFIA,Bulgaria,"Mylan Corp",SOFIA-Bulgaria
+619,08-04-2013,37,Distributor,USD,AXW291,2,2,8,1078.70,8629.60,755.09,"Product 2",BERLIN,Germany,"AuroMedics Corp",BERLIN-Germany
+620,09-04-2013,23,Wholesale,USD,AXW291,11,7,11,2405.30,26458.30,1635.60,"Product 7","WARSZAWA (Warsaw)",Poland,"E. Ltd","WARSZAWA (Warsaw)-Poland"
+621,09-04-2013,17,Export,USD,AXW291,28,7,7,1072.00,7504.00,707.52,"Product 7",Zaporozhye,Ukraine,"Pure Group",Zaporozhye-Ukraine
+622,09-04-2013,4,Export,USD,GUT930,37,2,11,5808.90,63897.90,3369.16,"Product 2",Valencia,Spain,"ETUDE Ltd",Valencia-Spain
+623,09-04-2013,21,Distributor,USD,GUT930,37,9,8,3926.20,31409.60,1845.31,"Product 9",Valencia,Spain,"Ohio ",Valencia-Spain
+624,09-04-2013,29,Wholesale,USD,NXH382,52,1,11,201.00,2211.00,160.80,"Product 1",Stuttgart,Germany,"Apotheca  Ltd",Stuttgart-Germany
+625,09-04-2013,39,Wholesale,USD,AXW291,3,7,5,1882.70,9413.50,1430.85,"Product 7",MADRID,Spain,"Victory Ltd",MADRID-Spain
+626,10-04-2013,30,Distributor,USD,AXW291,27,1,8,2532.60,20260.80,1089.02,"Product 1",ZAGREB,Croatia,"S.S.S. Group",ZAGREB-Croatia
+627,10-04-2013,33,Wholesale,USD,AXW291,4,1,6,207.70,1246.20,135.01,"Product 1",ROMA,Italy,"Trigen ",ROMA-Italy
+628,10-04-2013,41,Distributor,USD,AXW291,21,1,9,241.20,2170.80,180.90,"Product 1",Donetsk,Ukraine,"Weimei Corp",Donetsk-Ukraine
+629,10-04-2013,21,Wholesale,USD,GUT930,40,2,7,1152.40,8066.80,507.06,"Product 2","Kryvy Rig",Ukraine,"Ohio ","Kryvy Rig-Ukraine"
+630,11-04-2013,40,Wholesale,USD,GUT930,35,7,7,3879.30,27155.10,2288.79,"Product 7",STOCKHOLM,Sweden,"Select ",STOCKHOLM-Sweden
+631,11-04-2013,37,Wholesale,USD,GUT930,40,14,7,3865.90,27061.30,3170.04,"Product 14","Kryvy Rig",Ukraine,"AuroMedics Corp","Kryvy Rig-Ukraine"
+632,11-04-2013,35,Distributor,USD,AXW291,22,11,8,1835.80,14686.40,1248.34,"Product 11","Napoli (Naples)",Italy,"Amylin Group","Napoli (Naples)-Italy"
+633,11-04-2013,37,Wholesale,USD,FLR025,61,10,5,234.50,1172.50,180.57,"Product 10",SARAJEVO,Bosnia,"AuroMedics Corp",SARAJEVO-Bosnia
+634,11-04-2013,10,Wholesale,USD,NXH382,51,1,5,757.10,3785.50,507.26,"Product 1",Dortmund,Germany,"21st Ltd",Dortmund-Germany
+635,11-04-2013,39,Wholesale,USD,GUT930,39,3,10,1005.00,10050.00,703.50,"Product 3",Leeds,UK,"Victory Ltd",Leeds-UK
+636,11-04-2013,4,Distributor,USD,AXW291,29,1,10,6391.80,63918.00,5113.44,"Product 1",Lodz,Poland,"ETUDE Ltd",Lodz-Poland
+637,11-04-2013,13,Wholesale,USD,NXH382,49,1,5,2740.30,13701.50,1123.52,"Product 1",Essen,Germany,"Ole Group",Essen-Germany
+638,11-04-2013,48,Distributor,USD,AXW291,11,11,5,924.60,4623.00,536.27,"Product 11","WARSZAWA (Warsaw)",Poland,"Fenwal  Corp","WARSZAWA (Warsaw)-Poland"
+639,11-04-2013,41,Distributor,USD,AXW291,4,7,11,1031.80,11349.80,505.58,"Product 7",ROMA,Italy,"Weimei Corp",ROMA-Italy
+640,12-04-2013,11,Wholesale,USD,AXW291,17,6,12,1098.80,13185.60,769.16,"Product 6","Munchen (Munich)",Germany,"Apollo Ltd","Munchen (Munich)-Germany"
+641,12-04-2013,10,Wholesale,USD,NXH382,51,1,5,1132.30,5661.50,713.35,"Product 1",Dortmund,Germany,"21st Ltd",Dortmund-Germany
+642,12-04-2013,12,Wholesale,USD,FLR025,63,2,6,2465.60,14793.60,1602.64,"Product 2",Hannover,Germany,"Medline ",Hannover-Germany
+643,12-04-2013,47,Distributor,USD,AXW291,23,7,7,1005.00,7035.00,462.30,"Product 7",Birmingham,UK,"Niconovum Corp",Birmingham-UK
+644,12-04-2013,13,Wholesale,USD,GUT930,46,1,9,1246.20,11215.80,1021.88,"Product 1","Wroclaw (Breslau)",Poland,"Ole Group","Wroclaw (Breslau)-Poland"
+645,12-04-2013,13,Distributor,USD,NXH382,53,7,5,1025.10,5125.50,809.83,"Product 7",VILNIUS,Lithuania,"Ole Group",VILNIUS-Lithuania
+646,12-04-2013,36,Distributor,USD,AXW291,3,5,11,1902.80,20930.80,1084.60,"Product 5",MADRID,Spain,"O.E. Ltd",MADRID-Spain
+647,12-04-2013,34,Wholesale,USD,NXH382,53,1,8,3738.60,29908.80,2056.23,"Product 1",VILNIUS,Lithuania,"OUR Ltd",VILNIUS-Lithuania
+648,12-04-2013,39,Wholesale,USD,GUT930,32,2,7,1996.60,13976.20,1237.89,"Product 2",Lvov,Ukraine,"Victory Ltd",Lvov-Ukraine
+649,12-04-2013,38,Distributor,USD,AXW291,14,1,6,2331.60,13989.60,1818.65,"Product 1",Kharkov,Ukraine,"Ascend Ltd",Kharkov-Ukraine
+650,12-04-2013,16,Export,USD,GUT930,40,9,5,1078.70,5393.50,701.16,"Product 9","Kryvy Rig",Ukraine,"3LAB  Ltd","Kryvy Rig-Ukraine"
+651,12-04-2013,42,Distributor,USD,FLR025,60,1,10,1788.90,17889.00,1216.45,"Product 1",Sheffield,UK,"Llorens Ltd",Sheffield-UK
+652,12-04-2013,36,Wholesale,USD,FLR025,63,11,9,241.20,2170.80,161.60,"Product 11",Hannover,Germany,"O.E. Ltd",Hannover-Germany
+653,12-04-2013,45,Distributor,USD,GUT930,44,7,12,1159.10,13909.20,533.19,"Product 7",Genova,Italy,"Nipro ",Genova-Italy
+654,12-04-2013,12,Wholesale,USD,AXW291,1,11,11,1051.90,11570.90,515.43,"Product 11",LONDON,UK,"Medline ",LONDON-UK
+655,13-04-2013,18,Wholesale,USD,GUT930,44,13,7,5969.70,41787.90,3343.03,"Product 13",Genova,Italy,"Eminence Corp",Genova-Italy
+656,13-04-2013,28,Wholesale,USD,FLR025,64,8,11,3919.50,43114.50,2508.48,"Product 8",Mykolaiv,Ukraine,"Dharma Ltd",Mykolaiv-Ukraine
+657,13-04-2013,18,Export,USD,AXW291,1,11,10,1118.90,11189.00,492.32,"Product 11",LONDON,UK,"Eminence Corp",LONDON-UK
+658,13-04-2013,11,Export,USD,FLR025,63,1,5,1118.90,5594.50,570.64,"Product 1",Hannover,Germany,"Apollo Ltd",Hannover-Germany
+659,13-04-2013,29,Wholesale,USD,AXW291,5,7,9,5427.00,48843.00,3744.63,"Product 7",KIEV,Ukraine,"Apotheca  Ltd",KIEV-Ukraine
+660,14-04-2013,32,Wholesale,USD,AXW291,20,5,5,3725.20,18626.00,2570.39,"Product 5",Dnepropetrovsk,Ukraine,"OHTA'S Corp",Dnepropetrovsk-Ukraine
+661,14-04-2013,7,Wholesale,USD,GUT930,39,9,5,187.60,938.00,75.04,"Product 9",Leeds,UK,"New Ltd",Leeds-UK
+662,14-04-2013,4,Export,USD,NXH382,54,9,5,3999.90,19999.50,3359.92,"Product 9",Poznan,Poland,"ETUDE Ltd",Poznan-Poland
+663,14-04-2013,32,Wholesale,USD,AXW291,3,1,11,971.50,10686.50,592.62,"Product 1",MADRID,Spain,"OHTA'S Corp",MADRID-Spain
+664,14-04-2013,42,Wholesale,USD,AXW291,4,9,10,1118.90,11189.00,727.29,"Product 9",ROMA,Italy,"Llorens Ltd",ROMA-Italy
+665,14-04-2013,33,Export,USD,GUT930,38,7,12,864.30,10371.60,501.29,"Product 7",AMSTERDAM,Netherlands,"Trigen ",AMSTERDAM-Netherlands
+666,15-04-2013,22,Wholesale,USD,AXW291,21,2,11,5782.10,63603.10,4394.40,"Product 2",Donetsk,Ukraine,"Capweld ",Donetsk-Ukraine
+667,15-04-2013,10,Wholesale,USD,AXW291,28,5,6,904.50,5427.00,461.30,"Product 5",Zaporozhye,Ukraine,"21st Ltd",Zaporozhye-Ukraine
+668,15-04-2013,25,Wholesale,USD,GUT930,34,1,6,247.90,1487.40,158.66,"Product 1",Salonika,Greece,"Prasco Group",Salonika-Greece
+669,16-04-2013,49,Export,USD,NXH382,49,1,10,1708.50,17085.00,1213.04,"Product 1",Essen,Germany,"Bare ",Essen-Germany
+670,16-04-2013,39,Distributor,USD,AXW291,30,1,10,1132.30,11323.00,702.03,"Product 1",Marseille,France,"Victory Ltd",Marseille-France
+671,16-04-2013,20,Distributor,USD,AXW291,22,1,5,1775.50,8877.50,1225.10,"Product 1","Napoli (Naples)",Italy,"Pacific Ltd","Napoli (Naples)-Italy"
+672,16-04-2013,25,Distributor,USD,AXW291,5,1,8,1902.80,15222.40,970.43,"Product 1",KIEV,Ukraine,"Prasco Group",KIEV-Ukraine
+673,16-04-2013,28,Wholesale,USD,AXW291,27,1,8,5963.00,47704.00,2802.61,"Product 1",ZAGREB,Croatia,"Dharma Ltd",ZAGREB-Croatia
+674,16-04-2013,34,Wholesale,USD,GUT930,38,7,6,3886.00,23316.00,2176.16,"Product 7",AMSTERDAM,Netherlands,"OUR Ltd",AMSTERDAM-Netherlands
+675,16-04-2013,2,Wholesale,USD,NXH382,51,7,9,1058.60,9527.40,635.16,"Product 7",Dortmund,Germany,"WakeFern ",Dortmund-Germany
+676,16-04-2013,33,Wholesale,USD,GUT930,39,9,5,5815.60,29078.00,4419.86,"Product 9",Leeds,UK,"Trigen ",Leeds-UK
+677,17-04-2013,45,Export,USD,GUT930,44,5,11,5353.30,58886.30,4496.77,"Product 5",Genova,Italy,"Nipro ",Genova-Italy
+678,17-04-2013,18,Wholesale,USD,NXH382,54,13,11,5567.70,61244.70,4565.51,"Product 13",Poznan,Poland,"Eminence Corp",Poznan-Poland
+679,17-04-2013,6,Distributor,USD,AXW291,28,13,7,2512.50,17587.50,2135.63,"Product 13",Zaporozhye,Ukraine,"PEDIFIX  Corp",Zaporozhye-Ukraine
+680,18-04-2013,22,Wholesale,USD,NXH382,53,1,8,1681.70,13453.60,1227.64,"Product 1",VILNIUS,Lithuania,"Capweld ",VILNIUS-Lithuania
+681,18-04-2013,39,Wholesale,USD,NXH382,48,4,10,194.30,1943.00,136.01,"Product 4",Zaragoza,Spain,"Victory Ltd",Zaragoza-Spain
+682,18-04-2013,18,Distributor,USD,GUT930,46,14,8,2405.30,19242.40,1683.71,"Product 14","Wroclaw (Breslau)",Poland,"Eminence Corp","Wroclaw (Breslau)-Poland"
+683,18-04-2013,21,Distributor,USD,NXH382,49,5,6,1038.50,6231.00,706.18,"Product 5",Essen,Germany,"Ohio ",Essen-Germany
+684,18-04-2013,38,Wholesale,USD,AXW291,13,5,8,857.60,6860.80,591.74,"Product 5","WIEN (Vienna)",Austria,"Ascend Ltd","WIEN (Vienna)-Austria"
+685,18-04-2013,22,Wholesale,USD,NXH382,52,5,8,1855.90,14847.20,1354.81,"Product 5",Stuttgart,Germany,"Capweld ",Stuttgart-Germany
+686,18-04-2013,36,Distributor,USD,AXW291,5,1,10,5621.30,56213.00,2585.80,"Product 1",KIEV,Ukraine,"O.E. Ltd",KIEV-Ukraine
+687,18-04-2013,26,Distributor,USD,AXW291,17,13,7,1139.00,7973.00,649.23,"Product 13","Munchen (Munich)",Germany,"Mylan Corp","Munchen (Munich)-Germany"
+688,18-04-2013,9,Export,USD,FLR025,63,13,10,2264.60,22646.00,1834.33,"Product 13",Hannover,Germany,"Ei ",Hannover-Germany
+689,19-04-2013,14,Wholesale,USD,NXH382,55,2,7,884.40,6190.80,566.02,"Product 2",Dusseldorf,Germany,"Linde ",Dusseldorf-Germany
+690,19-04-2013,5,Wholesale,USD,AXW291,15,7,5,683.40,3417.00,382.70,"Product 7",Barcelona,Spain,"Procter Corp",Barcelona-Spain
+691,19-04-2013,49,Export,USD,AXW291,13,13,10,1025.10,10251.00,481.80,"Product 13","WIEN (Vienna)",Austria,"Bare ","WIEN (Vienna)-Austria"
+692,19-04-2013,15,Export,USD,AXW291,16,7,9,3731.90,33587.10,2276.46,"Product 7","Milano (Milan)",Italy,"Rochester Ltd","Milano (Milan)-Italy"
+693,20-04-2013,31,Wholesale,USD,FLR025,62,7,5,5567.70,27838.50,3229.27,"Product 7",Duisburg,Germany,"Uriel Group",Duisburg-Germany
+694,20-04-2013,16,Wholesale,USD,AXW291,17,2,5,991.60,4958.00,525.55,"Product 2","Munchen (Munich)",Germany,"3LAB  Ltd","Munchen (Munich)-Germany"
+695,20-04-2013,43,Wholesale,USD,AXW291,17,7,9,3852.50,34672.50,3043.48,"Product 7","Munchen (Munich)",Germany,"Exact-Rx  Corp","Munchen (Munich)-Germany"
+696,20-04-2013,16,Distributor,USD,NXH382,48,1,11,3906.10,42967.10,1835.87,"Product 1",Zaragoza,Spain,"3LAB  Ltd",Zaragoza-Spain
+697,20-04-2013,40,Wholesale,USD,GUT930,44,5,11,5118.80,56306.80,2354.65,"Product 5",Genova,Italy,"Select ",Genova-Italy
+698,20-04-2013,9,Wholesale,USD,NXH382,52,11,11,6117.10,67288.10,4404.31,"Product 11",Stuttgart,Germany,"Ei ",Stuttgart-Germany
+699,21-04-2013,16,Distributor,USD,NXH382,51,6,5,1025.10,5125.50,850.83,"Product 6",Dortmund,Germany,"3LAB  Ltd",Dortmund-Germany
+700,21-04-2013,4,Distributor,USD,AXW291,21,5,10,944.70,9447.00,462.90,"Product 5",Donetsk,Ukraine,"ETUDE Ltd",Donetsk-Ukraine
+701,21-04-2013,25,Wholesale,USD,NXH382,55,9,7,1025.10,7175.70,656.06,"Product 9",Dusseldorf,Germany,"Prasco Group",Dusseldorf-Germany
+702,21-04-2013,23,Distributor,USD,NXH382,48,12,10,3859.20,38592.00,2045.38,"Product 12",Zaragoza,Spain,"E. Ltd",Zaragoza-Spain
+703,22-04-2013,30,Wholesale,USD,NXH382,60,2,11,194.30,2137.30,91.32,"Product 2",Sheffield,UK,"S.S.S. Group",Sheffield-UK
+704,22-04-2013,2,Wholesale,USD,AXW291,15,1,11,6184.10,68025.10,4638.08,"Product 1",Barcelona,Spain,"WakeFern ",Barcelona-Spain
+705,22-04-2013,16,Distributor,USD,AXW291,24,13,6,1728.60,10371.60,916.16,"Product 13",Odessa,Ukraine,"3LAB  Ltd",Odessa-Ukraine
+706,22-04-2013,7,Wholesale,USD,GUT930,37,1,8,931.30,7450.40,772.98,"Product 1",Valencia,Spain,"New Ltd",Valencia-Spain
+707,23-04-2013,17,Wholesale,USD,AXW291,24,7,5,3886.00,19430.00,2797.92,"Product 7",Odessa,Ukraine,"Pure Group",Odessa-Ukraine
+708,23-04-2013,39,Wholesale,USD,AXW291,14,1,12,234.50,2814.00,96.15,"Product 1",Kharkov,Ukraine,"Victory Ltd",Kharkov-Ukraine
+709,23-04-2013,32,Distributor,USD,GUT930,39,9,9,3979.80,35818.20,1989.90,"Product 9",Leeds,UK,"OHTA'S Corp",Leeds-UK
+710,23-04-2013,49,Distributor,USD,GUT930,42,7,6,3356.70,20140.20,1846.19,"Product 7",Palermo,Italy,"Bare ",Palermo-Italy
+711,23-04-2013,42,Wholesale,USD,AXW291,10,7,5,2519.20,12596.00,1309.98,"Product 7",MINSK,Belarus,"Llorens Ltd",MINSK-Belarus
+712,24-04-2013,28,Wholesale,USD,AXW291,5,9,5,837.50,4187.50,460.63,"Product 9",KIEV,Ukraine,"Dharma Ltd",KIEV-Ukraine
+713,24-04-2013,31,Distributor,USD,GUT930,42,5,6,3926.20,23557.20,2552.03,"Product 5",Palermo,Italy,"Uriel Group",Palermo-Italy
+714,24-04-2013,10,Wholesale,USD,NXH382,56,3,9,6231.00,56079.00,4797.87,"Product 3","LISBOA (Lisbon)",Portugal,"21st Ltd","LISBOA (Lisbon)-Portugal"
+715,24-04-2013,46,Wholesale,USD,GUT930,43,11,6,3932.90,23597.40,2871.02,"Product 11",KISHINEV,Moldova,"U.S. Ltd",KISHINEV-Moldova
+716,24-04-2013,16,Wholesale,USD,AXW291,29,4,8,3966.40,31731.20,2816.14,"Product 4",Lodz,Poland,"3LAB  Ltd",Lodz-Poland
+717,24-04-2013,31,Wholesale,USD,AXW291,13,2,5,2291.40,11457.00,1581.07,"Product 2","WIEN (Vienna)",Austria,"Uriel Group","WIEN (Vienna)-Austria"
+718,24-04-2013,30,Wholesale,USD,GUT930,33,5,6,3678.30,22069.80,2059.85,"Product 5","ATHINAI (Athens)",Greece,"S.S.S. Group","ATHINAI (Athens)-Greece"
+719,25-04-2013,39,Distributor,USD,FLR025,65,13,5,3999.90,19999.50,3039.92,"Product 13",OSLO,Norway,"Victory Ltd",OSLO-Norway
+720,25-04-2013,36,Export,USD,NXH382,51,7,10,991.60,9916.00,575.13,"Product 7",Dortmund,Germany,"O.E. Ltd",Dortmund-Germany
+721,25-04-2013,35,Distributor,USD,AXW291,26,7,9,5447.10,49023.90,4248.74,"Product 7","Torino (Turin)",Italy,"Amylin Group","Torino (Turin)-Italy"
+722,25-04-2013,39,Distributor,USD,GUT930,32,1,7,2452.20,17165.40,1054.45,"Product 1",Lvov,Ukraine,"Victory Ltd",Lvov-Ukraine
+723,25-04-2013,13,Export,USD,GUT930,37,5,10,998.30,9983.00,469.20,"Product 5",Valencia,Spain,"Ole Group",Valencia-Spain
+724,26-04-2013,28,Wholesale,USD,GUT930,45,1,11,1313.20,14445.20,577.81,"Product 1","Frankfurt am Main",Germany,"Dharma Ltd","Frankfurt am Main-Germany"
+725,26-04-2013,26,Wholesale,USD,AXW291,3,12,9,2512.50,22612.50,1658.25,"Product 12",MADRID,Spain,"Mylan Corp",MADRID-Spain
+726,26-04-2013,29,Distributor,USD,GUT930,43,13,10,5346.60,53466.00,3528.76,"Product 13",KISHINEV,Moldova,"Apotheca  Ltd",KISHINEV-Moldova
+727,26-04-2013,15,Distributor,USD,NXH382,60,1,5,3618.00,18090.00,2496.42,"Product 1",Sheffield,UK,"Rochester Ltd",Sheffield-UK
+728,26-04-2013,21,Wholesale,USD,AXW291,23,7,5,1876.00,9380.00,1500.80,"Product 7",Birmingham,UK,"Ohio ",Birmingham-UK
+729,26-04-2013,18,Distributor,USD,AXW291,8,12,9,254.60,2291.40,201.13,"Product 12",BUDAPEST,Hungary,"Eminence Corp",BUDAPEST-Hungary
+730,26-04-2013,49,Distributor,USD,AXW291,29,1,11,3825.70,42082.70,1530.28,"Product 1",Lodz,Poland,"Bare ",Lodz-Poland
+731,26-04-2013,26,Wholesale,USD,NXH382,51,2,7,2251.20,15758.40,1620.86,"Product 2",Dortmund,Germany,"Mylan Corp",Dortmund-Germany
+732,26-04-2013,30,Wholesale,USD,AXW291,24,11,7,4013.30,28093.10,3090.24,"Product 11",Odessa,Ukraine,"S.S.S. Group",Odessa-Ukraine
+733,26-04-2013,24,Export,USD,AXW291,28,2,7,1072.00,7504.00,836.16,"Product 2",Zaporozhye,Ukraine,"Burt's Corp",Zaporozhye-Ukraine
+734,27-04-2013,2,Export,USD,NXH382,50,5,5,2458.90,12294.50,2090.07,"Product 5",Rotterdam,Netherlands,"WakeFern ",Rotterdam-Netherlands
+735,27-04-2013,19,Export,USD,AXW291,29,2,8,1809.00,14472.00,1013.04,"Product 2",Lodz,Poland,"Qualitest ",Lodz-Poland
+736,27-04-2013,7,Wholesale,USD,NXH382,48,2,10,1728.60,17286.00,1158.16,"Product 2",Zaragoza,Spain,"New Ltd",Zaragoza-Spain
+737,27-04-2013,33,Wholesale,USD,GUT930,34,6,5,3718.50,18592.50,2677.32,"Product 6",Salonika,Greece,"Trigen ",Salonika-Greece
+738,27-04-2013,8,Wholesale,USD,AXW291,12,13,11,180.90,1989.90,150.15,"Product 13","BEOGRAD (Belgrade)",Serbia,"Medsep Group","BEOGRAD (Belgrade)-Serbia"
+739,27-04-2013,10,Distributor,USD,AXW291,19,6,12,3939.60,47275.20,3269.87,"Product 6",SOFIA,Bulgaria,"21st Ltd",SOFIA-Bulgaria
+740,27-04-2013,19,Distributor,USD,AXW291,6,7,6,1869.30,11215.80,1196.35,"Product 7",PARIS,France,"Qualitest ",PARIS-France
+741,28-04-2013,5,Wholesale,USD,FLR025,65,1,9,864.30,7778.70,691.44,"Product 1",OSLO,Norway,"Procter Corp",OSLO-Norway
+742,28-04-2013,31,Wholesale,USD,AXW291,19,6,6,1098.80,6592.80,835.09,"Product 6",SOFIA,Bulgaria,"Uriel Group",SOFIA-Bulgaria
+743,28-04-2013,36,Wholesale,USD,GUT930,41,1,7,3845.80,26920.60,2730.52,"Product 1",Sevilla,Spain,"O.E. Ltd",Sevilla-Spain
+744,28-04-2013,22,Export,USD,AXW291,21,2,9,5246.10,47214.90,3882.11,"Product 2",Donetsk,Ukraine,"Capweld ",Donetsk-Ukraine
+745,28-04-2013,22,Export,USD,NXH382,57,2,6,763.80,4582.80,404.81,"Product 2",HELSINKI,Finland,"Capweld ",HELSINKI-Finland
+746,28-04-2013,17,Export,USD,AXW291,22,13,11,3819.00,42009.00,2673.30,"Product 13","Napoli (Naples)",Italy,"Pure Group","Napoli (Naples)-Italy"
+747,28-04-2013,36,Distributor,USD,NXH382,53,1,9,2425.40,21828.60,2013.08,"Product 1",VILNIUS,Lithuania,"O.E. Ltd",VILNIUS-Lithuania
+748,29-04-2013,11,Wholesale,USD,AXW291,12,2,7,1319.90,9239.30,884.33,"Product 2","BEOGRAD (Belgrade)",Serbia,"Apollo Ltd","BEOGRAD (Belgrade)-Serbia"
+749,29-04-2013,3,Distributor,USD,AXW291,20,5,5,1125.60,5628.00,529.03,"Product 5",Dnepropetrovsk,Ukraine,"Elorac  Corp",Dnepropetrovsk-Ukraine
+750,30-04-2013,45,Distributor,USD,AXW291,5,1,11,6318.10,69499.10,2590.42,"Product 1",KIEV,Ukraine,"Nipro ",KIEV-Ukraine
+751,30-04-2013,3,Export,USD,GUT930,33,5,5,3242.80,16214.00,1459.26,"Product 5","ATHINAI (Athens)",Greece,"Elorac  Corp","ATHINAI (Athens)-Greece"
+752,30-04-2013,23,Distributor,USD,AXW291,30,5,6,1936.30,11617.80,1142.42,"Product 5",Marseille,France,"E. Ltd",Marseille-France
+753,30-04-2013,37,Wholesale,USD,GUT930,40,9,8,3946.30,31570.40,3038.65,"Product 9","Kryvy Rig",Ukraine,"AuroMedics Corp","Kryvy Rig-Ukraine"
+754,30-04-2013,38,Wholesale,USD,AXW291,2,11,7,1078.70,7550.90,442.27,"Product 11",BERLIN,Germany,"Ascend Ltd",BERLIN-Germany
+755,30-04-2013,42,Wholesale,USD,AXW291,22,1,8,5587.80,44702.40,3967.34,"Product 1","Napoli (Naples)",Italy,"Llorens Ltd","Napoli (Naples)-Italy"
+756,30-04-2013,11,Wholesale,USD,AXW291,9,7,12,3108.80,37305.60,1896.37,"Product 7",Hamburg,Germany,"Apollo Ltd",Hamburg-Germany
+757,30-04-2013,24,Distributor,USD,AXW291,22,1,5,871.00,4355.00,661.96,"Product 1","Napoli (Naples)",Italy,"Burt's Corp","Napoli (Naples)-Italy"
+758,30-04-2013,44,Distributor,USD,NXH382,51,1,12,1815.70,21788.40,1543.35,"Product 1",Dortmund,Germany,"Winthrop ",Dortmund-Germany
+759,30-04-2013,42,Wholesale,USD,GUT930,42,2,10,984.90,9849.00,541.70,"Product 2",Palermo,Italy,"Llorens Ltd",Palermo-Italy
+760,01-05-2013,21,Distributor,USD,FLR025,64,1,11,3926.20,43188.20,1727.53,"Product 1",Mykolaiv,Ukraine,"Ohio ",Mykolaiv-Ukraine
+761,01-05-2013,24,Wholesale,USD,NXH382,55,7,10,234.50,2345.00,126.63,"Product 7",Dusseldorf,Germany,"Burt's Corp",Dusseldorf-Germany
+762,01-05-2013,18,Wholesale,USD,GUT930,37,14,7,2552.70,17868.90,1429.51,"Product 14",Valencia,Spain,"Eminence Corp",Valencia-Spain
+763,01-05-2013,13,Wholesale,USD,GUT930,41,1,5,857.60,4288.00,591.74,"Product 1",Sevilla,Spain,"Ole Group",Sevilla-Spain
+764,01-05-2013,41,Distributor,USD,AXW291,13,7,11,1065.30,11718.30,553.96,"Product 7","WIEN (Vienna)",Austria,"Weimei Corp","WIEN (Vienna)-Austria"
+765,02-05-2013,28,Distributor,USD,FLR025,60,2,10,1976.50,19765.00,1581.20,"Product 2",Sheffield,UK,"Dharma Ltd",Sheffield-UK
+766,02-05-2013,27,Distributor,USD,AXW291,22,11,12,3839.10,46069.20,2725.76,"Product 11","Napoli (Naples)",Italy,"Wuxi Group","Napoli (Naples)-Italy"
+767,02-05-2013,32,Wholesale,USD,GUT930,40,1,9,3899.40,35094.60,2807.57,"Product 1","Kryvy Rig",Ukraine,"OHTA'S Corp","Kryvy Rig-Ukraine"
+768,02-05-2013,5,Wholesale,USD,GUT930,40,11,8,180.90,1447.20,85.02,"Product 11","Kryvy Rig",Ukraine,"Procter Corp","Kryvy Rig-Ukraine"
+769,02-05-2013,36,Wholesale,USD,NXH382,51,6,10,1226.10,12261.00,588.53,"Product 6",Dortmund,Germany,"O.E. Ltd",Dortmund-Germany
+770,02-05-2013,13,Export,USD,NXH382,48,1,10,783.90,7839.00,313.56,"Product 1",Zaragoza,Spain,"Ole Group",Zaragoza-Spain
+771,02-05-2013,3,Distributor,USD,GUT930,46,2,5,978.20,4891.00,489.10,"Product 2","Wroclaw (Breslau)",Poland,"Elorac  Corp","Wroclaw (Breslau)-Poland"
+772,02-05-2013,14,Wholesale,USD,NXH382,51,10,10,3169.10,31691.00,1616.24,"Product 10",Dortmund,Germany,"Linde ",Dortmund-Germany
+773,03-05-2013,49,Distributor,USD,AXW291,18,2,12,3055.20,36662.40,1497.05,"Product 2","PRAHA (Prague)","Czech Republic","Bare ","PRAHA (Prague)-Czech Republic"
+774,03-05-2013,17,Wholesale,USD,GUT930,37,1,12,2606.30,31275.60,1563.78,"Product 1",Valencia,Spain,"Pure Group",Valencia-Spain
+775,03-05-2013,33,Export,USD,GUT930,34,12,8,1045.20,8361.60,794.35,"Product 12",Salonika,Greece,"Trigen ",Salonika-Greece
+776,03-05-2013,19,Distributor,USD,GUT930,38,11,7,1909.50,13366.50,1069.32,"Product 11",AMSTERDAM,Netherlands,"Qualitest ",AMSTERDAM-Netherlands
+777,03-05-2013,19,Wholesale,USD,AXW291,19,2,10,984.90,9849.00,689.43,"Product 2",SOFIA,Bulgaria,"Qualitest ",SOFIA-Bulgaria
+778,03-05-2013,17,Export,USD,AXW291,28,6,5,1165.80,5829.00,944.30,"Product 6",Zaporozhye,Ukraine,"Pure Group",Zaporozhye-Ukraine
+779,03-05-2013,11,Export,USD,AXW291,24,2,8,1748.70,13989.60,944.30,"Product 2",Odessa,Ukraine,"Apollo Ltd",Odessa-Ukraine
+780,04-05-2013,11,Export,USD,FLR025,65,1,5,3819.00,19095.00,2024.07,"Product 1",OSLO,Norway,"Apollo Ltd",OSLO-Norway
+781,04-05-2013,22,Wholesale,USD,GUT930,35,1,11,1145.70,12602.70,744.71,"Product 1",STOCKHOLM,Sweden,"Capweld ",STOCKHOLM-Sweden
+782,04-05-2013,31,Wholesale,USD,GUT930,39,1,10,3644.80,36448.00,1968.19,"Product 1",Leeds,UK,"Uriel Group",Leeds-UK
+783,04-05-2013,13,Wholesale,USD,AXW291,31,7,11,3865.90,42524.90,3092.72,"Product 7",RIGA,Latvia,"Ole Group",RIGA-Latvia
+784,04-05-2013,35,Export,USD,AXW291,3,7,11,194.30,2137.30,110.75,"Product 7",MADRID,Spain,"Amylin Group",MADRID-Spain
+785,04-05-2013,30,Wholesale,USD,AXW291,25,2,8,3363.40,26907.20,1681.70,"Product 2","Koln (Cologne)",Germany,"S.S.S. Group","Koln (Cologne)-Germany"
+786,05-05-2013,31,Wholesale,USD,AXW291,10,2,11,3008.30,33091.30,2406.64,"Product 2",MINSK,Belarus,"Uriel Group",MINSK-Belarus
+787,05-05-2013,4,Export,USD,GUT930,44,5,5,3055.20,15276.00,2230.30,"Product 5",Genova,Italy,"ETUDE Ltd",Genova-Italy
+788,05-05-2013,3,Wholesale,USD,AXW291,11,14,11,1031.80,11349.80,629.40,"Product 14","WARSZAWA (Warsaw)",Poland,"Elorac  Corp","WARSZAWA (Warsaw)-Poland"
+789,05-05-2013,8,Wholesale,USD,AXW291,14,2,9,3939.60,35456.40,2127.38,"Product 2",Kharkov,Ukraine,"Medsep Group",Kharkov-Ukraine
+790,06-05-2013,13,Distributor,USD,AXW291,25,2,12,3886.00,46632.00,2720.20,"Product 2","Koln (Cologne)",Germany,"Ole Group","Koln (Cologne)-Germany"
+791,06-05-2013,20,Export,USD,AXW291,7,11,5,3108.80,15544.00,1896.37,"Product 11","BUCURESTI (Bucharest)",Romania,"Pacific Ltd","BUCURESTI (Bucharest)-Romania"
+792,06-05-2013,30,Distributor,USD,GUT930,41,1,9,1011.70,9105.30,505.85,"Product 1",Sevilla,Spain,"S.S.S. Group",Sevilla-Spain
+793,07-05-2013,15,Wholesale,USD,NXH382,47,1,7,2552.70,17868.90,1327.40,"Product 1",Glasgow,UK,"Rochester Ltd",Glasgow-UK
+794,07-05-2013,42,Distributor,USD,AXW291,30,11,6,1675.00,10050.00,954.75,"Product 11",Marseille,France,"Llorens Ltd",Marseille-France
+795,07-05-2013,45,Wholesale,USD,AXW291,28,2,7,1139.00,7973.00,831.47,"Product 2",Zaporozhye,Ukraine,"Nipro ",Zaporozhye-Ukraine
+796,08-05-2013,27,Distributor,USD,AXW291,23,5,5,6338.20,31691.00,3802.92,"Product 5",Birmingham,UK,"Wuxi Group",Birmingham-UK
+797,08-05-2013,20,Wholesale,USD,NXH382,47,5,5,2231.10,11155.50,1874.12,"Product 5",Glasgow,UK,"Pacific Ltd",Glasgow-UK
+798,08-05-2013,1,Wholesale,USD,AXW291,15,7,10,2311.50,23115.00,1525.59,"Product 7",Barcelona,Spain,"Avon Corp",Barcelona-Spain
+799,08-05-2013,13,Wholesale,USD,AXW291,3,7,11,3832.40,42156.40,2835.98,"Product 7",MADRID,Spain,"Ole Group",MADRID-Spain
+800,08-05-2013,9,Wholesale,USD,NXH382,59,7,6,1005.00,6030.00,793.95,"Product 7",Bremen,Germany,"Ei ",Bremen-Germany
+801,08-05-2013,33,Wholesale,USD,AXW291,3,2,5,1065.30,5326.50,671.14,"Product 2",MADRID,Spain,"Trigen ",MADRID-Spain
+802,08-05-2013,50,Wholesale,USD,AXW291,31,3,12,1889.40,22672.80,1454.84,"Product 3",RIGA,Latvia,"Sundial ",RIGA-Latvia
+803,08-05-2013,16,Distributor,USD,NXH382,49,1,9,167.50,1507.50,108.88,"Product 1",Essen,Germany,"3LAB  Ltd",Essen-Germany
+804,08-05-2013,13,Distributor,USD,NXH382,50,5,7,6030.00,42210.00,2472.30,"Product 5",Rotterdam,Netherlands,"Ole Group",Rotterdam-Netherlands
+805,08-05-2013,44,Export,USD,NXH382,55,9,6,837.50,5025.00,527.63,"Product 9",Dusseldorf,Germany,"Winthrop ",Dusseldorf-Germany
+806,09-05-2013,7,Wholesale,USD,AXW291,14,1,10,1782.20,17822.00,1051.50,"Product 1",Kharkov,Ukraine,"New Ltd",Kharkov-Ukraine
+807,09-05-2013,29,Wholesale,USD,GUT930,31,9,7,998.30,6988.10,439.25,"Product 9",RIGA,Latvia,"Apotheca  Ltd",RIGA-Latvia
+808,09-05-2013,31,Wholesale,USD,NXH382,58,2,10,3999.90,39999.00,2679.93,"Product 2",Malaga,Spain,"Uriel Group",Malaga-Spain
+809,09-05-2013,31,Distributor,USD,NXH382,55,1,8,1896.10,15168.80,1118.70,"Product 1",Dusseldorf,Germany,"Uriel Group",Dusseldorf-Germany
+810,09-05-2013,35,Wholesale,USD,AXW291,28,2,12,1038.50,12462.00,477.71,"Product 2",Zaporozhye,Ukraine,"Amylin Group",Zaporozhye-Ukraine
+811,10-05-2013,43,Distributor,USD,AXW291,31,7,11,3839.10,42230.10,3071.28,"Product 7",RIGA,Latvia,"Exact-Rx  Corp",RIGA-Latvia
+812,10-05-2013,5,Wholesale,USD,AXW291,24,9,10,743.70,7437.00,535.46,"Product 9",Odessa,Ukraine,"Procter Corp",Odessa-Ukraine
+813,10-05-2013,20,Wholesale,USD,AXW291,17,11,8,2445.50,19564.00,1100.48,"Product 11","Munchen (Munich)",Germany,"Pacific Ltd","Munchen (Munich)-Germany"
+814,10-05-2013,42,Wholesale,USD,NXH382,54,11,11,2613.00,28743.00,1463.28,"Product 11",Poznan,Poland,"Llorens Ltd",Poznan-Poland
+815,10-05-2013,14,Distributor,USD,GUT930,36,10,11,187.60,2063.60,127.57,"Product 10",Krakow,Poland,"Linde ",Krakow-Poland
+816,10-05-2013,34,Wholesale,USD,GUT930,36,1,11,5494.00,60434.00,3845.80,"Product 1",Krakow,Poland,"OUR Ltd",Krakow-Poland
+817,10-05-2013,20,Distributor,USD,GUT930,42,1,9,5782.10,52038.90,4625.68,"Product 1",Palermo,Italy,"Pacific Ltd",Palermo-Italy
+818,11-05-2013,42,Distributor,USD,AXW291,6,11,8,3872.60,30980.80,2052.48,"Product 11",PARIS,France,"Llorens Ltd",PARIS-France
+819,11-05-2013,22,Export,USD,NXH382,47,4,9,6445.40,58008.60,3544.97,"Product 4",Glasgow,UK,"Capweld ",Glasgow-UK
+820,11-05-2013,42,Distributor,USD,AXW291,18,7,7,227.80,1594.60,93.40,"Product 7","PRAHA (Prague)","Czech Republic","Llorens Ltd","PRAHA (Prague)-Czech Republic"
+821,11-05-2013,11,Distributor,USD,AXW291,4,7,9,247.90,2231.10,151.22,"Product 7",ROMA,Italy,"Apollo Ltd",ROMA-Italy
+822,12-05-2013,37,Distributor,USD,AXW291,19,7,5,1031.80,5159.00,763.53,"Product 7",SOFIA,Bulgaria,"AuroMedics Corp",SOFIA-Bulgaria
+823,12-05-2013,45,Distributor,USD,FLR025,64,11,11,2237.80,24615.80,1499.33,"Product 11",Mykolaiv,Ukraine,"Nipro ",Mykolaiv-Ukraine
+824,12-05-2013,11,Wholesale,USD,AXW291,22,8,11,1179.20,12971.20,825.44,"Product 8","Napoli (Naples)",Italy,"Apollo Ltd","Napoli (Naples)-Italy"
+825,12-05-2013,50,Distributor,USD,GUT930,43,11,12,2378.50,28542.00,1546.03,"Product 11",KISHINEV,Moldova,"Sundial ",KISHINEV-Moldova
+826,12-05-2013,49,Export,USD,AXW291,24,11,12,1025.10,12301.20,768.83,"Product 11",Odessa,Ukraine,"Bare ",Odessa-Ukraine
+827,12-05-2013,44,Export,USD,AXW291,25,9,5,1802.30,9011.50,720.92,"Product 9","Koln (Cologne)",Germany,"Winthrop ","Koln (Cologne)-Germany"
+828,12-05-2013,27,Wholesale,USD,AXW291,22,13,5,1916.20,9581.00,1015.59,"Product 13","Napoli (Naples)",Italy,"Wuxi Group","Napoli (Naples)-Italy"
+829,12-05-2013,33,Distributor,USD,AXW291,15,11,8,3021.70,24173.60,1661.94,"Product 11",Barcelona,Spain,"Trigen ",Barcelona-Spain
+830,12-05-2013,23,Wholesale,USD,AXW291,15,4,6,2251.20,13507.20,1710.91,"Product 4",Barcelona,Spain,"E. Ltd",Barcelona-Spain
+831,13-05-2013,8,Wholesale,USD,AXW291,28,5,8,2619.70,20957.60,1074.08,"Product 5",Zaporozhye,Ukraine,"Medsep Group",Zaporozhye-Ukraine
+832,13-05-2013,33,Wholesale,USD,GUT930,41,4,10,2010.00,20100.00,884.40,"Product 4",Sevilla,Spain,"Trigen ",Sevilla-Spain
+833,14-05-2013,31,Wholesale,USD,AXW291,16,12,11,1145.70,12602.70,687.42,"Product 12","Milano (Milan)",Italy,"Uriel Group","Milano (Milan)-Italy"
+834,14-05-2013,43,Wholesale,USD,GUT930,46,11,6,3618.00,21708.00,1447.20,"Product 11","Wroclaw (Breslau)",Poland,"Exact-Rx  Corp","Wroclaw (Breslau)-Poland"
+835,14-05-2013,19,Wholesale,USD,GUT930,39,11,9,3551.00,31959.00,2982.84,"Product 11",Leeds,UK,"Qualitest ",Leeds-UK
+836,14-05-2013,3,Distributor,USD,GUT930,40,9,5,944.70,4723.50,736.87,"Product 9","Kryvy Rig",Ukraine,"Elorac  Corp","Kryvy Rig-Ukraine"
+837,15-05-2013,26,Export,USD,AXW291,6,1,9,174.20,1567.80,74.91,"Product 1",PARIS,France,"Mylan Corp",PARIS-France
+838,15-05-2013,3,Distributor,USD,AXW291,3,11,8,1809.00,14472.00,1465.29,"Product 11",MADRID,Spain,"Elorac  Corp",MADRID-Spain
+839,15-05-2013,19,Wholesale,USD,AXW291,11,7,5,3993.20,19966.00,1876.80,"Product 7","WARSZAWA (Warsaw)",Poland,"Qualitest ","WARSZAWA (Warsaw)-Poland"
+840,16-05-2013,23,Wholesale,USD,AXW291,17,2,6,1005.00,6030.00,793.95,"Product 2","Munchen (Munich)",Germany,"E. Ltd","Munchen (Munich)-Germany"
+841,16-05-2013,15,Wholesale,USD,AXW291,27,11,6,3819.00,22914.00,2176.83,"Product 11",ZAGREB,Croatia,"Rochester Ltd",ZAGREB-Croatia
+842,16-05-2013,49,Wholesale,USD,GUT930,39,2,12,2251.20,27014.40,968.02,"Product 2",Leeds,UK,"Bare ",Leeds-UK
+843,16-05-2013,1,Wholesale,USD,AXW291,19,11,10,964.80,9648.00,665.71,"Product 11",SOFIA,Bulgaria,"Avon Corp",SOFIA-Bulgaria
+844,17-05-2013,33,Wholesale,USD,NXH382,56,11,11,1018.40,11202.40,733.25,"Product 11","LISBOA (Lisbon)",Portugal,"Trigen ","LISBOA (Lisbon)-Portugal"
+845,17-05-2013,31,Export,USD,NXH382,60,9,8,261.30,2090.40,117.59,"Product 9",Sheffield,UK,"Uriel Group",Sheffield-UK
+846,17-05-2013,27,Wholesale,USD,GUT930,35,11,7,2887.70,20213.90,1530.48,"Product 11",STOCKHOLM,Sweden,"Wuxi Group",STOCKHOLM-Sweden
+847,17-05-2013,2,Distributor,USD,AXW291,26,2,9,1098.80,9889.20,857.06,"Product 2","Torino (Turin)",Italy,"WakeFern ","Torino (Turin)-Italy"
+848,17-05-2013,36,Wholesale,USD,AXW291,1,1,9,2217.70,19959.30,1596.74,"Product 1",LONDON,UK,"O.E. Ltd",LONDON-UK
+849,17-05-2013,16,Wholesale,USD,AXW291,17,11,8,254.60,2036.80,165.49,"Product 11","Munchen (Munich)",Germany,"3LAB  Ltd","Munchen (Munich)-Germany"
+850,17-05-2013,50,Distributor,USD,AXW291,11,11,12,2432.10,29185.20,2018.64,"Product 11","WARSZAWA (Warsaw)",Poland,"Sundial ","WARSZAWA (Warsaw)-Poland"
+851,17-05-2013,15,Wholesale,USD,GUT930,43,11,12,2499.10,29989.20,1624.42,"Product 11",KISHINEV,Moldova,"Rochester Ltd",KISHINEV-Moldova
+852,17-05-2013,19,Wholesale,USD,FLR025,65,13,6,3564.40,21386.40,1497.05,"Product 13",OSLO,Norway,"Qualitest ",OSLO-Norway
+853,17-05-2013,17,Wholesale,USD,AXW291,21,5,7,2532.60,17728.20,1595.54,"Product 5",Donetsk,Ukraine,"Pure Group",Donetsk-Ukraine
+854,18-05-2013,18,Wholesale,USD,AXW291,16,2,6,1768.80,10612.80,1043.59,"Product 2","Milano (Milan)",Italy,"Eminence Corp","Milano (Milan)-Italy"
+855,18-05-2013,12,Distributor,USD,NXH382,58,1,7,2445.50,17118.50,1222.75,"Product 1",Malaga,Spain,"Medline ",Malaga-Spain
+856,19-05-2013,30,Wholesale,USD,AXW291,9,13,10,5855.80,58558.00,4567.52,"Product 13",Hamburg,Germany,"S.S.S. Group",Hamburg-Germany
+857,19-05-2013,36,Wholesale,USD,GUT930,38,7,8,3979.80,31838.40,3223.64,"Product 7",AMSTERDAM,Netherlands,"O.E. Ltd",AMSTERDAM-Netherlands
+858,19-05-2013,14,Distributor,USD,GUT930,41,5,6,964.80,5788.80,443.81,"Product 5",Sevilla,Spain,"Linde ",Sevilla-Spain
+859,19-05-2013,29,Wholesale,USD,GUT930,41,7,7,247.90,1735.30,158.66,"Product 7",Sevilla,Spain,"Apotheca  Ltd",Sevilla-Spain
+860,20-05-2013,29,Distributor,USD,GUT930,46,4,10,3189.20,31892.00,2264.33,"Product 4","Wroclaw (Breslau)",Poland,"Apotheca  Ltd","Wroclaw (Breslau)-Poland"
+861,20-05-2013,50,Wholesale,USD,NXH382,57,2,7,5339.90,37379.30,2830.15,"Product 2",HELSINKI,Finland,"Sundial ",HELSINKI-Finland
+862,20-05-2013,47,Wholesale,USD,AXW291,7,11,11,1139.00,12529.00,717.57,"Product 11","BUCURESTI (Bucharest)",Romania,"Niconovum Corp","BUCURESTI (Bucharest)-Romania"
+863,20-05-2013,13,Distributor,USD,AXW291,27,7,7,207.70,1453.90,91.39,"Product 7",ZAGREB,Croatia,"Ole Group",ZAGREB-Croatia
+864,20-05-2013,41,Export,USD,NXH382,55,1,6,2345.00,14070.00,1242.85,"Product 1",Dusseldorf,Germany,"Weimei Corp",Dusseldorf-Germany
+865,20-05-2013,39,Wholesale,USD,AXW291,18,7,11,2432.10,26753.10,1824.08,"Product 7","PRAHA (Prague)","Czech Republic","Victory Ltd","PRAHA (Prague)-Czech Republic"
+866,20-05-2013,21,Distributor,USD,GUT930,45,9,12,1112.20,13346.40,578.34,"Product 9","Frankfurt am Main",Germany,"Ohio ","Frankfurt am Main-Germany"
+867,21-05-2013,32,Distributor,USD,AXW291,27,2,12,1098.80,13185.60,670.27,"Product 2",ZAGREB,Croatia,"OHTA'S Corp",ZAGREB-Croatia
+868,21-05-2013,25,Wholesale,USD,NXH382,56,5,10,1159.10,11591.00,741.82,"Product 5","LISBOA (Lisbon)",Portugal,"Prasco Group","LISBOA (Lisbon)-Portugal"
+869,21-05-2013,25,Wholesale,USD,AXW291,29,7,6,2666.60,15999.60,1253.30,"Product 7",Lodz,Poland,"Prasco Group",Lodz-Poland
+870,21-05-2013,7,Wholesale,USD,NXH382,56,11,7,2834.10,19838.70,1190.32,"Product 11","LISBOA (Lisbon)",Portugal,"New Ltd","LISBOA (Lisbon)-Portugal"
+871,21-05-2013,49,Wholesale,USD,AXW291,15,11,8,3953.00,31624.00,2450.86,"Product 11",Barcelona,Spain,"Bare ",Barcelona-Spain
+872,22-05-2013,9,Distributor,USD,NXH382,49,7,6,1762.10,10572.60,1127.74,"Product 7",Essen,Germany,"Ei ",Essen-Germany
+873,22-05-2013,30,Export,USD,NXH382,60,7,11,2592.90,28521.90,1400.17,"Product 7",Sheffield,UK,"S.S.S. Group",Sheffield-UK
+874,22-05-2013,35,Wholesale,USD,AXW291,15,2,12,2505.80,30069.60,1378.19,"Product 2",Barcelona,Spain,"Amylin Group",Barcelona-Spain
+875,22-05-2013,6,Wholesale,USD,FLR025,65,7,5,194.30,971.50,137.95,"Product 7",OSLO,Norway,"PEDIFIX  Corp",OSLO-Norway
+876,22-05-2013,33,Wholesale,USD,FLR025,64,10,9,5822.30,52400.70,2852.93,"Product 10",Mykolaiv,Ukraine,"Trigen ",Mykolaiv-Ukraine
+877,22-05-2013,37,Distributor,USD,NXH382,58,5,12,1815.70,21788.40,1434.40,"Product 5",Malaga,Spain,"AuroMedics Corp",Malaga-Spain
+878,23-05-2013,40,Wholesale,USD,GUT930,35,9,9,3906.10,35154.90,2148.36,"Product 9",STOCKHOLM,Sweden,"Select ",STOCKHOLM-Sweden
+879,23-05-2013,22,Wholesale,USD,GUT930,43,1,11,3926.20,43188.20,1766.79,"Product 1",KISHINEV,Moldova,"Capweld ",KISHINEV-Moldova
+880,23-05-2013,5,Wholesale,USD,AXW291,31,11,9,6123.80,55114.20,4960.28,"Product 11",RIGA,Latvia,"Procter Corp",RIGA-Latvia
+881,23-05-2013,25,Export,USD,AXW291,11,4,12,1132.30,13587.60,962.46,"Product 4","WARSZAWA (Warsaw)",Poland,"Prasco Group","WARSZAWA (Warsaw)-Poland"
+882,23-05-2013,29,Export,USD,GUT930,43,5,10,3859.20,38592.00,2315.52,"Product 5",KISHINEV,Moldova,"Apotheca  Ltd",KISHINEV-Moldova
+883,24-05-2013,3,Distributor,USD,GUT930,41,2,6,797.30,4783.80,454.46,"Product 2",Sevilla,Spain,"Elorac  Corp",Sevilla-Spain
+884,24-05-2013,21,Distributor,USD,NXH382,57,5,9,5380.10,48420.90,3174.26,"Product 5",HELSINKI,Finland,"Ohio ",HELSINKI-Finland
+885,24-05-2013,6,Wholesale,USD,AXW291,25,5,12,3986.50,47838.00,2870.28,"Product 5","Koln (Cologne)",Germany,"PEDIFIX  Corp","Koln (Cologne)-Germany"
+886,24-05-2013,8,Distributor,USD,AXW291,4,11,10,1219.40,12194.00,951.13,"Product 11",ROMA,Italy,"Medsep Group",ROMA-Italy
+887,25-05-2013,16,Distributor,USD,GUT930,34,3,7,1681.70,11771.90,1345.36,"Product 3",Salonika,Greece,"3LAB  Ltd",Salonika-Greece
+888,25-05-2013,50,Wholesale,USD,AXW291,4,7,11,174.20,1916.20,80.13,"Product 7",ROMA,Italy,"Sundial ",ROMA-Italy
+889,25-05-2013,31,Wholesale,USD,AXW291,25,7,10,3865.90,38659.00,1739.66,"Product 7","Koln (Cologne)",Germany,"Uriel Group","Koln (Cologne)-Germany"
+890,25-05-2013,14,Wholesale,USD,AXW291,30,11,10,5132.20,51322.00,2514.78,"Product 11",Marseille,France,"Linde ",Marseille-France
+891,25-05-2013,21,Export,USD,AXW291,20,1,6,1829.10,10974.60,987.71,"Product 1",Dnepropetrovsk,Ukraine,"Ohio ",Dnepropetrovsk-Ukraine
+892,25-05-2013,24,Wholesale,USD,FLR025,64,11,11,3162.40,34786.40,2023.94,"Product 11",Mykolaiv,Ukraine,"Burt's Corp",Mykolaiv-Ukraine
+893,26-05-2013,4,Distributor,USD,AXW291,1,14,11,6103.70,67140.70,2746.67,"Product 14",LONDON,UK,"ETUDE Ltd",LONDON-UK
+894,26-05-2013,23,Distributor,USD,GUT930,43,6,10,750.40,7504.00,600.32,"Product 6",KISHINEV,Moldova,"E. Ltd",KISHINEV-Moldova
+895,26-05-2013,22,Distributor,USD,GUT930,41,13,10,167.50,1675.00,100.50,"Product 13",Sevilla,Spain,"Capweld ",Sevilla-Spain
+896,26-05-2013,48,Wholesale,USD,GUT930,36,5,5,2653.20,13266.00,2069.50,"Product 5",Krakow,Poland,"Fenwal  Corp",Krakow-Poland
+897,26-05-2013,14,Distributor,USD,AXW291,2,11,11,3008.30,33091.30,1594.40,"Product 11",BERLIN,Germany,"Linde ",BERLIN-Germany
+898,26-05-2013,9,Distributor,USD,NXH382,48,1,5,690.10,3450.50,338.15,"Product 1",Zaragoza,Spain,"Ei ",Zaragoza-Spain
+899,27-05-2013,26,Distributor,USD,AXW291,21,5,10,1031.80,10318.00,474.63,"Product 5",Donetsk,Ukraine,"Mylan Corp",Donetsk-Ukraine
+900,27-05-2013,18,Wholesale,USD,FLR025,65,3,7,884.40,6190.80,371.45,"Product 3",OSLO,Norway,"Eminence Corp",OSLO-Norway
+901,27-05-2013,26,Distributor,USD,AXW291,20,5,8,1118.90,8951.20,469.94,"Product 5",Dnepropetrovsk,Ukraine,"Mylan Corp",Dnepropetrovsk-Ukraine
+902,27-05-2013,20,Wholesale,USD,AXW291,25,2,10,2338.30,23383.00,958.70,"Product 2","Koln (Cologne)",Germany,"Pacific Ltd","Koln (Cologne)-Germany"
+903,27-05-2013,13,Wholesale,USD,AXW291,22,13,12,810.70,9728.40,551.28,"Product 13","Napoli (Naples)",Italy,"Ole Group","Napoli (Naples)-Italy"
+904,27-05-2013,4,Wholesale,USD,AXW291,24,3,5,3932.90,19664.50,1651.82,"Product 3",Odessa,Ukraine,"ETUDE Ltd",Odessa-Ukraine
+905,27-05-2013,33,Distributor,USD,AXW291,16,2,12,844.20,10130.40,337.68,"Product 2","Milano (Milan)",Italy,"Trigen ","Milano (Milan)-Italy"
+906,28-05-2013,19,Distributor,USD,GUT930,40,13,8,180.90,1447.20,119.39,"Product 13","Kryvy Rig",Ukraine,"Qualitest ","Kryvy Rig-Ukraine"
+907,29-05-2013,28,Wholesale,USD,NXH382,47,2,6,2365.10,14190.60,1986.68,"Product 2",Glasgow,UK,"Dharma Ltd",Glasgow-UK
+908,29-05-2013,45,Wholesale,USD,AXW291,18,11,11,2358.40,25942.40,1084.86,"Product 11","PRAHA (Prague)","Czech Republic","Nipro ","PRAHA (Prague)-Czech Republic"
+909,29-05-2013,22,Wholesale,USD,GUT930,38,1,7,1748.70,12240.90,1171.63,"Product 1",AMSTERDAM,Netherlands,"Capweld ",AMSTERDAM-Netherlands
+910,29-05-2013,30,Export,USD,GUT930,39,7,9,1822.40,16401.60,1202.78,"Product 7",Leeds,UK,"S.S.S. Group",Leeds-UK
+911,29-05-2013,20,Wholesale,USD,FLR025,66,7,11,824.10,9065.10,684.00,"Product 7","KOBENHAVN (Copenhagen)",Denmark,"Pacific Ltd","KOBENHAVN (Copenhagen)-Denmark"
+912,29-05-2013,3,Wholesale,USD,FLR025,62,14,6,1882.70,11296.20,1317.89,"Product 14",Duisburg,Germany,"Elorac  Corp",Duisburg-Germany
+913,29-05-2013,6,Distributor,USD,AXW291,17,5,11,3819.00,42009.00,1565.79,"Product 5","Munchen (Munich)",Germany,"PEDIFIX  Corp","Munchen (Munich)-Germany"
+914,30-05-2013,8,Wholesale,USD,NXH382,54,11,10,1085.40,10854.00,672.95,"Product 11",Poznan,Poland,"Medsep Group",Poznan-Poland
+915,30-05-2013,8,Wholesale,USD,NXH382,51,1,9,1072.00,9648.00,857.60,"Product 1",Dortmund,Germany,"Medsep Group",Dortmund-Germany
+916,31-05-2013,39,Wholesale,USD,AXW291,27,8,7,1051.90,7363.30,441.80,"Product 8",ZAGREB,Croatia,"Victory Ltd",ZAGREB-Croatia
+917,31-05-2013,14,Export,USD,GUT930,42,9,12,1025.10,12301.20,584.31,"Product 9",Palermo,Italy,"Linde ",Palermo-Italy
+918,31-05-2013,7,Distributor,USD,GUT930,33,13,10,2231.10,22311.00,1026.31,"Product 13","ATHINAI (Athens)",Greece,"New Ltd","ATHINAI (Athens)-Greece"
+919,31-05-2013,3,Export,USD,GUT930,33,1,5,261.30,1306.50,117.59,"Product 1","ATHINAI (Athens)",Greece,"Elorac  Corp","ATHINAI (Athens)-Greece"
+920,31-05-2013,35,Distributor,USD,AXW291,9,2,9,3524.20,31717.80,2960.33,"Product 2",Hamburg,Germany,"Amylin Group",Hamburg-Germany
+921,01-06-2013,43,Export,USD,FLR025,64,1,7,3819.00,26733.00,3207.96,"Product 1",Mykolaiv,Ukraine,"Exact-Rx  Corp",Mykolaiv-Ukraine
+922,01-06-2013,26,Distributor,USD,AXW291,12,4,5,3879.30,19396.50,2560.34,"Product 4","BEOGRAD (Belgrade)",Serbia,"Mylan Corp","BEOGRAD (Belgrade)-Serbia"
+923,01-06-2013,41,Wholesale,USD,GUT930,39,2,10,227.80,2278.00,132.12,"Product 2",Leeds,UK,"Weimei Corp",Leeds-UK
+924,01-06-2013,50,Wholesale,USD,GUT930,45,2,7,1145.70,8019.90,847.82,"Product 2","Frankfurt am Main",Germany,"Sundial ","Frankfurt am Main-Germany"
+925,01-06-2013,27,Wholesale,USD,AXW291,8,11,6,2579.50,15477.00,1134.98,"Product 11",BUDAPEST,Hungary,"Wuxi Group",BUDAPEST-Hungary
+926,02-06-2013,4,Distributor,USD,GUT930,43,5,12,1105.50,13266.00,464.31,"Product 5",KISHINEV,Moldova,"ETUDE Ltd",KISHINEV-Moldova
+927,02-06-2013,32,Distributor,USD,NXH382,49,13,6,1762.10,10572.60,1215.85,"Product 13",Essen,Germany,"OHTA'S Corp",Essen-Germany
+928,02-06-2013,17,Wholesale,USD,NXH382,52,2,11,1989.90,21888.90,935.25,"Product 2",Stuttgart,Germany,"Pure Group",Stuttgart-Germany
+929,02-06-2013,14,Export,USD,AXW291,29,2,9,261.30,2351.70,198.59,"Product 2",Lodz,Poland,"Linde ",Lodz-Poland
+930,02-06-2013,35,Export,USD,AXW291,6,11,12,1072.00,12864.00,675.36,"Product 11",PARIS,France,"Amylin Group",PARIS-France
+931,02-06-2013,21,Distributor,USD,GUT930,33,11,5,1058.60,5293.00,899.81,"Product 11","ATHINAI (Athens)",Greece,"Ohio ","ATHINAI (Athens)-Greece"
+932,02-06-2013,20,Export,USD,GUT930,38,5,9,247.90,2231.10,131.39,"Product 5",AMSTERDAM,Netherlands,"Pacific Ltd",AMSTERDAM-Netherlands
+933,03-06-2013,11,Wholesale,USD,AXW291,4,11,10,2659.90,26599.00,1117.16,"Product 11",ROMA,Italy,"Apollo Ltd",ROMA-Italy
+934,03-06-2013,44,Distributor,USD,AXW291,28,11,9,1031.80,9286.20,866.71,"Product 11",Zaporozhye,Ukraine,"Winthrop ",Zaporozhye-Ukraine
+935,04-06-2013,8,Distributor,USD,AXW291,8,14,6,2546.00,15276.00,1120.24,"Product 14",BUDAPEST,Hungary,"Medsep Group",BUDAPEST-Hungary
+936,04-06-2013,21,Distributor,USD,AXW291,10,7,6,857.60,5145.60,660.35,"Product 7",MINSK,Belarus,"Ohio ",MINSK-Belarus
+937,04-06-2013,31,Distributor,USD,AXW291,21,7,7,3946.30,27624.10,1973.15,"Product 7",Donetsk,Ukraine,"Uriel Group",Donetsk-Ukraine
+938,04-06-2013,28,Distributor,USD,FLR025,66,10,6,4006.60,24039.60,2484.09,"Product 10","KOBENHAVN (Copenhagen)",Denmark,"Dharma Ltd","KOBENHAVN (Copenhagen)-Denmark"
+939,04-06-2013,37,Wholesale,USD,GUT930,40,11,11,1132.30,12455.30,758.64,"Product 11","Kryvy Rig",Ukraine,"AuroMedics Corp","Kryvy Rig-Ukraine"
+940,05-06-2013,7,Wholesale,USD,AXW291,19,11,8,897.80,7182.40,511.75,"Product 11",SOFIA,Bulgaria,"New Ltd",SOFIA-Bulgaria
+941,05-06-2013,17,Wholesale,USD,AXW291,28,7,10,3939.60,39396.00,2678.93,"Product 7",Zaporozhye,Ukraine,"Pure Group",Zaporozhye-Ukraine
+942,05-06-2013,1,Distributor,USD,GUT930,32,2,9,1031.80,9286.20,515.90,"Product 2",Lvov,Ukraine,"Avon Corp",Lvov-Ukraine
+943,05-06-2013,40,Export,USD,AXW291,5,1,7,6251.10,43757.70,4938.37,"Product 1",KIEV,Ukraine,"Select ",KIEV-Ukraine
+944,05-06-2013,47,Wholesale,USD,AXW291,31,7,12,3819.00,45828.00,2176.83,"Product 7",RIGA,Latvia,"Niconovum Corp",RIGA-Latvia
+945,06-06-2013,15,Wholesale,USD,AXW291,29,8,12,5480.60,65767.20,3233.55,"Product 8",Lodz,Poland,"Rochester Ltd",Lodz-Poland
+946,06-06-2013,12,Distributor,USD,FLR025,63,11,7,1045.20,7316.40,752.54,"Product 11",Hannover,Germany,"Medline ",Hannover-Germany
+947,06-06-2013,48,Wholesale,USD,AXW291,19,9,11,2298.10,25279.10,988.18,"Product 9",SOFIA,Bulgaria,"Fenwal  Corp",SOFIA-Bulgaria
+948,06-06-2013,10,Wholesale,USD,AXW291,12,13,7,924.60,6472.20,730.43,"Product 13","BEOGRAD (Belgrade)",Serbia,"21st Ltd","BEOGRAD (Belgrade)-Serbia"
+949,07-06-2013,21,Distributor,USD,GUT930,34,3,8,2974.80,23798.40,2231.10,"Product 3",Salonika,Greece,"Ohio ",Salonika-Greece
+950,07-06-2013,19,Distributor,USD,AXW291,23,1,7,830.80,5815.60,515.10,"Product 1",Birmingham,UK,"Qualitest ",Birmingham-UK
+951,07-06-2013,17,Export,USD,GUT930,34,11,6,1051.90,6311.40,641.66,"Product 11",Salonika,Greece,"Pure Group",Salonika-Greece
+952,07-06-2013,49,Export,USD,AXW291,27,8,7,1031.80,7222.60,763.53,"Product 8",ZAGREB,Croatia,"Bare ",ZAGREB-Croatia
+953,08-06-2013,29,Export,USD,AXW291,18,3,7,1775.50,12428.50,905.51,"Product 3","PRAHA (Prague)","Czech Republic","Apotheca  Ltd","PRAHA (Prague)-Czech Republic"
+954,08-06-2013,27,Wholesale,USD,AXW291,5,7,5,1809.00,9045.00,1465.29,"Product 7",KIEV,Ukraine,"Wuxi Group",KIEV-Ukraine
+955,08-06-2013,7,Wholesale,USD,GUT930,43,2,11,1005.00,11055.00,763.80,"Product 2",KISHINEV,Moldova,"New Ltd",KISHINEV-Moldova
+956,08-06-2013,45,Export,USD,AXW291,25,5,6,167.50,1005.00,85.43,"Product 5","Koln (Cologne)",Germany,"Nipro ","Koln (Cologne)-Germany"
+957,09-06-2013,2,Distributor,USD,GUT930,37,9,12,1098.80,13185.60,681.26,"Product 9",Valencia,Spain,"WakeFern ",Valencia-Spain
+958,09-06-2013,40,Wholesale,USD,NXH382,59,12,10,187.60,1876.00,91.92,"Product 12",Bremen,Germany,"Select ",Bremen-Germany
+959,09-06-2013,36,Wholesale,USD,AXW291,28,9,8,1065.30,8522.40,511.34,"Product 9",Zaporozhye,Ukraine,"O.E. Ltd",Zaporozhye-Ukraine
+960,09-06-2013,13,Distributor,USD,GUT930,40,5,11,1179.20,12971.20,813.65,"Product 5","Kryvy Rig",Ukraine,"Ole Group","Kryvy Rig-Ukraine"
+961,09-06-2013,48,Wholesale,USD,AXW291,26,13,12,1045.20,12542.40,418.08,"Product 13","Torino (Turin)",Italy,"Fenwal  Corp","Torino (Turin)-Italy"
+962,09-06-2013,24,Wholesale,USD,AXW291,4,2,9,837.50,7537.50,644.88,"Product 2",ROMA,Italy,"Burt's Corp",ROMA-Italy
+963,09-06-2013,37,Wholesale,USD,AXW291,8,2,12,1172.50,14070.00,480.73,"Product 2",BUDAPEST,Hungary,"AuroMedics Corp",BUDAPEST-Hungary
+964,10-06-2013,20,Wholesale,USD,AXW291,10,7,10,268.00,2680.00,123.28,"Product 7",MINSK,Belarus,"Pacific Ltd",MINSK-Belarus
+965,10-06-2013,12,Distributor,USD,AXW291,10,11,5,1085.40,5427.00,640.39,"Product 11",MINSK,Belarus,"Medline ",MINSK-Belarus
+966,10-06-2013,31,Wholesale,USD,NXH382,51,14,5,3115.50,15577.50,1246.20,"Product 14",Dortmund,Germany,"Uriel Group",Dortmund-Germany
+967,10-06-2013,28,Wholesale,USD,AXW291,18,10,8,2412.00,19296.00,1447.20,"Product 10","PRAHA (Prague)","Czech Republic","Dharma Ltd","PRAHA (Prague)-Czech Republic"
+968,10-06-2013,24,Export,USD,AXW291,10,7,5,3926.20,19631.00,1923.84,"Product 7",MINSK,Belarus,"Burt's Corp",MINSK-Belarus
+969,10-06-2013,33,Wholesale,USD,AXW291,3,1,12,2284.70,27416.40,1713.53,"Product 1",MADRID,Spain,"Trigen ",MADRID-Spain
+970,10-06-2013,39,Export,USD,GUT930,46,13,10,783.90,7839.00,556.57,"Product 13","Wroclaw (Breslau)",Poland,"Victory Ltd","Wroclaw (Breslau)-Poland"
+971,10-06-2013,4,Wholesale,USD,NXH382,56,2,5,871.00,4355.00,557.44,"Product 2","LISBOA (Lisbon)",Portugal,"ETUDE Ltd","LISBOA (Lisbon)-Portugal"
+972,10-06-2013,8,Distributor,USD,GUT930,35,13,7,1051.90,7363.30,831.00,"Product 13",STOCKHOLM,Sweden,"Medsep Group",STOCKHOLM-Sweden
+973,10-06-2013,6,Distributor,USD,NXH382,53,13,8,1219.40,9755.20,609.70,"Product 13",VILNIUS,Lithuania,"PEDIFIX  Corp",VILNIUS-Lithuania
+974,10-06-2013,3,Wholesale,USD,FLR025,65,7,10,877.70,8777.00,509.07,"Product 7",OSLO,Norway,"Elorac  Corp",OSLO-Norway
+975,10-06-2013,28,Export,USD,GUT930,35,1,10,261.30,2613.00,151.55,"Product 1",STOCKHOLM,Sweden,"Dharma Ltd",STOCKHOLM-Sweden
+976,10-06-2013,48,Distributor,USD,AXW291,5,2,12,5172.40,62068.80,3155.16,"Product 2",KIEV,Ukraine,"Fenwal  Corp",KIEV-Ukraine
+977,10-06-2013,12,Wholesale,USD,GUT930,42,1,12,2237.80,26853.60,1835.00,"Product 1",Palermo,Italy,"Medline ",Palermo-Italy
+978,11-06-2013,18,Wholesale,USD,AXW291,22,7,8,180.90,1447.20,135.68,"Product 7","Napoli (Naples)",Italy,"Eminence Corp","Napoli (Naples)-Italy"
+979,11-06-2013,45,Distributor,USD,AXW291,19,7,6,1876.00,11256.00,1594.60,"Product 7",SOFIA,Bulgaria,"Nipro ",SOFIA-Bulgaria
+980,12-06-2013,25,Wholesale,USD,GUT930,46,7,7,5815.60,40709.20,4303.54,"Product 7","Wroclaw (Breslau)",Poland,"Prasco Group","Wroclaw (Breslau)-Poland"
+981,12-06-2013,12,Wholesale,USD,AXW291,27,2,10,1922.90,19229.00,903.76,"Product 2",ZAGREB,Croatia,"Medline ",ZAGREB-Croatia
+982,12-06-2013,43,Wholesale,USD,AXW291,26,11,9,1051.90,9467.10,441.80,"Product 11","Torino (Turin)",Italy,"Exact-Rx  Corp","Torino (Turin)-Italy"
+983,12-06-2013,4,Wholesale,USD,AXW291,14,2,7,5996.50,41975.50,3597.90,"Product 2",Kharkov,Ukraine,"ETUDE Ltd",Kharkov-Ukraine
+984,12-06-2013,7,Wholesale,USD,NXH382,58,1,8,1172.50,9380.00,926.28,"Product 1",Malaga,Spain,"New Ltd",Malaga-Spain
+985,12-06-2013,49,Distributor,USD,AXW291,10,11,6,207.70,1246.20,153.70,"Product 11",MINSK,Belarus,"Bare ",MINSK-Belarus
+986,12-06-2013,42,Wholesale,USD,AXW291,27,13,6,1085.40,6512.40,868.32,"Product 13",ZAGREB,Croatia,"Llorens Ltd",ZAGREB-Croatia
+987,12-06-2013,42,Distributor,USD,GUT930,41,11,9,964.80,8683.20,627.12,"Product 11",Sevilla,Spain,"Llorens Ltd",Sevilla-Spain
+988,13-06-2013,50,Distributor,USD,GUT930,37,1,8,3832.40,30659.20,3142.57,"Product 1",Valencia,Spain,"Sundial ",Valencia-Spain
+989,13-06-2013,12,Distributor,USD,NXH382,49,11,6,1125.60,6753.60,754.15,"Product 11",Essen,Germany,"Medline ",Essen-Germany
+990,13-06-2013,34,Wholesale,USD,AXW291,9,2,5,1065.30,5326.50,649.83,"Product 2",Hamburg,Germany,"OUR Ltd",Hamburg-Germany
+991,13-06-2013,32,Distributor,USD,AXW291,22,1,11,6197.50,68172.50,4214.30,"Product 1","Napoli (Naples)",Italy,"OHTA'S Corp","Napoli (Naples)-Italy"
+992,13-06-2013,49,Export,USD,AXW291,1,7,7,3912.80,27389.60,2778.09,"Product 7",LONDON,UK,"Bare ",LONDON-UK
+993,13-06-2013,22,Wholesale,USD,NXH382,52,5,9,247.90,2231.10,185.93,"Product 5",Stuttgart,Germany,"Capweld ",Stuttgart-Germany
+994,14-06-2013,3,Distributor,USD,FLR025,61,2,7,1038.50,7269.50,789.26,"Product 2",SARAJEVO,Bosnia,"Elorac  Corp",SARAJEVO-Bosnia
+995,14-06-2013,44,Wholesale,USD,AXW291,20,5,7,1098.80,7691.60,604.34,"Product 5",Dnepropetrovsk,Ukraine,"Winthrop ",Dnepropetrovsk-Ukraine
+996,14-06-2013,9,Distributor,USD,AXW291,15,1,6,1273.00,7638.00,814.72,"Product 1",Barcelona,Spain,"Ei ",Barcelona-Spain
+997,14-06-2013,13,Distributor,USD,FLR025,63,1,11,268.00,2948.00,160.80,"Product 1",Hannover,Germany,"Ole Group",Hannover-Germany
+998,14-06-2013,31,Wholesale,USD,AXW291,13,7,9,3852.50,34672.50,2157.40,"Product 7","WIEN (Vienna)",Austria,"Uriel Group","WIEN (Vienna)-Austria"
+999,14-06-2013,19,Export,USD,AXW291,28,2,9,1876.00,16884.00,900.48,"Product 2",Zaporozhye,Ukraine,"Qualitest ",Zaporozhye-Ukraine
+1000,14-06-2013,27,Wholesale,USD,AXW291,24,1,5,1286.40,6432.00,887.62,"Product 1",Odessa,Ukraine,"Wuxi Group",Odessa-Ukraine
+1001,14-06-2013,46,Export,USD,AXW291,22,13,8,174.20,1393.60,101.04,"Product 13","Napoli (Naples)",Italy,"U.S. Ltd","Napoli (Naples)-Italy"
+1002,14-06-2013,28,Distributor,USD,FLR025,65,5,11,5259.50,57854.50,4102.41,"Product 5",OSLO,Norway,"Dharma Ltd",OSLO-Norway
+1003,15-06-2013,48,Distributor,USD,GUT930,39,2,5,6512.40,32562.00,5144.80,"Product 2",Leeds,UK,"Fenwal  Corp",Leeds-UK
+1004,15-06-2013,39,Wholesale,USD,GUT930,35,2,8,1701.80,13614.40,1021.08,"Product 2",STOCKHOLM,Sweden,"Victory Ltd",STOCKHOLM-Sweden
+1005,16-06-2013,21,Wholesale,USD,AXW291,9,13,12,3832.40,45988.80,2682.68,"Product 13",Hamburg,Germany,"Ohio ",Hamburg-Germany
+1006,16-06-2013,38,Distributor,USD,NXH382,60,5,12,1775.50,21306.00,923.26,"Product 5",Sheffield,UK,"Ascend Ltd",Sheffield-UK
+1007,16-06-2013,29,Distributor,USD,AXW291,3,7,8,1922.90,15383.20,865.31,"Product 7",MADRID,Spain,"Apotheca  Ltd",MADRID-Spain
+1008,16-06-2013,23,Distributor,USD,NXH382,53,11,12,891.10,10693.20,490.11,"Product 11",VILNIUS,Lithuania,"E. Ltd",VILNIUS-Lithuania
+1009,16-06-2013,3,Wholesale,USD,NXH382,48,11,10,3289.70,32897.00,1875.13,"Product 11",Zaragoza,Spain,"Elorac  Corp",Zaragoza-Spain
+1010,16-06-2013,2,Wholesale,USD,AXW291,17,7,9,1078.70,9708.30,593.29,"Product 7","Munchen (Munich)",Germany,"WakeFern ","Munchen (Munich)-Germany"
+1011,16-06-2013,19,Distributor,USD,FLR025,63,7,10,3886.00,38860.00,2720.20,"Product 7",Hannover,Germany,"Qualitest ",Hannover-Germany
+1012,16-06-2013,21,Distributor,USD,GUT930,31,7,8,1681.70,13453.60,1143.56,"Product 7",RIGA,Latvia,"Ohio ",RIGA-Latvia
+1013,16-06-2013,19,Wholesale,USD,NXH382,48,5,6,1065.30,6391.80,852.24,"Product 5",Zaragoza,Spain,"Qualitest ",Zaragoza-Spain
+1014,17-06-2013,32,Wholesale,USD,AXW291,27,1,11,3912.80,43040.80,3286.75,"Product 1",ZAGREB,Croatia,"OHTA'S Corp",ZAGREB-Croatia
+1015,17-06-2013,9,Wholesale,USD,AXW291,16,9,12,3819.00,45828.00,2520.54,"Product 9","Milano (Milan)",Italy,"Ei ","Milano (Milan)-Italy"
+1016,17-06-2013,22,Distributor,USD,GUT930,40,11,7,1025.10,7175.70,758.57,"Product 11","Kryvy Rig",Ukraine,"Capweld ","Kryvy Rig-Ukraine"
+1017,17-06-2013,8,Wholesale,USD,GUT930,37,11,12,3202.60,38431.20,1601.30,"Product 11",Valencia,Spain,"Medsep Group",Valencia-Spain
+1018,17-06-2013,49,Distributor,USD,AXW291,31,1,6,5306.40,31838.40,2440.94,"Product 1",RIGA,Latvia,"Bare ",RIGA-Latvia
+1019,17-06-2013,14,Distributor,USD,GUT930,43,9,5,1849.20,9246.00,1331.42,"Product 9",KISHINEV,Moldova,"Linde ",KISHINEV-Moldova
+1020,17-06-2013,3,Distributor,USD,NXH382,51,4,10,194.30,1943.00,137.95,"Product 4",Dortmund,Germany,"Elorac  Corp",Dortmund-Germany
+1021,18-06-2013,41,Wholesale,USD,AXW291,5,12,6,1051.90,6311.40,757.37,"Product 12",KIEV,Ukraine,"Weimei Corp",KIEV-Ukraine
+1022,18-06-2013,36,Export,USD,AXW291,11,7,7,1809.00,12663.00,1537.65,"Product 7","WARSZAWA (Warsaw)",Poland,"O.E. Ltd","WARSZAWA (Warsaw)-Poland"
+1023,19-06-2013,13,Distributor,USD,AXW291,7,5,5,214.40,1072.00,130.78,"Product 5","BUCURESTI (Bucharest)",Romania,"Ole Group","BUCURESTI (Bucharest)-Romania"
+1024,19-06-2013,40,Wholesale,USD,AXW291,4,2,12,3530.90,42370.80,2577.56,"Product 2",ROMA,Italy,"Select ",ROMA-Italy
+1025,19-06-2013,44,Distributor,USD,GUT930,37,7,7,1038.50,7269.50,810.03,"Product 7",Valencia,Spain,"Winthrop ",Valencia-Spain
+1026,20-06-2013,50,Export,USD,FLR025,64,7,5,3470.60,17353.00,1561.77,"Product 7",Mykolaiv,Ukraine,"Sundial ",Mykolaiv-Ukraine
+1027,20-06-2013,14,Wholesale,USD,AXW291,15,13,6,2659.90,15959.40,2154.52,"Product 13",Barcelona,Spain,"Linde ",Barcelona-Spain
+1028,21-06-2013,24,Distributor,USD,AXW291,23,11,7,1118.90,7832.30,637.77,"Product 11",Birmingham,UK,"Burt's Corp",Birmingham-UK
+1029,21-06-2013,46,Distributor,USD,NXH382,59,5,8,3892.70,31141.60,2257.77,"Product 5",Bremen,Germany,"U.S. Ltd",Bremen-Germany
+1030,21-06-2013,47,Export,USD,GUT930,32,9,12,2003.30,24039.60,921.52,"Product 9",Lvov,Ukraine,"Niconovum Corp",Lvov-Ukraine
+1031,21-06-2013,26,Distributor,USD,AXW291,16,1,11,998.30,10981.30,788.66,"Product 1","Milano (Milan)",Italy,"Mylan Corp","Milano (Milan)-Italy"
+1032,22-06-2013,45,Distributor,USD,NXH382,57,9,9,2546.00,22914.00,1654.90,"Product 9",HELSINKI,Finland,"Nipro ",HELSINKI-Finland
+1033,22-06-2013,29,Wholesale,USD,AXW291,5,1,9,2552.70,22974.30,2093.21,"Product 1",KIEV,Ukraine,"Apotheca  Ltd",KIEV-Ukraine
+1034,22-06-2013,22,Export,USD,AXW291,9,1,5,3839.10,19195.50,2610.59,"Product 1",Hamburg,Germany,"Capweld ",Hamburg-Germany
+1035,22-06-2013,41,Wholesale,USD,FLR025,64,1,11,6076.90,66845.90,4071.52,"Product 1",Mykolaiv,Ukraine,"Weimei Corp",Mykolaiv-Ukraine
+1036,22-06-2013,37,Distributor,USD,NXH382,56,5,9,1051.90,9467.10,462.84,"Product 5","LISBOA (Lisbon)",Portugal,"AuroMedics Corp","LISBOA (Lisbon)-Portugal"
+1037,23-06-2013,45,Wholesale,USD,NXH382,55,9,7,1132.30,7926.10,577.47,"Product 9",Dusseldorf,Germany,"Nipro ",Dusseldorf-Germany
+1038,23-06-2013,8,Wholesale,USD,FLR025,66,11,10,2961.40,29614.00,1184.56,"Product 11","KOBENHAVN (Copenhagen)",Denmark,"Medsep Group","KOBENHAVN (Copenhagen)-Denmark"
+1039,23-06-2013,39,Wholesale,USD,AXW291,16,11,7,3396.90,23778.30,2140.05,"Product 11","Milano (Milan)",Italy,"Victory Ltd","Milano (Milan)-Italy"
+1040,24-06-2013,34,Export,USD,GUT930,44,10,5,5728.50,28642.50,3322.53,"Product 10",Genova,Italy,"OUR Ltd",Genova-Italy
+1041,24-06-2013,46,Distributor,USD,GUT930,42,9,12,2224.40,26692.80,1401.37,"Product 9",Palermo,Italy,"U.S. Ltd",Palermo-Italy
+1042,25-06-2013,42,Wholesale,USD,FLR025,65,1,8,3986.50,31892.00,1674.33,"Product 1",OSLO,Norway,"Llorens Ltd",OSLO-Norway
+1043,25-06-2013,39,Wholesale,USD,AXW291,28,7,6,5681.60,34089.60,2613.54,"Product 7",Zaporozhye,Ukraine,"Victory Ltd",Zaporozhye-Ukraine
+1044,25-06-2013,39,Distributor,USD,AXW291,4,1,9,5272.90,47456.10,3005.55,"Product 1",ROMA,Italy,"Victory Ltd",ROMA-Italy
+1045,25-06-2013,24,Export,USD,NXH382,58,11,12,1125.60,13507.20,529.03,"Product 11",Malaga,Spain,"Burt's Corp",Malaga-Spain
+1046,25-06-2013,37,Distributor,USD,AXW291,11,13,6,690.10,4140.60,400.26,"Product 13","WARSZAWA (Warsaw)",Poland,"AuroMedics Corp","WARSZAWA (Warsaw)-Poland"
+1047,25-06-2013,29,Wholesale,USD,AXW291,17,5,9,2546.00,22914.00,1502.14,"Product 5","Munchen (Munich)",Germany,"Apotheca  Ltd","Munchen (Munich)-Germany"
+1048,26-06-2013,9,Distributor,USD,GUT930,41,9,9,3035.10,27315.90,2276.33,"Product 9",Sevilla,Spain,"Ei ",Sevilla-Spain
+1049,26-06-2013,16,Distributor,USD,AXW291,25,1,7,4006.60,28046.20,2444.03,"Product 1","Koln (Cologne)",Germany,"3LAB  Ltd","Koln (Cologne)-Germany"
+1050,26-06-2013,24,Export,USD,GUT930,35,2,10,3892.70,38927.00,2179.91,"Product 2",STOCKHOLM,Sweden,"Burt's Corp",STOCKHOLM-Sweden
+1051,26-06-2013,45,Wholesale,USD,FLR025,61,7,6,2566.10,15396.60,1334.37,"Product 7",SARAJEVO,Bosnia,"Nipro ",SARAJEVO-Bosnia
+1052,26-06-2013,44,Export,USD,GUT930,37,5,5,1333.30,6666.50,786.65,"Product 5",Valencia,Spain,"Winthrop ",Valencia-Spain
+1053,26-06-2013,20,Distributor,USD,FLR025,64,5,7,1051.90,7363.30,452.32,"Product 5",Mykolaiv,Ukraine,"Pacific Ltd",Mykolaiv-Ukraine
+1054,27-06-2013,49,Distributor,USD,NXH382,51,5,10,3946.30,39463.00,3314.89,"Product 5",Dortmund,Germany,"Bare ",Dortmund-Germany
+1055,27-06-2013,26,Distributor,USD,AXW291,27,2,8,1118.90,8951.20,593.02,"Product 2",ZAGREB,Croatia,"Mylan Corp",ZAGREB-Croatia
+1056,27-06-2013,50,Distributor,USD,NXH382,50,11,5,2881.00,14405.00,1325.26,"Product 11",Rotterdam,Netherlands,"Sundial ",Rotterdam-Netherlands
+1057,27-06-2013,23,Export,USD,GUT930,38,7,12,2224.40,26692.80,1890.74,"Product 7",AMSTERDAM,Netherlands,"E. Ltd",AMSTERDAM-Netherlands
+1058,27-06-2013,39,Wholesale,USD,AXW291,30,10,6,1011.70,6070.20,586.79,"Product 10",Marseille,France,"Victory Ltd",Marseille-France
+1059,27-06-2013,16,Wholesale,USD,AXW291,4,1,11,167.50,1842.50,123.95,"Product 1",ROMA,Italy,"3LAB  Ltd",ROMA-Italy
+1060,27-06-2013,4,Wholesale,USD,AXW291,3,9,12,1139.00,13668.00,740.35,"Product 9",MADRID,Spain,"ETUDE Ltd",MADRID-Spain
+1061,27-06-2013,44,Wholesale,USD,AXW291,24,1,5,167.50,837.50,110.55,"Product 1",Odessa,Ukraine,"Winthrop ",Odessa-Ukraine
+1062,28-06-2013,29,Wholesale,USD,AXW291,28,1,8,864.30,6914.40,553.15,"Product 1",Zaporozhye,Ukraine,"Apotheca  Ltd",Zaporozhye-Ukraine
+1063,28-06-2013,44,Wholesale,USD,AXW291,25,7,12,2914.50,34974.00,2477.33,"Product 7","Koln (Cologne)",Germany,"Winthrop ","Koln (Cologne)-Germany"
+1064,28-06-2013,41,Distributor,USD,GUT930,42,1,5,5293.00,26465.00,2858.22,"Product 1",Palermo,Italy,"Weimei Corp",Palermo-Italy
+1065,28-06-2013,39,Export,USD,AXW291,12,11,6,924.60,5547.60,406.82,"Product 11","BEOGRAD (Belgrade)",Serbia,"Victory Ltd","BEOGRAD (Belgrade)-Serbia"
+1066,29-06-2013,47,Wholesale,USD,AXW291,29,1,6,884.40,5306.40,619.08,"Product 1",Lodz,Poland,"Niconovum Corp",Lodz-Poland
+1067,29-06-2013,3,Distributor,USD,AXW291,11,7,7,2458.90,17212.30,1819.59,"Product 7","WARSZAWA (Warsaw)",Poland,"Elorac  Corp","WARSZAWA (Warsaw)-Poland"
+1068,29-06-2013,42,Export,USD,FLR025,65,1,11,924.60,10170.60,656.47,"Product 1",OSLO,Norway,"Llorens Ltd",OSLO-Norway
+1069,29-06-2013,12,Wholesale,USD,AXW291,19,1,12,6344.90,76138.80,3235.90,"Product 1",SOFIA,Bulgaria,"Medline ",SOFIA-Bulgaria
+1070,29-06-2013,14,Distributor,USD,AXW291,4,11,5,3932.90,19664.50,2910.35,"Product 11",ROMA,Italy,"Linde ",ROMA-Italy
+1071,29-06-2013,3,Export,USD,NXH382,54,14,10,1112.20,11122.00,500.49,"Product 14",Poznan,Poland,"Elorac  Corp",Poznan-Poland
+1072,30-06-2013,46,Export,USD,NXH382,47,5,12,904.50,10854.00,370.85,"Product 5",Glasgow,UK,"U.S. Ltd",Glasgow-UK
+1073,30-06-2013,50,Wholesale,USD,AXW291,17,7,8,1165.80,9326.40,524.61,"Product 7","Munchen (Munich)",Germany,"Sundial ","Munchen (Munich)-Germany"
+1074,30-06-2013,14,Export,USD,NXH382,53,2,10,174.20,1742.00,116.71,"Product 2",VILNIUS,Lithuania,"Linde ",VILNIUS-Lithuania
+1075,30-06-2013,27,Wholesale,USD,NXH382,58,11,11,2378.50,26163.50,1379.53,"Product 11",Malaga,Spain,"Wuxi Group",Malaga-Spain
+1076,30-06-2013,18,Wholesale,USD,FLR025,65,11,9,1025.10,9225.90,850.83,"Product 11",OSLO,Norway,"Eminence Corp",OSLO-Norway
+1077,01-07-2013,11,Wholesale,USD,AXW291,18,7,8,3839.10,30712.80,2034.72,"Product 7","PRAHA (Prague)","Czech Republic","Apollo Ltd","PRAHA (Prague)-Czech Republic"
+1078,01-07-2013,11,Distributor,USD,AXW291,31,1,11,1031.80,11349.80,650.03,"Product 1",RIGA,Latvia,"Apollo Ltd",RIGA-Latvia
+1079,01-07-2013,7,Wholesale,USD,FLR025,61,7,11,1005.00,11055.00,623.10,"Product 7",SARAJEVO,Bosnia,"New Ltd",SARAJEVO-Bosnia
+1080,01-07-2013,31,Distributor,USD,FLR025,61,2,7,3886.00,27202.00,2215.02,"Product 2",SARAJEVO,Bosnia,"Uriel Group",SARAJEVO-Bosnia
+1081,01-07-2013,30,Distributor,USD,GUT930,34,1,12,1125.60,13507.20,574.06,"Product 1",Salonika,Greece,"S.S.S. Group",Salonika-Greece
+1082,01-07-2013,43,Distributor,USD,NXH382,59,12,7,3899.40,27295.80,1832.72,"Product 12",Bremen,Germany,"Exact-Rx  Corp",Bremen-Germany
+1083,01-07-2013,5,Export,USD,GUT930,38,13,6,1842.50,11055.00,976.53,"Product 13",AMSTERDAM,Netherlands,"Procter Corp",AMSTERDAM-Netherlands
+1084,02-07-2013,11,Distributor,USD,AXW291,28,7,7,201.00,1407.00,86.43,"Product 7",Zaporozhye,Ukraine,"Apollo Ltd",Zaporozhye-Ukraine
+1085,02-07-2013,32,Wholesale,USD,NXH382,55,1,11,1768.80,19456.80,707.52,"Product 1",Dusseldorf,Germany,"OHTA'S Corp",Dusseldorf-Germany
+1086,02-07-2013,24,Wholesale,USD,NXH382,48,5,5,5996.50,29982.50,3777.80,"Product 5",Zaragoza,Spain,"Burt's Corp",Zaragoza-Spain
+1087,03-07-2013,15,Export,USD,NXH382,60,14,10,2525.90,25259.00,1667.09,"Product 14",Sheffield,UK,"Rochester Ltd",Sheffield-UK
+1088,03-07-2013,42,Distributor,USD,AXW291,11,7,12,1005.00,12060.00,562.80,"Product 7","WARSZAWA (Warsaw)",Poland,"Llorens Ltd","WARSZAWA (Warsaw)-Poland"
+1089,03-07-2013,16,Wholesale,USD,NXH382,52,1,7,944.70,6612.90,377.88,"Product 1",Stuttgart,Germany,"3LAB  Ltd",Stuttgart-Germany
+1090,03-07-2013,49,Export,USD,GUT930,44,11,10,1681.70,16817.00,924.94,"Product 11",Genova,Italy,"Bare ",Genova-Italy
+1091,03-07-2013,20,Wholesale,USD,FLR025,61,1,5,180.90,904.50,151.96,"Product 1",SARAJEVO,Bosnia,"Pacific Ltd",SARAJEVO-Bosnia
+1092,03-07-2013,40,Wholesale,USD,NXH382,56,1,10,1896.10,18961.00,1592.72,"Product 1","LISBOA (Lisbon)",Portugal,"Select ","LISBOA (Lisbon)-Portugal"
+1093,03-07-2013,41,Wholesale,USD,NXH382,52,7,12,804.00,9648.00,410.04,"Product 7",Stuttgart,Germany,"Weimei Corp",Stuttgart-Germany
+1094,04-07-2013,31,Wholesale,USD,NXH382,52,13,7,1112.20,7785.40,778.54,"Product 13",Stuttgart,Germany,"Uriel Group",Stuttgart-Germany
+1095,04-07-2013,18,Wholesale,USD,GUT930,32,2,7,971.50,6800.50,437.18,"Product 2",Lvov,Ukraine,"Eminence Corp",Lvov-Ukraine
+1096,04-07-2013,30,Export,USD,NXH382,49,11,11,2465.60,27121.60,1380.74,"Product 11",Essen,Germany,"S.S.S. Group",Essen-Germany
+1097,04-07-2013,34,Wholesale,USD,GUT930,38,2,6,2659.90,15959.40,1915.13,"Product 2",AMSTERDAM,Netherlands,"OUR Ltd",AMSTERDAM-Netherlands
+1098,04-07-2013,30,Wholesale,USD,AXW291,11,13,11,1675.00,18425.00,1155.75,"Product 13","WARSZAWA (Warsaw)",Poland,"S.S.S. Group","WARSZAWA (Warsaw)-Poland"
+1099,04-07-2013,3,Wholesale,USD,AXW291,21,7,8,6150.60,49204.80,3505.84,"Product 7",Donetsk,Ukraine,"Elorac  Corp",Donetsk-Ukraine
+1100,04-07-2013,43,Distributor,USD,GUT930,31,9,12,5306.40,63676.80,2387.88,"Product 9",RIGA,Latvia,"Exact-Rx  Corp",RIGA-Latvia
